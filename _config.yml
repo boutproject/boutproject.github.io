@@ -1,3 +1,7 @@
+base_url:
+domain:
+res_base_url: resources
+
 markdown: redcarpet
 
 
