@@ -1,0 +1,19 @@
+<div id="nav-container">
+<ul id="nav">
+{% if page.nav-state == 'index' %}
+	<li class="current-page">Description</li>
+{% else %}
+	<li><a href="{{ page.prefix }}index.html">Description</a></li>
+{% endif %}
+{% if page.nav-state == 'schedule' %}
+	<li class="current-page">Schedule &amp; Notes</li>
+{% else %}
+	<li><a href="{{ page.prefix }}schedule.html">Schedule &amp; Notes</a></li>
+{% endif %}
+{% if page.nav-state == 'install' %}
+	<li class="current-page">Installation Instructions</li>
+{% else %}
+	<li><a href="{{ page.prefix }}install.html">Installation Instructions</a></li>
+{% endif %}
+</ul>
+</div>

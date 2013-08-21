@@ -1,5 +1,7 @@
 ---
-title: BOUT++ project page
+layout: default
+title: BOUT++ project
+nav-state: index
 ---
 
 # What is BOUT++?
