@@ -1,0 +1,10 @@
+base_url: 
+domain: 
+res_base_url: resources
+pygments: true
+markdown: kramdown
+
+course_number: MTEC 1002
+course_name: Media Tech Skills Lab 2
+course_semester: Spring 2013
+
