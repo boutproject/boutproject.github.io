@@ -83,8 +83,8 @@ li img {
 }
 
 #bd h1 {
-	color:#057;
-	text-decoration: underline;
+        color:#222222;
+        font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
 	font-size: 1.75em;
 }
 
