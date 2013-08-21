@@ -18,6 +18,7 @@ nav-state: index
 
 BOUT++ is developed by LLNL, University of York (UK) and other U.S. and international partners.
 The core development team currently consists of:
+
 * Ben Dudson, University of York, UK
 * Ilon Joseph, Lawrence Livermore National Laboratory, USA
 * Maxim Umansky, Lawrence Livermore National Laboratory, USA
