@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Recent changes and improvements
+nav-state: changes
 ---
 
 # Recent changes and improvements

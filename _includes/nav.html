@@ -1,19 +1,22 @@
 <div id="nav-container">
 <ul id="nav">
+
 {% if page.nav-state == 'index' %}
-	<li class="current-page">Description</li>
+	<li class="current-page">About</li>
 {% else %}
-	<li><a href="{{ page.prefix }}index.html">Description</a></li>
+	<li><a href="{{ page.prefix }}index.html">About</a></li>
 {% endif %}
-{% if page.nav-state == 'schedule' %}
-	<li class="current-page">Schedule &amp; Notes</li>
+
+{% if page.nav-state == 'changes' %}
+	<li class="current-page">Recent changes/li>
 {% else %}
-	<li><a href="{{ page.prefix }}schedule.html">Schedule &amp; Notes</a></li>
+	<li><a href="{{ page.prefix }}changes.html">Recent changes</a></li>
 {% endif %}
-{% if page.nav-state == 'install' %}
-	<li class="current-page">Installation Instructions</li>
+
+{% if page.nav-state == 'doc' %}
+	<li class="current-page">Documentation</li>
 {% else %}
-	<li><a href="{{ page.prefix }}install.html">Installation Instructions</a></li>
+	<li><a href="{{ page.prefix }}doc.html">Documentation</a></li>
 {% endif %}
 </ul>
 </div>
