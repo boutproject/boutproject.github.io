@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+	<title>{{ page.title }}</title> 
+	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="{{ page.prefix }}{{ site.res_base_url }}/css/screen.css">
+	<script src="{{ page.prefix }}{{ site.res_base_url }}/js/jquery-1.6.3.min.js"></script>
+	<script src="{{ page.prefix }}{{ site.res_base_url }}/js/persistent-nav.js"></script>
+
+</head>
+<body>
+<div id="hd">
+<h1>BOUT++ project</h1>
+<h2>Plasma simulation in curvilinear coordinates</h2>
+{% if page.chrome != 0 %}
+	{% include nav.html %}
+{% endif %}
+</div>
+<div id="bd">
+<div id="content">
+	{{ content }}
+</div>
+</div>
+
+</div>
+</body>
+</html>
