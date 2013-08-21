@@ -14,15 +14,22 @@ nav-state: index
 * Primarily designed and tested with reduced plasma fluid models in mind
 * Jointly developed by LLNL, University of York (UK) and other U.S. and international partners
 
-# Getting BOUT++
+# Contributors
 
-BOUT++ is open source under the Lesser General Public License (LGPL), and is available on github.
-Several versions are available, and can be downloaded as a Zip file or using Git.
+BOUT++ is developed by LLNL, University of York (UK) and other U.S. and international partners.
+The core development team currently consists of:
+* Ben Dudson, University of York, UK
+* Ilon Joseph, Lawrence Livermore National Laboratory, USA
+* Maxim Umansky, Lawrence Livermore National Laboratory, USA
+* Xueqiao Xu, Lawrence Livermore National Laboratory, USA
+* ...
 
-* The latest development version is [Here](https://github.com/boutproject/BOUT). 
+Many others have contributed to the development of BOUT++, including
 
-# Using BOUT++
-
-# Contributing to BOUT++
-
+* James Buchanan
+* Sean Farley
+* Chenhao Ma
+* John Omotani
+* Tianyang Xia
+* ...
 

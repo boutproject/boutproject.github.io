@@ -18,5 +18,11 @@
 {% else %}
 	<li><a href="{{ page.prefix }}doc.html">Documentation</a></li>
 {% endif %}
+
+{% if page.nav-state == 'doc' %}
+        <li class="current-page">Download</li>
+{% else %}
+        <li><a href="{{ page.prefix }}download.html">Download</a></li>
+{% endif %}
 </ul>
 </div>
