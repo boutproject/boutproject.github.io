@@ -22,6 +22,11 @@ The slides for (almost) all presentations are available on the workshop websites
 * [2013 workshop, LLNL](https://bout2013.llnl.gov/) 
 * [2011 workshop, LLNL](https://bout2011.llnl.gov/)
 
+# This website
+
+The source for this website is located on github [here](https://github.com/boutproject/boutproject.github.io). If you would like to
+contribute to these pages please contact [one of the developers](mailto:benjamin.dudson@york.ac.uk).
+
 # Other useful links
 
 * [BOUT++ project at LLNL](https://bout.llnl.gov/)
