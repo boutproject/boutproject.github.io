@@ -20,11 +20,12 @@ they can be added to the [changes](changes.html) page, along with suitable attri
 # Core library vs. Physics models / examples
 
 BOUT++ is divided into a number of components, broadly divided into:
+
 1. A core library, with source code under *src*
 2. Examples, test cases, and physics models, some of which are under *examples*
 3. Tools for pre- and post-processing
 
-The BOUT and BOUT-dev repositories should only contain code which is useful for a wide
+The [BOUT](https://github.com/boutproject/BOUT) and [BOUT-dev](https://github.com/boutproject/BOUT-dev) repositories should only contain code which is useful for a wide
 range of users, and should **never** contain large binary files: It should rarely be necessary
 to add anything over 1Mb, and never any file over 10Mb in size. Larger physics models, test cases, 
 and tools should be stored in separate repositories. These can be created on the [boutproject](https://github.com/boutproject/)
