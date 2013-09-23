@@ -26,6 +26,7 @@ The slides for (almost) all presentations are available on the workshop websites
 
 The source for this website is located on github [here](https://github.com/boutproject/boutproject.github.io). If you would like to
 contribute to these pages please contact [one of the developers](mailto:benjamin.dudson@york.ac.uk).
+Most of the pages are written using [Markdown](http://daringfireball.net/projects/markdown/syntax).
 
 # Other useful links
 

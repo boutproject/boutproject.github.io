@@ -27,7 +27,7 @@ BOUT++ is divided into a number of components, broadly divided into:
 The BOUT and BOUT-dev repositories should only contain code which is useful for a wide
 range of users, and should **never** contain large binary files: It should rarely be necessary
 to add anything over 1Mb, and never any file over 10Mb in size. Larger physics models, test cases, 
-and tools should be stored in separate repositories. These can be created on the *boutproject*
+and tools should be stored in separate repositories. These can be created on the [boutproject](https://github.com/boutproject/)
 page by the maintainers.
 
 # Development workflow using Git
@@ -45,9 +45,11 @@ have been tested, features can be merged into master, and eventually into releas
 
 The work flow is illustrated below. New features start from **master** until they are 
 considered complete. They are then merged into **next**, tested, fixed if needed, then merged into **master**.
+
 ![BOUT++ workflow](images/workflow.png "BOUT++ workflow")
 
 A typical work flow to create a new feature or bug fix would follow these steps:
+
 1. Create a new branch
 2. (Optional) Push it to github to share and for backup
 3. Make changes, commits
@@ -62,6 +64,7 @@ First get a copy of the [BOUT-dev](https://github.com/boutproject/BOUT-dev) repo
 
 Create a new branch **myfeature**, branching from **master**. Choose a descriptive name for
 **myfeature**, anything except "master" or "next". 
+
     git checkout master
     git pull
     git checkout -b myfeature     ## Switched to a new branch "myfeature"
@@ -69,7 +72,9 @@ Create a new branch **myfeature**, branching from **master**. Choose a descripti
 ## Pushing to github
 
 If you want to push your branch to BOUT-dev to share with other developers, run:
+
     git push -u origin myfeature
+
 This command pushes **myfeature** to the central BOUT-dev repository (origin), 
 and the -u flag adds it as a remote tracking branch. 
 After setting up the tracking branch, you can call "git push" without any parameters to
@@ -77,6 +82,7 @@ push updates to **myfeature**.
 
 If another developer wants to try out this branch, they should clone the BOUT-dev repository
 (or update an existing one), then run
+
     git checkout -b myfeature origin/myfeature
 
 *Note* If you do not have write access to the BOUT-dev repository, you can develop in your
@@ -85,12 +91,14 @@ own fork and then send a pull request to someone with write access.
 ## Making changes, commits
 
 Now you would make changes, commit changes and push as usual:
+
     ... make changes ...
     git add <files>
     git commit
     git push   # Pushes to origin/myfeature
 
 You can switch between branches using *checkout*:
+
     git checkout master    # Switch to "master"
     git checkout myfeature # Switch to "myfeature"
 
@@ -121,6 +129,7 @@ this will occur every month. Once it is agreed that **master** should be updated
 (currently B.Dudson) will merge changes into **master**.
 
 To see what changes will be introduced by **next**, use git log:
+
     git log master..next
 
 # Issues
