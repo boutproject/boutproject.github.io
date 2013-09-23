@@ -30,6 +30,26 @@ to add anything over 1Mb, and never any file over 10Mb in size. Larger physics m
 and tools should be stored in separate repositories. These can be created on the [boutproject](https://github.com/boutproject/)
 page by the maintainers.
 
+To work with separate repositories, you just need to specify where the BOUT++ directory is.
+For example, 
+
+    git clone git@github.com:boutproject/BOUT-dev.git
+    git clone git@github.com:boutproject/examples.git
+
+This creates two directories:
+
+* **BOUT-dev**, which contains the BOUT++ library
+* **examples**, which contains a set of physics model examples, but no library code
+
+After compiling BOUT++, the examples can now be compiled. For example:
+
+    cd examples/6field-simple
+    make BOUT_TOP=../../BOUT-dev
+
+The `BOUT_TOP` setting specifies where to find the BOUT++ directory containing a `make.config` file.
+This allows users to develop their own models and applications independently, whilst keeping up to date
+with changes to the core library.
+
 # Development workflow using Git
 
 Some useful discussion of working with git branches, on which this is based, are
