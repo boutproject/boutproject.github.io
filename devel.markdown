@@ -32,6 +32,10 @@ page by the maintainers.
 
 # Development workflow using Git
 
+Some useful discussion of working with git branches, on which this is based, are
+[here](http://www.mail-archive.com/fenics@lists.launchpad.net/msg01396.html), 
+[here](http://nvie.com/posts/a-successful-git-branching-model/) and [here](https://www.atlassian.com/git/workflows#!workflow-gitflow).
+
 The BOUT++ work flow uses three branches: **release**, **master**, and **next**.
 
 **release** is stored in the [BOUT](https://github.com/boutproject/BOUT) repository 
