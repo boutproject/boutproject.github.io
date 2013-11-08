@@ -47,14 +47,14 @@ improved capabilities. It's divided into:
 
 ## Features in BOUT-dev next branch
 
- | Name    | Short Description |  Author(s) |   Commit   |
- | ------- | ----------------- | ---------- |            |
- | netcdf4 | NetCDF C API      | Ben Dudson | 2c8508cfad |
+    | Name    | Short Description |  Author(s) |   Commit   |
+    | ------- | ----------------- | ---------- |            |
+    | netcdf4 | NetCDF C API      | Ben Dudson | 2c8508cfad |
 
 ## Feature branches under development
 
- |    Name    |           Short Description          |  Author(s)  |
- | ---------- |:------------------------------------:|:-----------:|
- | python3    | Python 3 compatibility               | Ben Dudson  |
- | runscripts | bout-config scripts for build config | Ben Dudson  |
+    |    Name    |           Short Description          |  Author(s)  |
+    | ---------- |:------------------------------------:|:-----------:|
+    | python3    | Python 3 compatibility               | Ben Dudson  |
+    | runscripts | bout-config scripts for build config | Ben Dudson  |
 
