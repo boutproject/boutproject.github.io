@@ -8,6 +8,7 @@ nav-state: changes
 
 This page lists recent updates to the code, including important bug-fixes, and
 improved capabilities. It's divided into:
+
 * Features which are considered reasonably stable which are in BOUT-dev master
 * Complete but experimental features which are in BOUT-dev next
 * Features which are currently under development in their own separate branches
@@ -46,13 +47,14 @@ improved capabilities. It's divided into:
 
 ## Features in BOUT-dev next branch
 
-| Name    | Short Description |  Author(s) |   Commit   |
-| ------- | ----------------- | ---------- |            |
-| netcdf4 | NetCDF C API      | Ben Dudson | 2c8508cfad |
+ | Name    | Short Description |  Author(s) |   Commit   |
+ | ------- | ----------------- | ---------- |            |
+ | netcdf4 | NetCDF C API      | Ben Dudson | 2c8508cfad |
 
 ## Feature branches under development
 
-|    Name    |           Short Description          |  Author(s)  |
-| ---------- |:------------------------------------:|:-----------:|
-| python3    | Python 3 compatibility               | Ben Dudson  |
-| runscripts | bout-config scripts for build config | Ben Dudson  |
+ |    Name    |           Short Description          |  Author(s)  |
+ | ---------- |:------------------------------------:|:-----------:|
+ | python3    | Python 3 compatibility               | Ben Dudson  |
+ | runscripts | bout-config scripts for build config | Ben Dudson  |
+
