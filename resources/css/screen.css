@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-	background-color:#000;
+	background-color:#fff;
 	color:#000;
 }
 
@@ -21,9 +21,9 @@ li img {
 
 #hd {
 	padding:5px 0px 0px 0px;
-	background-color:#000;
+	background-color:#fff;
 	text-align:center;
-	color: #fff;
+	color: #000;
 	width:100%
 	top:0px;
 	left:0px;
