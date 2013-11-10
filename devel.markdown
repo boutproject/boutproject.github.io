@@ -55,7 +55,11 @@ with changes to the core library.
 
 Some useful discussion of working with git branches, on which this is based, are
 [here](http://www.mail-archive.com/fenics@lists.launchpad.net/msg01396.html), 
-[here](http://nvie.com/posts/a-successful-git-branching-model/) and [here](https://www.atlassian.com/git/workflows#!workflow-gitflow).
+[here](http://nvie.com/posts/a-successful-git-branching-model/) and [here](https://www.atlassian.com/git/workflows#!workflow-gitflow). The system adopted by BOUT++ is essentially the same as that used by
+PETSc, a summary of which can be found here:
+
+* [Developer instructions for PETsc](https://bitbucket.org/petsc/petsc/wiki/developer-instructions-git)
+* [Quick summary of Git commands for PETSc developers](https://bitbucket.org/petsc/petsc/wiki/quick-dev-git)
 
 The BOUT++ work flow uses three branches: **release**, **master**, and **next**.
 
