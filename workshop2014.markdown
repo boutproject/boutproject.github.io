@@ -1,0 +1,41 @@
+---
+layout: default
+title: Workshop 2014
+nav-state: doc
+---
+
+Date: 15th-16th September 2014
+
+Location: Fusion Learning Studio, York Plasma Institute, University of York, UK YO10 5DQ
+
+# Agenda
+
+## Monday 15th September 2014
+
+* 10:00 am - [Arrival, coffee](workshop2014/welcome.pdf)
+* 10:30 am - Introduction and overview of BOUT++ (Ben Dudson)
+* 11:00 am - Edge modelling at CCFE (John Omotani)
+* 11:30 am - Edge modelling at DTU (Jens Madsen / Michael Loiten)
+* 12:00 am - The Flux Coordinate Independent method (Peter Hill)
+* 12:30 pm - Lunch and posters
+* 2:00 pm - Hands on running examples (Ben Dudson)
+* 3:00 pm - ELM simulations (BD)
+* 4:00 pm - Coffee break
+* 4:30 pm - Blob simulations (NW / BS)
+* 5:30 Finish
+
+Evening: Dinner Melton's Too, Walmgate. Starts 7:00pm.
+
+## Tuesday 16th September 2014
+
+* 09:30 am – BOUT++ code layout and patterns (Ben Dudson)
+* 10:00 am – Electromagnetic solvers in 2D and 3D (Ben Dudson)
+* 10:30 am – Coffee break
+* 11:00 am – TBC
+* 11:30 am – Using SLEPSc for eigenvalue calculations (David Dickinson)
+* 12:00 am – Neutral gas and coupling of EIRENE to BOUT++ (Samad Mekkaoui / BD)
+* 12:30 pm – Lunch and posters
+* 2:00 pm – Testing and verification (BD / Michael / John)
+* 2:30 pm – Visualisation using Mayavi and VisIt (JO)
+* 3:00 pm – Coffee, discussion
+* 4:00 pm - Finish
