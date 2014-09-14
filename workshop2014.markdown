@@ -33,7 +33,7 @@ Evening: Dinner Melton's Too, Walmgate. Starts 7:00pm.
 * 10:30 am – Coffee break
 * 11:00 am – Validating DIVIMP using carbon injection on MAST (Huw Leggate)
 * 11:30 am – Using SLEPSc for eigenvalue calculations (David Dickinson)
-* 12:00 am – Neutral gas modelling (Discussion)
+* 12:00 am – [Neutral gas modelling](workshop2014/neutrals.pdf) (Ben Dudson)
 * 12:30 pm – Lunch and posters
 * 2:00 pm – [Testing and verification](workshop2014/testing.pdf) (Ben Dudson)
 * 2:30 pm – Visualisation using Mayavi and VisIt (JO)
