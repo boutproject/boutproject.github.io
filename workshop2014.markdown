@@ -33,9 +33,18 @@ Evening: Dinner Melton's Too, Walmgate. Starts 7:00pm.
 * 10:30 am – Coffee break
 * 11:00 am – Validating DIVIMP using carbon injection on MAST (Huw Leggate)
 * 11:30 am – Using SLEPSc for eigenvalue calculations (David Dickinson)
-* 12:00 am – Neutral gas and coupling of EIRENE to BOUT++ (Samad Mekkaoui / BD)
+* 12:00 am – Neutral gas modelling (Discussion)
 * 12:30 pm – Lunch and posters
 * 2:00 pm – [Testing and verification](workshop2014/testing.pdf) (Ben Dudson)
 * 2:30 pm – Visualisation using Mayavi and VisIt (JO)
 * 3:00 pm – Coffee, discussion
 * 4:00 pm - Finish
+
+# Links
+
+Downloads:
+* [BOUT++ github page](https://github.com/boutproject/BOUT)
+* [NetCDF 4.1.3](http://www.unidata.ucar.edu/downloads/netcdf/netcdf-4_1_3/index.jsp)
+* [FFTW](http://www.fftw.org/download.html)
+* [SUNDIALS (CVODE/IDA)](http://computation.llnl.gov/casc/sundials/download/download.html)
+
