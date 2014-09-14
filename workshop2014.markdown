@@ -49,3 +49,6 @@ Downloads:
 * [FFTW](http://www.fftw.org/download.html)
 * [SUNDIALS (CVODE/IDA)](http://computation.llnl.gov/casc/sundials/download/download.html)
 
+Tools:
+
+* [Git Source Code Management](http://git-scm.com)
