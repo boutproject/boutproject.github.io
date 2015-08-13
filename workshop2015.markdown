@@ -4,15 +4,15 @@ title: Workshop 2015
 nav-state: doc
 ---
 
-Date: 14th-16th September 2015
+# Date: 14th-16th September 2015
 
-Location: Fusion Learning Studio, University of York, UK YO10 5DQ
+# Location: Fusion Learning Studio, University of York, UK YO10 5DQ
 
 # Draft agenda
 
-# Monday 14th
+## Monday 14th
 
-## Session 1 (Introduction)
+### Session 1 (Introduction)
 
 * 12:30  Arrival and coffee
 * 1:00 pm  Welcome    (Ben Dudson)
@@ -21,18 +21,18 @@ Location: Fusion Learning Studio, University of York, UK YO10 5DQ
 * 2:30 pm  Hands on: Basic Git use and downloading, updating BOUT++ and running examples (Peter Hill?) 
 * 3:00 : Coffee
 
-## Session 2: 
+### Session 2: 
 
 * 3:30 : Basic code layout and structure (Ben Dudson?)
 * 4:00 : 
 * 4:30 : Hands-on Python data analysis tools (TBC)
 * 5:30 Finish
 
-## Evening: Workshop dinner
+### Evening: Workshop dinner
 
-# Tuesday 15th September
+## Tuesday 15th September
 
-## Session 3: Blob and edge turbulence models
+### Session 3: Blob and edge turbulence models
 
 * 9:00 : 3D blob simulations (Luke Easy)
 * 9:30 : Gyro-fluid model development, benchmarking with GS2 (David Dickinson)
@@ -41,7 +41,7 @@ Location: Fusion Learning Studio, University of York, UK YO10 5DQ
 * 11:00  Hands-on session: Mesh generation (Ben Dudson)
 * 12:00  Lunch and posters
 
-## Session 4: Neutrals and divertor modelling
+### Session 4: Neutrals and divertor modelling
 
 * 1:30 Edge modelling with EDGE2D and EIRENE (D.Moulton, remote, TBC)
 * 2:00 Divertor modelling with DTURB (Nick Walkden)
@@ -49,15 +49,15 @@ Location: Fusion Learning Studio, University of York, UK YO10 5DQ
 * 3:00 Neutral gas modelling with EIRENE (Samad Mekkaoui)
 * 3:30 Coffee break
 
-## Session 5:  Eigenvalue solvers
+### Session 5:  Eigenvalue solvers
 
 * 4:00  Using SLEPc for eigenvalue problems (DD or BD)
 * 4:30  Hands-on : Setting up a new set of equations and finding eigenvalues (DD / BD)
 * 5:30  Finish 
 
-# Wednesday 16th September
+## Wednesday 16th September
 
-## Session 4: Internals and advanced use
+### Session 4: Internals and advanced use
 
 * 9:00 : Time steppers (Nick Walkden)
 * 9:30 : Preconditioning (Ben Dudson)
