@@ -57,7 +57,7 @@ nav-state: doc
 
 ## Wednesday 16th September
 
-### Session 4: Internals and advanced use
+### Session 6: Internals and advanced use
 
 * 9:00 : Time steppers (Nick Walkden)
 * 9:30 : Preconditioning (Ben Dudson)
