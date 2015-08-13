@@ -18,13 +18,13 @@ nav-state: doc
 * 1:00 pm  Welcome    (Ben Dudson)
 * 1:10 pm  Introduction and overview (Ben Dudson)
 * 1:45 pm  Overview of edge and divertor modelling at CCFE (Nick Walkden)
-* 2:30 pm  Hands on: Basic Git use and downloading, updating BOUT++ and running examples (Peter Hill?) 
+* 2:30 pm  Linear plasma device experiment at York (Kieran Gibson / Hannah Willett)
 * 3:00 : Coffee
 
 ### Session 2: 
 
-* 3:30 : Basic code layout and structure (Ben Dudson?)
-* 4:00 : 
+* 3:30 : Hands on: Basic Git use and downloading, updating BOUT++ and running examples (Peter Hill?)
+* 4:00 : Basic code layout and structure (Ben Dudson?)
 * 4:30 : Hands-on Python data analysis tools (TBC)
 * 5:30 Finish
 
