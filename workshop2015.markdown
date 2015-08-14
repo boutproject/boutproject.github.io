@@ -23,7 +23,7 @@ nav-state: doc
 
 ### Session 2: 
 
-* 3:30 : Hands on: Basic Git use and downloading, updating BOUT++ and running examples (Peter Hill?)
+* 3:30 : Hands on: Basic Git use and downloading, updating BOUT++ and running examples (Peter Hill)
 * 4:00 : Basic code layout and structure (Ben Dudson?)
 * 4:30 : Hands-on Python data analysis tools (TBC)
 * 5:30 Finish
@@ -43,10 +43,10 @@ nav-state: doc
 
 ### Session 4: Neutrals and divertor modelling
 
-* 1:30 Edge modelling with EDGE2D and EIRENE (D.Moulton, remote, TBC)
+* 1:30 Edge modelling with EDGE2D and EIRENE (D.Moulton, remote)
 * 2:00 Divertor modelling with DTURB (Nick Walkden)
 * 2:30 Non-orthogonal meshes for divertor modelling (Jarrod Leddy)
-* 3:00 Neutral gas modelling with EIRENE (Samad Mekkaoui)
+* 3:00 
 * 3:30 Coffee break
 
 ### Session 5:  Eigenvalue solvers
@@ -59,13 +59,13 @@ nav-state: doc
 
 ### Session 6: Internals and advanced use
 
-* 9:00 : Time steppers (Nick Walkden)
-* 9:30 : Preconditioning (Ben Dudson)
-* 10:00 : Field solvers and improvements (TBC)
-* 11:30 : Discussion: time step limitations and solutions (BD/NRW/TBC)
-* 11:00 : Coffee
-* 11:30 : Changes to internal BOUT++ code structure (BD)
-* 12:00:  Hands-on session: Proper use of Git for version control  (Peter Hill)
+* 9:00 :  Neutral gas modelling with EIRENE (Samad Mekkaoui)
+* 9:30 :  Time steppers (Nick Walkden)
+* 10:00 : Discussion: time step limitations and solutions (BD/NRW/TBC)
+* 10:30 : Coffee
+* 11:00 : Hands-on session: Proper use of Git for version control  (Peter Hill)
+* 11:30 : 
+* 12:00:  
 * 12:30 Finish
 
 # Attendees
