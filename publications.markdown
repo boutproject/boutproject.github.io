@@ -6,6 +6,17 @@ nav-state: publications
 
 # Publications
 
+
+* L Easy,  F Militello, J Omotani, B Dudson, E Havlickova, P Tamain, V Naulin, A H Nielsen [3D Simulations of Plasma Filaments in the Scrape Off Layer: A Comparison with Models of Reduced Dimensionality](http://dx.doi.org/10.1063/1.4904207) Phys. Plasmas 21, 122515 (2014). [arXiv preprint](http://arxiv.org/abs/1410.2137)
+* D Meyerson, C Michoski, F Waelbroeck, W Horton [Effect of chaos on plasma filament dynamics and turbulence in the scrape-off layer](http://dx.doi.org/10.1063/1.4890349) Phys. Plasmas 21, 072310 (2014)
+* B D Dudson, A.Allen, G.Breyiannis, E.Brugger, J.Buchanan, L.Easy, S.Farley, I.Joseph, M. Kim, A.D.McGann, J.T.Omotani, M.V.Umansky, N.R.Walkden, T.Xia, X.Q.Xu [BOUT++: Recent and current developments](http://dx.doi.org/10.1017/S0022377814000816) Journal of Plasma Physics 2014. [arXiv preprint](http://arxiv.org/abs/1405.7905)
+* J T Omotani, B D Dudson, E Havlickova, M Umansky [Non-local parallel transport in BOUT++](http://www.sciencedirect.com/science/article/pii/S0022311514007247) in press Journal of Nuclear Materials 2014 [doi:10.1016/j.jnucmat.2014.10.040](http://dx.doi.org/10.1016/j.jnucmat.2014.10.040). [Preprint here](http://arxiv.org/abs/1405.6236).
+* J F Ma, X Q Xu, B D Dudson "Linear peeling-ballooning mode simulations in snowflake-like divertor configuration using BOUT++ code" Nucl. Fusion 54 (2014) 033011
+* S A Myers, B D Dudson, H R Wilson "Nonlinear MHD simulations of the gravitational ballooning mode close to marginal stability" Accepted in Plasma Phys. Control. Fusion (2013)
+* N R Walkden, B D Dudson, G Fishpool [Characterization of 3D filament dynamics in a MAST SOL flux tube geometry](http://dx.doi.org/10.1088/0741-3335/55/10/105005). Plasma Phys. Control. Fusion 55 (2013) 105005. Also available as an [arXiv  preprint](http://arxiv.org/abs/1307.5234).
+* D R Smith, S E Parker, W Wan, Y Chen, B D Dudson, R J Fonck, G R McKee, S M Kaye, D S Thompson, R E Bell, A Diallo, W Guttenfelder, B P LeBlanc, M Podesta "Measurements and simulations of low wavenumber pedestal turbulence in the National Spherical Torus Experiment" [Nuclear Fusion 53 (2013) 113029](http://stacks.iop.org/0029-5515/53/113029)
+* X Xu, P W Xi, A Dimits, I Joseph, M V Umansky, T Y Xia, B Gui, S S Kim, G Y Park, T Rhee, H Jhang, P H Diamond, B Dudson, P B Snyder "Gyro-fluid and two-fluid theory and simulations of edge-localized-modes". Phys. Plasmas 20 (2013) 056113
+* J T Omotani, B D Dudson [Non-local approach to kinetic effects on parallel transport in fluid models of the scrape-off layer](http://iopscience.iop.org/0741-3335/55/5/055009/). Plasma Phys. Control. Fusion **55** (2013) 055009. Preprint arXiv [plasm-phys/1302.0676](http://arxiv.org/abs/1302.0676)
 * P W Xi, X Q Xu, X G Wang, and T Y Xia [Influence of equilibrium shear flow on peeling-ballooning instability and edge localised mode crash](http://link.aip.org/link/doi/10.1063/1.4751256). Phys. Plasmas 19, 092503 (2012)
 * B Dudson, S Farley, L Curfmann McInnes [Improved Nonlinear Solvers in BOUT++](http://arxiv.org/abs/1209.2054). Submitted to Computer Physics Communications August 2012. Preprint arXiv [plasm-phys/1209.2054](http://arxiv.org/abs/1209.2054), report [ANL/MCS-P3025-0812](http://www.mcs.anl.gov/publications/paper_detail.php?id=2077)
 * B Friedman, M V Umansky, T A Carter [Grid Convergence Study in a Simulation of LAPD Turbulence](http://onlinelibrary.wiley.com/doi/10.1002/ctpp.201210025/abstract) Contrib. Plasma Phys., 52: 412%Gâ%@416 (2012)
