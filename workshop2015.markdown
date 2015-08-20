@@ -6,11 +6,13 @@ nav-state: doc
 
 # BOUT++ workshop 2015
 
-*Date*: 14th-16th September 2015
+**Date**: 14th-16th September 2015
 
-*Location*: Fusion Learning Studio, University of York, UK YO10 5DQ
+**Location**: Fusion Learning Studio, University of York, UK YO10 5DQ
 
 The aim of this workshop is (1) to prepare researchers to use and further develop the BOUT++ code for edge turbulence, transport, and ELM simulations of magnetic fusion devices; and (2) to promote effective collaboration within the BOUT++ community and beyond.
+
+**Registration**: Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk)
 
 # Draft agenda
 
