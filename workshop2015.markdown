@@ -21,6 +21,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * [Accommodation](#accommodation)
 * [Links](#links)
 
+<a name="draftagenda"/>
 # Draft agenda
 
 ## Monday 14th
@@ -81,6 +82,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 11:30 : Simulation of merging plasmas (Philippa Browning, TBC)
 * 12:30 : Lunch and Finish
 
+<a name="attendees"/>
 # Attendees
 
 * Ben Dudson, University of York
@@ -96,6 +98,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * Nick Walkden, CCFE
 * Xinliang Xu, University of York
 
+<a name="accommodation"/>
 # Accommodation
 
 The University of York has accommodation available, which can be booked through [University Rooms](http://www.universityrooms.com/en/city/york/college/franklinyork). Franklin House is close to the workshop venue (B&B single room £52.80, double £90 per night),
@@ -107,6 +110,7 @@ whilst James College is a short walk away (single ensuite £34.50). In addition 
 
 More information about hotels in the area can be found on [York's tourist information website](http://www.visityork.org/accommodation/).
 
+<a name="links"/>
 # Links
 
 Downloads:
