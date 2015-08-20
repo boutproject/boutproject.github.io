@@ -10,9 +10,11 @@ nav-state: doc
 
 **Location**: Fusion Learning Studio, University of York, UK YO10 5DQ
 
+The BOUT++ code is a flexible tool for the simulation of plasma fluid equations, primarily focussed on tokamak edge simulations. This workshop will combine hands-on training in using BOUT++ with lectures on tokamak edge physics, numerical simulation techniques, and related topics. All those with an interest in using BOUT++ or in tokamak edge simulation, are invited to attend. There is no fee.
+
 The aim of this workshop is (1) to prepare researchers to use and further develop the BOUT++ code for edge turbulence, transport, and ELM simulations of magnetic fusion devices; and (2) to promote effective collaboration within the BOUT++ community and beyond.
 
-**Registration**: Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk)
+**Registration**: Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk) by August 31st.
 
 # Draft agenda
 
@@ -72,7 +74,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 10:30 : Coffee
 * 11:00 : TBC
 * 11:30 : Simulation of merging plasmas (Philippa Browning, TBC)
-* 12:00 : Finish
+* 12:30 : Lunch and Finish
 
 # Attendees
 
