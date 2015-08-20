@@ -71,7 +71,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 10:00 : Discussion: time step limitations and solutions (BD/NRW)
 * 10:30 : Coffee
 * 11:00 : TBC
-* 11:30 : Simulation of merging plasmas (Phillipa Browning, TBC)
+* 11:30 : Simulation of merging plasmas (Philippa Browning, TBC)
 * 12:00 : Finish
 
 # Attendees
