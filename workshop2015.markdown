@@ -16,6 +16,11 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 **Registration**: Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk) by August 31st.
 
+* [Agenda](#draftagenda)
+* [Attendees](#attendees)
+* [Accommodation](#accommodation)
+* [Links](#links)
+
 # Draft agenda
 
 ## Monday 14th
@@ -91,6 +96,17 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * Nick Walkden, CCFE
 * Xinliang Xu, University of York
 
+# Accommodation
+
+The University of York has accommodation available, which can be booked through [University Rooms](http://www.universityrooms.com/en/city/york/college/franklinyork). Franklin House is close to the workshop venue (B&B single room £52.80, double £90 per night),
+whilst James College is a short walk away (single ensuite £34.50). In addition there are many excellent hotels and B&Bs in York, including:
+
+* [Moorgarth Guest House](http://www.moorgarthyork.co.uk/), around £30 per night. Convenient location within 15 minutes walk of town and around 30 minutes walk from the meeting venue. There is a bus stop on Kent street a short walk away which goes directly to Heslington close to the venue (see map).
+* [Turnberry House](http://www.turnberryhouse.com/pages/home.html), around £45 per night. In Fulford village, around 25 minutes walk from the meeting venue, and 30 minutes walk from town.
+* [The Limes](http://www.limeshotel.co.uk/) guest house for around £55 per night. Close to Turnberry house, this is also around 30 minutes walk from town and the meeting venue.
+
+More information about hotels in the area can be found on [York's tourist information website](http://www.visityork.org/accommodation/).
+
 # Links
 
 Downloads:
@@ -103,3 +119,4 @@ Downloads:
 Tools:
 
 * [Git Source Code Management](http://git-scm.com)
+
