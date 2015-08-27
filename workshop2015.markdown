@@ -87,7 +87,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 * Ben Dudson, University of York
 * Luke Easy, University of York / CCFE
-* Erik Grinaker, University of York (TBC) 
+* Erik Grinaker, University of York
 * Peter Hill, University of York
 * Jarrod Leddy, University of York
 * Samad Mekkaoui, University of York / Julich
