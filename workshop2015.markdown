@@ -66,8 +66,8 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 ### Session 5:  Eigenvalue solvers
 
-* 4:00  Using SLEPc for eigenvalue problems (David Dickinson)
-* 4:30  Hands-on : Setting up a new set of equations and finding eigenvalues (DD,BD)
+* 4:00  Using SLEPc for eigenvalue problems, including hands-on demonstration (David Dickinson, BD)
+* 4:45  Pedestal and edge research at LLNL (Xueqiao Xu, remote, title TBC)
 * 5:30  Finish 
 
 ## Wednesday 16th September
@@ -78,7 +78,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 9:30 :  Time steppers (Nick Walkden)
 * 10:00 : Discussion: time step limitations and solutions (BD/NRW)
 * 10:30 : Coffee
-* 11:00 : TBC
+* 11:00 : Use of git for version control (P.Hill)
 * 11:30 : Simulation of merging plasmas (Philippa Browning, TBC)
 * 12:30 : Lunch and Finish
 
