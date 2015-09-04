@@ -88,6 +88,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * Ben Dudson, University of York
 * Luke Easy, University of York / CCFE
 * Erik Grinaker, University of York
+* Sophia Henneberg, University of York
 * Peter Hill, University of York
 * Jarrod Leddy, University of York
 * Samad Mekkaoui, University of York / Julich
@@ -96,6 +97,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * Brendan Shanahan, University of York
 * Siobhan Smith, University of York / CCFE (TBC)
 * Nick Walkden, CCFE
+* Hannah Willett, University of York
 * Xinliang Xu, University of York
 
 <a name="accommodation"/>
