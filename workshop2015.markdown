@@ -39,7 +39,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 * 3:30 : Hands on: Using Git to download and update BOUT++ (Peter Hill)
 * 4:00 : Code layout and structure (Ben Dudson)
-* 4:30 : Hands-on running examples and Python data analysis tools (TBC)
+* 4:30 : Hands-on running examples and Python data analysis tools
 * 5:30 : Finish
 
 ### Evening: Workshop dinner
@@ -48,20 +48,20 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 ### Session 3: Blob and edge turbulence models
 
-* 9:00 : 3D blob simulations (Luke Easy)
-* 9:30 : Progress on FCI scheme with boundaries (Peter Hill)
-* 10:00 : Modelling of blobs in X-point geometries (Brendan Shanahan)
+* 9:00  : 3D blob simulations (Luke Easy)
+* 9:30  : Progress on FCI scheme with boundaries (Peter Hill)
+* 10:00 : Time steppers: Implicit, explicit, and IMEX (Ben Dudson)
 * 10:30 : Coffee
 * 11:00 : Gyro-fluid model development, benchmarking with GS2 (David Dickinson)
-* 11:30 : Hands-on session: Mesh generation (Ben Dudson)
+* 11:30 : Modelling of blobs in X-point geometries (Brendan Shanahan)
 * 12:30 : Lunch and posters
 
 ### Session 4: Neutrals and divertor modelling
 
-* 1:30 Edge modelling with EDGE2D and EIRENE (D.Moulton, remote)
-* 2:00 Divertor modelling with DTURB (Nick Walkden)
+* 1:30 
+* 2:00 
 * 2:30 Non-orthogonal meshes for divertor modelling (Jarrod Leddy)
-* 3:00 Nektar++ finite element framework (David Moxey)
+* 3:00 Hands-on session: Mesh generation (Ben Dudson)
 * 3:30 Coffee break
 
 ### Session 5:  Eigenvalue solvers
@@ -74,11 +74,11 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 ### Session 6: Internals and advanced use
 
-* 9:00 :  Neutral gas modelling with EIRENE (Samad Mekkaoui)
-* 9:30 :  Time steppers (Nick Walkden)
-* 10:00 : Discussion: time step limitations and solutions (BD/NRW)
+* 9:00 :  
+* 9:30 :  Neutral gas modelling with EIRENE (Samad Mekkaoui)
+* 10:00 : Divertor modelling with DTURB (Nick Walkden)
 * 10:30 : Coffee
-* 11:00 : TBC
+* 11:00 : Discussion: time step limitations and solutions (BD/NRW)
 * 11:30 : Simulation of merging plasmas (Philippa Browning, TBC)
 * 12:30 : Lunch and Finish
 
@@ -86,15 +86,16 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 # Attendees
 
 * Ben Dudson, University of York
+* David Dickinson, University of York
 * Luke Easy, University of York / CCFE
 * Erik Grinaker, University of York (TBC) 
 * Peter Hill, University of York
 * Jarrod Leddy, University of York
 * Samad Mekkaoui, University of York / Julich
 * David Moxey, Imperial College
-* David Scwoeror, Dublin University / CCFE (TBC)
+* David Scwoeror, Dublin University / CCFE
 * Brendan Shanahan, University of York
-* Siobhan Smith, University of York / CCFE (TBC)
+* Siobhan Smith, University of York / CCFE
 * Nick Walkden, CCFE
 * Xinliang Xu, University of York
 
