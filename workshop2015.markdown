@@ -84,20 +84,23 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 <a name="attendees"/>
 # Attendees
 
-* Ben Dudson, University of York
+* Peshwaz Abdoul, University of York
 * David Dickinson, University of York
+* Ben Dudson, University of York
 * Luke Easy, University of York / CCFE
 * Erik Grinaker, University of York
 * Sophia Henneberg, University of York
 * Peter Hill, University of York
 * Jarrod Leddy, University of York
 * Samad Mekkaoui, University of York / Julich
+* Christopher Ridgers, University of York
 * David Scwoeror, Dublin University / CCFE
 * Brendan Shanahan, University of York
 * Siobhan Smith, University of York / CCFE
 * Michail Tzanis, University of York
 * Nick Walkden, CCFE
 * Hannah Willett, University of York
+* Ben Wood, University of York
 * Xinliang Xu, University of York
 
 <a name="accommodation"/>
