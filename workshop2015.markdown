@@ -66,7 +66,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 ### Session 5:  Eigenvalue solvers
 
 * 4:00  Using SLEPc for eigenvalue problems, including hands-on demonstration (David Dickinson)
-* 4:45  Pedestal and edge research at LLNL (Xueqiao Xu, remote)
+* 4:45  Overview of LLNL BOUT++ edge simulations and validations (Xueqiao Xu, remote)
 * 5:30  Finish 
 
 ## Wednesday 16th September
