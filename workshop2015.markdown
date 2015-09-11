@@ -111,10 +111,8 @@ ConferenceID = 97926827
 * Sony: 194.95.240.2#ConferenceID
 * Tandberg: ConferenceID@mcu.vc.dfn.de
 
-Further technical details and help can be found here
-[http://vcc.zih.tu-dresden.de/index.php?linkid=11100]
-and here
-[https://www.vc.dfn.de/en/video-conferencing/ways-of-access/h323.html]
+Further technical details and help can be found [here](http://vcc.zih.tu-dresden.de/index.php?linkid=11100)
+and [here](https://www.vc.dfn.de/en/video-conferencing/ways-of-access/h323.html)
 
 <a name="attendees"/>
 # Attendees
