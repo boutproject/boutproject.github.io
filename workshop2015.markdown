@@ -17,6 +17,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 **Registration**: Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk) by August 31st.
 
 * [Agenda](#agenda)
+* [Remote connection](#remote)
 * [Attendees](#attendees)
 * [Accommodation](#accommodation)
 * [Links](#links)
@@ -80,6 +81,40 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 11:00 : Discussion: Future plans for BOUT++
 * 11:30 : Two-fluid and MHD modelling of merging magnetic flux ropes in the MAST spherical tokamak (Philippa Browning)
 * 12:30 : Lunch and Finish
+
+<a name="remote"/>
+# Remote connection
+
+Slides will be shared using the FusionTV service (formerly EFDATV) on **channel 19**.
+
+* Presentation: [https://tv.euro-fusion.org/channel19/home](https://tv.euro-fusion.org/channel19/home)
+* Presentation Password: Please contact Ben Dudson
+
+Video-conference nr. (H.323): **004910097926827**
+ISDN: +49-30-2541080 or +49-711-6330190 (ConferenceID = 97926827) followed by an # (hash symbol)
+
+## Video conference details
+
+If using a H.323 video-conference device, registered to an E.164 compliant gatekeeper,
+call the E.164 number:
+
+   004910097926827
+
+If using a H.323 video-conference device NOT registered to an E.164 compliant gatekeeper
+(called URI dial), the syntax depends on your vendor as shown below:
+
+ConferenceID = 97926827
+
+* LifeSize: 194.95.240.2##ConferenceID
+* Mirial: ConferenceID@mcu.vc.dfn.de
+* Polycom: mcu.vc.dfn.de##ConferenceID
+* Sony: 194.95.240.2#ConferenceID
+* Tandberg: ConferenceID@mcu.vc.dfn.de
+
+Further technical details and help can be found here
+[http://vcc.zih.tu-dresden.de/index.php?linkid=11100]
+and here
+[https://www.vc.dfn.de/en/video-conferencing/ways-of-access/h323.html]
 
 <a name="attendees"/>
 # Attendees
