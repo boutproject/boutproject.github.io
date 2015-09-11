@@ -78,7 +78,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 10:00 : Divertor modelling with DTURB (Nick Walkden)
 * 10:30 : Coffee
 * 11:00 : Discussion: Future plans for BOUT++
-* 11:30 : Simulation of merging plasmas (Philippa Browning, TBC)
+* 11:30 : Two-fluid and MHD modelling of merging magnetic flux ropes in the MAST spherical tokamak (Philippa Browning)
 * 12:30 : Lunch and Finish
 
 <a name="attendees"/>
