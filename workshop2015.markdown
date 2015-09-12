@@ -30,7 +30,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 ### Session 1 (Introduction)
 
 * 12:30  Arrival and coffee
-* 1:00 pm  Introduction and overview (Ben Dudson)
+* 1:00 pm  [Introduction and overview](workshop2015/introduction.pdf) (Ben Dudson)
 * 1:30 pm  Overview of edge and divertor modelling at CCFE (Nick Walkden)
 * 2:00 pm  Edge modelling at DTU (Jens Madsen)
 * 2:30 pm  Linear plasma device experiment at York (Kieran Gibson / Hannah Willett)
