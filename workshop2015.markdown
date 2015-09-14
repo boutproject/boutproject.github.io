@@ -40,7 +40,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 * 3:30 : Hands on: Using Git to download and update BOUT++ (Peter Hill)
 * 4:00 : [Code layout and structure](workshop2015/bout-code-structure.pdf) (Ben Dudson)
-* 4:30 : Hands-on running examples and Python data analysis tools (BD, Luke Townley)
+* 4:30 : Hands-on running examples and [Python data analysis tools](workshop2015/luke_townley.pdf) (BD, Luke Townley)
 * 5:30 : Finish
 
 ### Evening: Workshop dinner
