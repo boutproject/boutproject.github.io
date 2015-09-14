@@ -51,7 +51,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 * 9:00  : 3D blob simulations (Luke Easy)
 * 9:30  : Progress on FCI scheme with boundaries (Peter Hill)
-* 10:00 : Time steppers: Implicit, explicit, and IMEX (Ben Dudson)
+* 10:00 : [Time steppers: Implicit, explicit, and IMEX](workshop2015/BOUT++2015_Timesolvers.pdf) (Ben Dudson)
 * 10:30 : Coffee
 * 11:00 : Gyro-fluid model development, benchmarking with GS2 (David Dickinson)
 * 11:30 : Modelling of blobs in X-point geometries (Brendan Shanahan)
