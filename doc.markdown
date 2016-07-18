@@ -19,6 +19,7 @@ BOUT++ workshops have been a mixture of hands-on training sessions, and discussi
 
 The slides for (almost) all presentations are available on the workshop websites:
 
+* [2016 workshop, York](workshop2016.html)
 * [2015 workshop, LLNL](https://bout.llnl.gov/workshops/2015)
 * [2015 workshop, York](workshop2015.html)
 * [2014 workshop, LLNL](https://bout.llnl.gov/workshops/2014)
