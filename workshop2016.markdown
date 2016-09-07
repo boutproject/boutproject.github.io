@@ -28,20 +28,20 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 ### Session 1: Applications
 
-12:30 : Arrival and lunch
-1.00 : Introduction and overview (Ben Dudson, York)
-1:30 : Edge and divertor studies at CCFE (Fulvio Militello, CCFE)
-2:00 : Recent work at DTU (Jens Madsen, DTU)
-2:30 : Edge turbulence measurements (Istvan Cziegler, York)
-3:00 : Coffee
+* 12:30 : Arrival and lunch
+* 1.00 : Introduction and overview (Ben Dudson, York)
+* 1:30 : Edge and divertor studies at CCFE (Fulvio Militello, CCFE)
+* 2:00 : Recent work at DTU (Jens Madsen, DTU)
+* 2:30 : Edge turbulence measurements (Istvan Cziegler, York)
+* 3:00 : Coffee
 
 ### Session 2: First steps
 
-3:30: Getting and compiling BOUT++, running testcases (Peter Hill, York)
-4:00: Code layout  (Ben Dudson, York)
-4:30: Hands on demonstrations
-5:00: Pre- and Post-processing in Python
-5:30: Finish
+* 3:30: Getting and compiling BOUT++, running testcases (Peter Hill, York)
+* 4:00: Code layout  (Ben Dudson, York)
+* 4:30: Hands on demonstrations
+* 5:00: Pre- and Post-processing in Python
+* 5:30: Finish
 
 ### Evening: Workshop dinner
 
