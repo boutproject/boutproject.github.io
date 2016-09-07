@@ -24,11 +24,65 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 <a name="agenda"/>
 # Agenda
 
-Coming soon.
+## Monday 19th September
 
-Starting 12:30 on Monday 
-Finishing 3pm Wednesday
+### Session 1: Applications
 
+12:30 : Arrival and lunch
+1.00 : Introduction and overview (Ben Dudson, York)
+1:30 : Edge and divertor studies at CCFE (Fulvio Militello, CCFE)
+2:00 : Recent work at DTU (Jens Madsen, DTU)
+2:30 : Edge turbulence measurements (Istvan Cziegler, York)
+3:00 : Coffee
+
+### Session 2: First steps
+
+3:30: Getting and compiling BOUT++, running testcases (Peter Hill, York)
+4:00: Code layout  (Ben Dudson, York)
+4:30: Hands on demonstrations
+5:00: Pre- and Post-processing in Python
+5:30: Finish
+
+### Evening: Workshop dinner
+
+## Tuesday 20th September
+
+### Session 3: Physics models
+
+9:00: Neutrals + turbulence, Hermes (Jarrod Leddy, York)
+9:30: STORM (Fulvio Militello, CCFE)
+10:00: Non-local transport (Jonathan Broderick, York PhD) 
+10:30: Coffee
+11:00: Linear analysis of collisionless ballooning mode instability based on reduced MHD model (Haruki Seto, QST, Japan)
+11:30: Transport model/TORPEX (Brendan Shanahan, York PhD)
+12:00: Discussion of physics models 
+12:30: Lunch + posters
+
+### Session 4: New features
+
+1:30: Synthetic diagnostics (Nick Walkden)
+2:00: Multigrid method and solvers (Dr Kang, IPP HLST)
+2:30: Non-axisymmetric “straight stellarators” with FCI (Peter Hill)
+3:00: Discussion
+3:30: Coffee
+
+### Session 5: Other codes
+
+4:00: Jorek (Stanislas Pamela, CCFE)
+4:30: GRILLIX (Andreas Stegmeir, IPP, Germany)
+5:00: Discussion
+5:30: Finish + Dinner
+
+## Wednesday 21st September
+
+### Session 6: Future development
+
+9:00: New version of BOUT++  (Ben Dudson, Peter Hill)
+9:30: OpenMP and parallel dataiterators (Joseph Parker, STFC)
+10:00: Discussion and future of BOUT++ (Joseph Parker, STFC)
+10:30: Coffee
+11:30: Discussion and future of BOUT++ (Ben Dudson)
+12:30 : Lunch and finish
 
 <a name="support"/>
 # EUROfusion support
