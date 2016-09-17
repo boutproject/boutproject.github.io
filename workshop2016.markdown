@@ -21,6 +21,10 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * [Accommodation](#accommodation)
 * [Links](#links)
 
+# Getting to the York Plasma Institute
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ol86TR9j1frEPAKJIenuWKQ03nk" width="640" height="480"></iframe>
+
 <a name="agenda"/>
 # Agenda
 
