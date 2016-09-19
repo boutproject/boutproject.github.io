@@ -18,6 +18,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 * [Agenda](#agenda)
 * [Video conferencing](#vc)
+* [Dinner](#dinner)
 * [EUROfusion support](#support)
 * [Accommodation](#accommodation)
 * [Links](#links)
@@ -48,7 +49,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 5:00: Pre- and Post-processing in Python
 * 5:30: Finish
 
-### Evening: Workshop dinner
+### Evening: [Workshop dinner](#dinner)
 
 ## Tuesday 20th September
 
@@ -128,6 +129,18 @@ wait a second until you are asked to enter the conference ID
 
    97920065 followed by an # (hash symbol).
 
+<a name="dinner"/>
+
+# Workshop dinner
+
+The workshop dinner will be on Monday 19th September at 7:30 at the Walmgate Ale house. Please note that participants will have to pay for their own dinners.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2791.771865546597!2d-1.082456472851839!3d53.95677290414278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4c45e0d478175f37!2sWalmgate+Ale+House+and+Bistro!5e0!3m2!1sen!2suk!4v1474278406937" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+The menu is their usual set menu:
+
+![Starters](workshop2016/walmgate-menu.png "Starters")
+![Mains](workshop2016/walmgate-menu2.png "Mains")
 
 <a name="support"/>
 # EUROfusion support
