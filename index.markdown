@@ -38,3 +38,12 @@ Contributions to the code and tool chains have been made by many researchers inc
 * Tianyang Xia
 * Xueqiao Xu, Lawrence Livermore National Laboratory, USA
 
+# Contact, bug reports, help, etc.
+
+You can get help on using BOUT++, or submit bug reports either through the [GitHub site][1],
+or through the [Google Group][2].
+
+<!-- Link to online documentation when ready -->
+
+[1]: https://github.com/boutproject/BOUT-dev/issues
+[2]: https://groups.google.com/a/york.ac.uk/forum/#!forum/bout-user-group

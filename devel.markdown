@@ -25,7 +25,7 @@ BOUT++ is divided into a number of components, broadly divided into:
 2. Examples, test cases, and physics models, some of which are under *examples*
 3. Tools for pre- and post-processing
 
-The [BOUT](https://github.com/boutproject/BOUT) and [BOUT-dev](https://github.com/boutproject/BOUT-dev) repositories should only contain code which is useful for a wide
+The [BOUT-dev](https://github.com/boutproject/BOUT-dev) repository should only contain code which is useful for a wide
 range of users, and should **never** contain large binary files: It should rarely be necessary
 to add anything over 1Mb, and never any file over 10Mb in size. Larger physics models, test cases, 
 and tools should be stored in separate repositories. These can be created on the [boutproject](https://github.com/boutproject/)
@@ -82,7 +82,7 @@ A typical work flow to create a new feature or bug fix would follow these steps:
 1. Create a new branch
 2. (Optional) Push it to github to share and for backup
 3. Make changes, commits
-4. Merge into **next** using github's [Pull Requests](https://github.com/boutproject/BOUT-dev/pulls) system
+4. Submit a pull request into **next** using github's [Pull Requests](https://github.com/boutproject/BOUT-dev/pulls) system
 
 ## Creating a feature branch
 

@@ -13,6 +13,10 @@ point of view of someone who hasn't used BOUT++ before. There are separate devel
 
 A [wiki page](https://github.com/boutproject/BOUT/wiki) with basic instructions on downloading and installing BOUT++ is available [here](https://github.com/boutproject/BOUT/wiki).
 
+# Forum
+
+Announcements are made through the [Google Groups forum](https://groups.google.com/a/york.ac.uk/forum/#!forum/bout-user-group). You can also ask for help through this forum.
+
 # Workshops
 
 BOUT++ workshops have been a mixture of hands-on training sessions, and discussion of current issues and research topics. The mission of the workshops are (1) to prepare researchers to use and further develop the BOUT++ code for edge turbulence, transport, and ELM simulations of magnetic fusion devices; and (2) to promote effective collaboration within the BOUT community and beyond.
