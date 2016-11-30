@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Development 
 author: Joseph Parker
  

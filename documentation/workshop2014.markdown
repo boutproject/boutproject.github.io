@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Workshop 2014
 nav-state: doc
 ---
@@ -8,9 +8,9 @@ Date: 15th-16th September 2014
 
 Location: Fusion Learning Studio, York Plasma Institute, University of York, UK YO10 5DQ
 
-# Agenda
+#### Agenda
 
-## Monday 15th September 2014
+##### Monday 15th September 2014
 
 * 10:00 am - [Arrival, coffee](workshop2014/welcome.pdf)
 * 10:30 am - [Introduction and overview of BOUT++](workshop2014/intro.pdf) (Ben Dudson)
@@ -26,7 +26,7 @@ Location: Fusion Learning Studio, York Plasma Institute, University of York, UK 
 
 Evening: Dinner Melton's Too, Walmgate. Starts 7:00pm.
 
-## Tuesday 16th September 2014
+##### Tuesday 16th September 2014
 
 * 09:30 am – BOUT++ code layout and patterns (Ben Dudson)
 * 10:00 am – [Electromagnetic solvers in 2D and 3D](workshop2014/solvers.pdf) (Ben Dudson)
@@ -40,7 +40,7 @@ Evening: Dinner Melton's Too, Walmgate. Starts 7:00pm.
 * 3:00 pm – Coffee, discussion
 * 4:00 pm - Finish
 
-# Links
+#### Links
 
 Downloads:
 

@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Workshop 2015
 nav-state: doc
 ---
 
-# BOUT++ workshop 2015
+#### BOUT++ workshop 2015
 
 **Date**: 14th-16th September 2015
 
@@ -23,11 +23,11 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * [Links](#links)
 
 <a name="agenda"/>
-# Agenda
+#### Agenda
 
-## Monday 14th
+##### Monday 14th
 
-### Session 1 (Introduction)
+###### Session 1 (Introduction)
 
 * 12:30  Arrival and coffee
 * 1:00 pm  [Introduction and overview](workshop2015/introduction.pdf) (Ben Dudson)
@@ -36,18 +36,18 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 2:30 pm  Linear plasma device experiment at York (Kieran Gibson / Hannah Willett)
 * 3:00 : Coffee
 
-### Session 2: 
+###### Session 2: 
 
 * 3:30 : [Hands on: Using Git to download and update BOUT++](workshop2015/hands_on_git.pdf) (Peter Hill)
 * 4:00 : [Code layout and structure](workshop2015/bout-code-structure.pdf) (Ben Dudson)
 * 4:30 : Hands-on running examples and [Python data analysis tools](workshop2015/luke_townley.pdf) (BD, Luke Townley)
 * 5:30 : Finish
 
-### Evening: Workshop dinner
+###### Evening: Workshop dinner
 
-## Tuesday 15th September
+##### Tuesday 15th September
 
-### Session 3: Blob and edge turbulence models
+###### Session 3: Blob and edge turbulence models
 
 * 9:00  : 3D blob simulations (Luke Easy)
 * 9:30  : Progress on FCI scheme with boundaries (Peter Hill)
@@ -57,22 +57,22 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 11:30 : Modelling of blobs in X-point geometries (Brendan Shanahan)
 * 12:30 : Lunch and posters
 
-### Session 4: Meshes and 
+###### Session 4: Meshes and 
 
 * 1:30 Use of git for version control (P.Hill)
 * 2:00 Non-orthogonal meshes for divertor modelling (Jarrod Leddy)
 * 2:30 Hands-on session: Mesh generation and simulation geometries (Ben Dudson)
 * 3:30 Coffee break
 
-### Session 5:  Eigenvalue solvers
+###### Session 5:  Eigenvalue solvers
 
 * 4:00  Using SLEPc for eigenvalue problems, including hands-on demonstration (David Dickinson)
 * 4:45  Overview of LLNL BOUT++ edge simulations and validations (Xueqiao Xu, remote)
 * 5:30  Finish 
 
-## Wednesday 16th September
+##### Wednesday 16th September
 
-### Session 6: Neutrals and divertor modelling
+###### Session 6: Neutrals and divertor modelling
 
 * 9:00 :  Progress on divertor modelling with BOUT++ (Jarrod Leddy, BD)
 * 9:30 :  Neutral gas modelling with EIRENE (Samad Mekkaoui)
@@ -83,7 +83,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 12:30 : Lunch and Finish
 
 <a name="remote"/>
-# Remote connection
+#### Remote connection
 
 Slides will be shared using the FusionTV service (formerly EFDATV) on **channel 19**.
 
@@ -93,7 +93,7 @@ Slides will be shared using the FusionTV service (formerly EFDATV) on **channel 
 Video-conference nr. (H.323): **004910097926827**
 ISDN: +49-30-2541080 or +49-711-6330190 (ConferenceID = 97926827) followed by an # (hash symbol)
 
-## Video conference details
+##### Video conference details
 
 If using a H.323 video-conference device, registered to an E.164 compliant gatekeeper,
 call the E.164 number:
@@ -115,7 +115,7 @@ Further technical details and help can be found [here](http://vcc.zih.tu-dresden
 and [here](https://www.vc.dfn.de/en/video-conferencing/ways-of-access/h323.html)
 
 <a name="attendees"/>
-# Attendees
+#### Attendees
 
 * Peshwaz Abdoul, University of York
 * David Dickinson, University of York
@@ -137,7 +137,7 @@ and [here](https://www.vc.dfn.de/en/video-conferencing/ways-of-access/h323.html)
 * Xinliang Xu, University of York
 
 <a name="accommodation"/>
-# Accommodation
+#### Accommodation
 
 The University of York has accommodation available, which can be booked through [University Rooms](http://www.universityrooms.com/en/city/york/college/franklinyork). Franklin House is close to the workshop venue (B&B single room £52.80, double £90 per night),
 whilst James College is a short walk away (single ensuite £34.50). In addition there are many excellent hotels and B&Bs in York, including:
@@ -149,7 +149,7 @@ whilst James College is a short walk away (single ensuite £34.50). In addition 
 More information about hotels in the area can be found on [York's tourist information website](http://www.visityork.org/accommodation/).
 
 <a name="links"/>
-# Links
+#### Links
 
 Downloads:
 

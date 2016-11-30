@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Publications and presentations 
 nav-state: publications
 ---

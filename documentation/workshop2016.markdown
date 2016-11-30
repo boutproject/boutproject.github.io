@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: Workshop 2016
 nav-state: doc
 ---
 
-# BOUT++ workshop 2016
+#### BOUT++ workshop 2016
 
 **Date**: 19th-21st September 2016
 
@@ -23,16 +23,16 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * [Accommodation](#accommodation)
 * [Links](#links)
 
-# Getting to the York Plasma Institute
+#### Getting to the York Plasma Institute
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ol86TR9j1frEPAKJIenuWKQ03nk" width="640" height="480"></iframe>
 
 <a name="agenda"/>
-# Agenda
+#### Agenda
 
-## Monday 19th September
+##### Monday 19th September
 
-### Session 1: Applications
+###### Session 1: Applications
 
 * 12:30 : Arrival and lunch
 * 1.00 : Introduction and overview (Ben Dudson, York)
@@ -41,7 +41,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 2:30 : Edge turbulence measurements (Istvan Cziegler, York)
 * 3:00 : Coffee
 
-### Session 2: First steps
+###### Session 2: First steps
 
 * 3:30: Getting and compiling BOUT++, running testcases (Peter Hill, York)
 * 4:00: Code layout  (Ben Dudson, York)
@@ -49,11 +49,11 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 5:00: Pre- and Post-processing in Python
 * 5:30: Finish
 
-### Evening: [Workshop dinner](#dinner)
+###### Evening: [Workshop dinner](#dinner)
 
-## Tuesday 20th September
+##### Tuesday 20th September
 
-### Session 3: Physics models
+###### Session 3: Physics models
 
 * 9:00: Neutrals + turbulence, Hermes (Jarrod Leddy, York)
 * 9:30: STORM (Fulvio Militello, CCFE)
@@ -64,7 +64,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 12:00: Discussion of physics models 
 * 12:30: Lunch + posters
 
-### Session 4: New features
+###### Session 4: New features
 
 * 1:30: Synthetic diagnostics (Nick Walkden)
 * 2:00: Multigrid method and solvers (Dr Kang, IPP HLST)
@@ -72,16 +72,16 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 3:00: Discussion
 * 3:30: Coffee
 
-### Session 5: Other codes
+###### Session 5: Other codes
 
 * 4:00: Jorek (Stanislas Pamela, CCFE)
 * 4:30: GRILLIX (Andreas Stegmeir, IPP, Germany)
 * 5:00: Discussion
 * 5:30: Finish + Dinner
 
-## Wednesday 21st September
+##### Wednesday 21st September
 
-### Session 6: Future development
+###### Session 6: Future development
 
 * 9:00: New version of BOUT++  (Ben Dudson, Peter Hill)
 * 9:30: OpenMP and parallel dataiterators (Joseph Parker, STFC)
@@ -91,7 +91,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 * 12:30 : Lunch and finish
 
 <a name="vc"/>
-# Video conferencing
+#### Video conferencing
 
 **Slides** will, when possible, be shared on [EUROfusion TV channel 5](https://tv.euro-fusion.org/channel5/home). Note that many demonstrations may need to use local computers
 and so may not be shared. There is a password, please ask one of the organisers.
@@ -131,7 +131,7 @@ wait a second until you are asked to enter the conference ID
 
 <a name="dinner"/>
 
-# Workshop dinner
+#### Workshop dinner
 
 The workshop dinner will be on Monday 19th September at 7:30 at the Walmgate Ale house. Please note that participants will have to pay for their own dinners.
 
@@ -143,12 +143,12 @@ The menu is their usual set menu:
 ![Mains](workshop2016/walmgate-menu2.png "Mains")
 
 <a name="support"/>
-# EUROfusion support
+#### EUROfusion support
 
 All participants funded by the MST1 work package can get support to pay local costs e.g., accommodation. Please send an email to Jens Madsen (jmad@fysik.dtu.dk) if you would like to apply for support. 
 
 <a name="accommodation"/>
-# Accommodation
+#### Accommodation
 
 The University of York has accommodation available, which can be booked through [University Rooms](http://www.universityrooms.com/en/city/york/college/franklinyork). Franklin House is close to the workshop venue (B&B single room £52.80, double £90 per night),
 whilst James College is a short walk away (single ensuite £34.50). In addition there are many excellent hotels and B&Bs in York, including:
@@ -160,7 +160,7 @@ whilst James College is a short walk away (single ensuite £34.50). In addition 
 More information about hotels in the area can be found on [York's tourist information website](http://www.visityork.org/accommodation/).
 
 <a name="links"/>
-# Links
+#### Links
 
 Downloads:
 

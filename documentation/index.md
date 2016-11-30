@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: Documentation
 nav-state: doc
 ---
