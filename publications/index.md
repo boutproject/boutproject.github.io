@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: about
 title: Publications and presentations 
 nav-state: publications
 ---
 
-# Publications
+### Publications
 
 
 * L Easy,  F Militello, J Omotani, B Dudson, E Havlickova, P Tamain, V Naulin, A H Nielsen [3D Simulations of Plasma Filaments in the Scrape Off Layer: A Comparison with Models of Reduced Dimensionality](http://dx.doi.org/10.1063/1.4904207) Phys. Plasmas 21, 122515 (2014). [arXiv preprint](http://arxiv.org/abs/1410.2137)
@@ -32,7 +32,7 @@ nav-state: publications
 Wilson: [BOUT++: a framework for parallel plasma fluid simulations](http://dx.doi.org/10.1016/j.cpc.2009.03.008). Computer Physics 
 Communications 180 (2009), pp. 1467-1480 doi:[10.1016/j.cpc.2009.03.008](http://dx.doi.org/10.1016/j.cpc.2009.03.008). Also available as an [arXiv pre-print](http://arxiv.org/abs/0810.5757)
 
-# Conference presentations
+### Conference presentations
 
 
 
