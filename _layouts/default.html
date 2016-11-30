@@ -1,25 +1,39 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
-<head>
-	<title>{{ page.title }}</title> 
-	<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="{{ page.prefix }}{{ site.res_base_url }}/css/screen.css">
-	<script src="{{ page.prefix }}{{ site.res_base_url }}/js/jquery-1.6.3.min.js"></script>
-	<script src="{{ page.prefix }}{{ site.res_base_url }}/js/persistent-nav.js"></script>
 
-</head>
-<body>
-<div id="hd">
-<h1>BOUT++ project</h1>
-<h2>Plasma simulation in curvilinear coordinates</h2>
-{% include nav.html %}
-</div>
-<div id="bd">
-<div id="content">
-	{{ content }}
-</div>
-</div>
+    <head>
+        <!--Import Google Icon Font-->
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-</div>
-</body>
+      <!--Import css files-->
+      {% if site.localtest  %}
+      <link rel="stylesheet" href="{{ site.localurl }}/assets/css/styles.css">
+      <link rel="stylesheet" href="{{ site.localurl }}/assets/css/materialize.css">
+      {% else %}
+      <link rel="stylesheet" href="{{ site.github.url }}/assets/css/styles.css">
+      <link rel="stylesheet" href="{{ site.github.url }}/assets/css/materialize.css">
+      {% endif %}
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <meta http-equiv="Content-Language" content="en">
+    </head>
+  <body>
+
+    {% include header.html %}
+
+        {{ content }}
+
+      <script type="text/javascript" src="{{ site.localurl }}/assets/js/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="{{ site.localurl }}/assets/js/materialize.min.js"></script>
+      <script type="text/javascript" src="{{ site.github.url }}/assets/js/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="{{ site.github.url }}/assets/js/materialize.min.js"></script>
+      <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+      <script type="text/javascript">
+          $(document).ready(function() {
+              $(".button-collapse").sideNav();
+          });
+      </script>
+  </body>
+
 </html>
