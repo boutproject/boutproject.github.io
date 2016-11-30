@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: Download
 nav-state: download
 ---
@@ -11,7 +11,7 @@ Most users are advised to use the [latest stable version][latest].
 If you need some recently added feature then you may need to use the [development version][development],
 though you will run the risk of occasionally getting broken code.
 
-# Releases
+#### Releases
 
 The latest release is always available from [here][latest].
 
@@ -21,12 +21,12 @@ Previous releases are available:
 * [Version 2.0](https://github.com/boutproject/BOUT-dev/releases/tag/v2.0), prepared for the [2013 BOUT++ workshop](https://bout2013.llnl.gov/)
 * [Version 1.0](https://github.com/boutproject/BOUT-dev/releases/tag/v1.0) was prepared for the [2011 BOUT++ workshop](https://bout2011.llnl.gov/)
 
-# Development version
+#### Development version
 
 * The [development version](https://github.com/boutproject/BOUT-dev) contains the latest public changes, 
   and may be broken occasionally as features are added or modified
 
-# Other versions
+#### Other versions
 
 Individual developers maintain their own versions of BOUT++ with work in progress. Some publicly available ones are:
 
