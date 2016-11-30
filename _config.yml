@@ -1,7 +1,33 @@
+---
+title: BOUT++ Project
+author: BOUT++ Project
+author_github: boutproject
+locale: en
+description: |
+  The shiny new website for the BOUT++ Project!
+baseurl: "/"
 base_url:
 domain:
 res_base_url: resources
-
+url: http://boutproject.github.io
+paginate: 12
+github:
+  user: boutproject
+  repository: boutproject.github.io
+  #url: http://boutproject.github.io/
+  url: /
+  status: true
+localtest: true
+home_bgfile: fig11b.png
+sass:
+  sass_dir: assets/css
+  style: compressed
 markdown: kramdown
-
-
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+- jekyll-paginate
+exclude:
+- vendor
