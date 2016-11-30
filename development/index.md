@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: about
 title: Development 
-nav-state: dev
+author: Joseph Parker
+ 
 ---
 
-# Contributing to BOUT++
+### Contributing to BOUT++
 
 If you would like to help contribute to BOUT++ then there are many things
 you can do which will make a difference. There are projects large and small 
@@ -17,7 +18,7 @@ beginners; those which need some familiarity with the code; and those
 which may come under the heading of ongoing research. As these issues are fixed
 they can be added to the [changes](changes.html) page, along with suitable attribution.
 
-# Core library vs. Physics models / examples
+### Core library vs. Physics models / examples
 
 BOUT++ is divided into a number of components, broadly divided into:
 
@@ -25,7 +26,7 @@ BOUT++ is divided into a number of components, broadly divided into:
 2. Examples, test cases, and physics models, some of which are under *examples*
 3. Tools for pre- and post-processing
 
-The [BOUT-dev](https://github.com/boutproject/BOUT-dev) repository should only contain code which is useful for a wide
+The [BOUT](https://github.com/boutproject/BOUT) and [BOUT-dev](https://github.com/boutproject/BOUT-dev) repositories should only contain code which is useful for a wide
 range of users, and should **never** contain large binary files: It should rarely be necessary
 to add anything over 1Mb, and never any file over 10Mb in size. Larger physics models, test cases, 
 and tools should be stored in separate repositories. These can be created on the [boutproject](https://github.com/boutproject/)
@@ -51,7 +52,7 @@ The `BOUT_TOP` setting specifies where to find the BOUT++ directory containing a
 This allows users to develop their own models and applications independently, whilst keeping up to date
 with changes to the core library.
 
-# Development workflow using Git
+### Development workflow using Git
 
 Some useful discussion of working with git branches, on which this is based, are
 [here](http://www.mail-archive.com/fenics@lists.launchpad.net/msg01396.html), 
@@ -82,9 +83,9 @@ A typical work flow to create a new feature or bug fix would follow these steps:
 1. Create a new branch
 2. (Optional) Push it to github to share and for backup
 3. Make changes, commits
-4. Submit a pull request into **next** using github's [Pull Requests](https://github.com/boutproject/BOUT-dev/pulls) system
+4. Merge into **next** using github's [Pull Requests](https://github.com/boutproject/BOUT-dev/pulls) system
 
-## Creating a feature branch
+#### Creating a feature branch
 
 First get a copy of the [BOUT-dev](https://github.com/boutproject/BOUT-dev) repository (or git pull to update an existing copy):
 
@@ -98,7 +99,7 @@ Create a new branch **myfeature**, branching from **master**. Choose a descripti
     git pull
     git checkout -b myfeature     ## Switched to a new branch "myfeature"
 
-## Pushing to github
+#### Pushing to github
 
 If you want to push your branch to BOUT-dev to share with other developers, run:
 
@@ -117,7 +118,7 @@ If another developer wants to try out this branch, they should clone the BOUT-de
 *Note* If you do not have write access to the BOUT-dev repository, you can develop in your
 own fork and then send a pull request to someone with write access.
 
-## Making changes, commits
+#### Making changes, commits
 
 Now you would make changes, commit changes and push as usual:
 
@@ -131,7 +132,7 @@ You can switch between branches using *checkout*:
     git checkout master    # Switch to "master"
     git checkout myfeature # Switch to "myfeature"
 
-## Merging into **next**
+#### Merging into **next**
 
 Once your feature is complete, ask other developers to have a look by creating a 
 [Pull Request](https://github.com/boutproject/BOUT-dev/pulls) on the 
@@ -146,7 +147,7 @@ your feature into **next**
 Note the *--no-ff* option to merge. This ensures that your feature appears as a single commit in
 the **next** branch, and makes it easier to see where individual features begin and end.
 
-## Releasing into **master**
+#### Releasing into **master**
 
 At this point developers can make sure that **next** still passes the test suite, 
 and that no nasty side-effects have been occurred. If the changes in next are relatively trivial
@@ -161,9 +162,9 @@ To see what changes will be introduced by **next**, use git log:
 
     git log master..next
 
-# Issues
+### Issues
 
-## Beginner
+#### Beginner
 
 * Finding errors and inconsistencies in the user manual. As you're learning to use the code,
   note which parts of the manual are incorrect or incomplete. Once you figure out 
@@ -177,11 +178,11 @@ To see what changes will be introduced by **next**, use git log:
   for a given mesh.
 
 
-## Intermediate
+#### Intermediate
 
 * Parallel input / output
 
-## Advanced
+#### Advanced
 
 * Interface to the [Hypre](http://computation.llnl.gov/casc/linear_solvers/sls_hypre.html) library, including
   3D geometry, branch-cuts and twist-shift condition. This would allow solution to more general boundary-value problems
