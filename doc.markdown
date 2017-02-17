@@ -6,7 +6,6 @@ nav-state: doc
 
 # Manual
 
-
 The [user manual](https://readthedocs.org/projects/bout-dev/) describes how to get started with BOUT++, and how the code works (or should work / did work) from the
 point of view of someone who hasn't used BOUT++ before. There are separate developer and coordinate system manuals which are useful when you need to dig further into how the code works.
 
