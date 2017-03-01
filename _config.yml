@@ -16,7 +16,7 @@ github:
   repository: boutproject.github.io
   #url: http://boutproject.github.io/
   url: /
-  status: true
+  status: false
 localtest: true
 home_bgfile: bout_banner.png
 sass:
