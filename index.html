@@ -45,8 +45,11 @@ draft: false
         <ul class="collection with-header">
           <li class="collection-header">
             <div>
-	      <!--<a class="post-link blue-text post-title" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>-->
-              <a class="post-link blue-text post-title" href="{{ post.url | prepend: site.localurl }}">{{ post.title }}</a>
+              {% if site.localtest %}
+                <a class="post-link blue-text post-title" href="{{ post.url | prepend: site.localurl }}">{{ post.title }}</a>
+              {% else %}
+                <a class="post-link blue-text post-title" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+              {% endif %}
               <div class="blue-text right post-meta secondary-content post-date">{{ post.date | date: "%-d %b %Y" }}</div>
             </div>
           </li>
@@ -60,13 +63,25 @@ draft: false
     <div class="containter containter-wide">
       <ul class="pagination center-align blue-text">
         {% if paginator.previous_page %}
-          <li class="waves-effect"><a href="{{ paginator.previous_page_path | site.github.url}}"><i class="material-icons">chevron_left</i></a></li>
+          <li class="waves-effect">
+          {% if site.localtest %}
+            <a href="{{ paginator.previous_page_path | prepend: site.localurl}}">
+          {% else %}
+            <a href="{{ paginator.previous_page_path | prepend: site.github.url}}">
+          {% endif %}
+          <i class="material-icons">chevron_left</i></a></li>
         {% else %}
           <li class="waves-effect"><i class="material-icons">chevron_left</i></li>
         {% endif %}
           <li class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</li>
         {% if paginator.next_page %}
-          <li class="waves-effect"><a href="{{ paginator.next_page_path | site.github.url }}" ><i class="material-icons">chevron_right</i></a></li>
+          <li class="waves-effect">
+          {% if site.localtest %}
+            <a href="{{ paginator.next_page_path | prepend: site.localurl }}" >
+          {% else %}
+            <a href="{{ paginator.next_page_path | prepend: site.github.url }}" >
+          {% endif %}
+          <i class="material-icons">chevron_right</i></a></li>
         {% else %}
           <li class="waves-effect"><i class="material-icons">chevron_right</i></li>
         {% endif %}
@@ -74,6 +89,12 @@ draft: false
     </div>
 
     <div class="container">
-      <p class="rss-subscribe right-align navy-text">subscribe <a href="{{ site.github.url }}/feed.xml">via RSS</a></p>
+      <p class="rss-subscribe right-align navy-text">subscribe 
+      {% if site.localtest %}
+        <a href="{{ site.localurl }}/feed.xml">
+      {% else %}
+        <a href="{{ site.github.url }}/feed.xml">
+      {% endif %}
+      via RSS</a></p>
     </div>
 </div>

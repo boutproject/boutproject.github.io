@@ -14,8 +14,7 @@ paginate: 12
 github:
   user: boutproject
   repository: boutproject.github.io
-  #url: http://boutproject.github.io/
-  url: /
+  url: http://boutproject.github.io/
   status: false
 localtest: true
 home_bgfile: bout_banner.png
@@ -31,3 +30,5 @@ gems:
 - jekyll-paginate
 exclude:
 - vendor
+localtest: false
+localurl: http://localhost:4000/

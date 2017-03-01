@@ -5,7 +5,13 @@
       <a href="#" data-activates="mobile-menu" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down">
           {% for item in site.data.navigation %}
-            <li><a href="{{ item.url | prepend: site.github.url }}">{{ item.title }}</a></li>
+            <li>
+            {% if site.localtest %}
+              <a href="{{ item.url | prepend: site.localurl }}">
+            {% else %}
+              <a href="{{ item.url | prepend: site.github.url }}">
+            {% endif %}
+            {{ item.title }}</a></li>
           {% endfor %}
 
           {% if site.github.status == true %}
@@ -17,7 +23,13 @@
         </ul>
         <ul class="side-nav" id="mobile-menu">
           {% for item in site.data.navigation %}
-            <li><a href="{{ item.url | prepend: site.github.url }}">{{ item.title }}</a></li>
+            <li>
+            {% if site.localtest %}
+              <a href="{{ item.url | prepend: site.localurl }}">
+            {% else %}
+              <a href="{{ item.url | prepend: site.github.url }}">
+            {% endif %}
+            {{ item.title }}</a></li>
           {% endfor %}
 
           {% if site.github.status == true %}
