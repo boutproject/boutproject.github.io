@@ -6,7 +6,7 @@
       <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
       <!--Import css files-->
-      {% if site.localtest  %}
+      {% if site.localtest %}
       <link rel="stylesheet" href="{{ site.localurl }}/assets/css/styles.css">
       <link rel="stylesheet" href="{{ site.localurl }}/assets/css/materialize.css">
       {% else %}
@@ -24,10 +24,13 @@
 
         {{ content }}
 
+    {% if site.localtest %}
       <script type="text/javascript" src="{{ site.localurl }}/assets/js/jquery-2.1.1.min.js"></script>
       <script type="text/javascript" src="{{ site.localurl }}/assets/js/materialize.min.js"></script>
+    {% else %}
       <script type="text/javascript" src="{{ site.github.url }}/assets/js/jquery-2.1.1.min.js"></script>
       <script type="text/javascript" src="{{ site.github.url }}/assets/js/materialize.min.js"></script>
+    {% endif %}
       <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
       <script type="text/javascript">
           $(document).ready(function() {
