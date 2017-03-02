@@ -4,7 +4,7 @@ author: BOUT++ Project
 author_github: boutproject
 locale: en
 description: |
-  Plasma fluid finite-difference simulation code in curvilinear coordinate systems
+  Plasma simulation in curvilinear coordinate systems
 baseurl: "/"
 base_url:
 domain:

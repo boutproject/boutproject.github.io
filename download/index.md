@@ -5,7 +5,7 @@ nav-state: download
 ---
 
 BOUT++ is open source under the Lesser General Public License (LGPL), and is available on github.
-Several versions are available, and can be downloaded as a Zip file or using Git.
+Several versions are available, and can be downloaded as a zip/tar file or using Git.
 
 Most users are advised to use the [latest stable version][latest].
 If you need some recently added feature then you may need to use the [development version][development],
@@ -18,20 +18,20 @@ The latest release is always available from [here][latest].
 Previous releases are available:
 
 * The latest release, [version 4.0.0][v4.0.0], was realeased 4th February 2017.
-* [Version 3.0][v3.0], prepared for the [2015 BOUT++ workshop](workshop2015.html)
+* [Version 3.0][v3.0], prepared for the [2015 BOUT++ workshop](../documentation/workshop2015.html)
 * [Version 2.0][v2.0], prepared for the [2013 BOUT++ workshop](https://bout2013.llnl.gov/)
 * [Version 1.0][v1.0], prepared for the [2011 BOUT++ workshop](https://bout2011.llnl.gov/)
 
 #### Development version
 
-* The [development version](https://github.com/boutproject/BOUT-dev/tree/next) contains the latest public changes,
+* The [development version][development] contains the latest public changes,
   and may be broken occasionally as features are added or modified
 
 #### Other versions
 
 Individual developers maintain their own versions of BOUT++ with work in progress. Some publicly available ones are:
 
-* [Ben Dudson](https://github.com/bendudson/BOUT-dev)
+* [Ben Dudson](https://github.com/bendudson/BOUT)
 
 Previously, separate repositories were available for past releases. These are no longer maintained.
 

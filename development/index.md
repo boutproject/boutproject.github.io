@@ -4,7 +4,7 @@ title: Development
  
 ---
 
-# Contributing to BOUT++
+### Contributing to BOUT++
 
 If you would like to help contribute to BOUT++ then there are many things you
 can do which will make a difference. There are projects large and small which a
@@ -13,7 +13,7 @@ with the code. You don't need to be particularly familar with BOUT++ or C++ to
 work on many of these. You can see a current list of outstanding bugs and
 feature requests on the [GitHub issue page][issues].
 
-## House rules ##
+### House rules
 
 BOUT++ consists of about 60,000 lines of C/C++, along with 18,500 lines of IDL
 and 12,000 of Python. Of this, about 40,000 lines is the core BOUT++ code, and
@@ -49,7 +49,7 @@ Here are some rules for editing the core BOUT++ code:
    add or update documentation where appropriate, we may ask you to do so before
    it is merged.
 
-## Development workflow using Git ##
+### Development workflow using Git
 
 The workflow we use is essentially ["gitflow"][gitflow].
 
@@ -68,7 +68,7 @@ into the *release* branch - only bug fixes and documentation.
 4. Submit a pull request into **next** using Github's [Pull Requests][PRs]
    system
 
-### Creating a feature branch ###
+#### Creating a feature branch
 
 First get a copy of the [BOUT-dev] repository (or git pull to update an existing
 copy):
@@ -83,7 +83,7 @@ name for **myfeature**, anything except "master" or "next".
     git pull
     git checkout -b myfeature     # Switched to a new branch "myfeature"
 
-### Pushing to Github ###
+#### Pushing to Github
 
 Create a fork on Github following the instructions [here][forking].
 
@@ -108,7 +108,7 @@ then they will be able to checkout your branch:
 *Note*: If you have write access to the central BOUT-dev repository, you can
 push your branches there.
 
-### Making changes, commits ###
+#### Making changes, commits
 
 Now you would make changes, commit changes and push as usual:
 
@@ -122,7 +122,7 @@ You can switch between branches using *checkout*:
     git checkout master    # Switch to "master"
     git checkout myfeature # Switch to "myfeature"
 
-### Merging into **next** ###
+#### Merging into **next**
 
 Once your feature is complete, ask other developers to have a look by creating
 a [Pull Request][PRs] on the [BOUT-dev] page. One of the maintainers will review
@@ -131,7 +131,7 @@ code. You can make additional changes and push them to the same feature branch
 and they will be automatically added to the pull request.
 
 
-## Coding Style ##
+### Coding Style
 
 Code is read an order of magnitude more times than it is written. It's also
 written for *people* and not for the computer! For these reasons, it's important
@@ -146,7 +146,7 @@ to understand. Being consistent in coding style also helps comprehension by
 reducing cognitive load.
 
 
-### Comments ###
+#### Comments
 
 Comments in the code are vital to helping understanding. Comments that
 are embedded in the code should explain **why** something is done,
@@ -181,7 +181,7 @@ For documenting what functions and classes do, we use [Doxygen][doxygen].
   Doxygen comments there, rather than in the implementation. "Private"
   functions, etc., can be documented in the implementation.
 
-### Naming ###
+#### Naming
 
 Naming things correctly is super important! It is also one of the trickiest
 parts of coding.
@@ -202,7 +202,7 @@ Prefer a longer descriptive name over a shorter abbreviated one:
 `inner_boundary_flags` rather than `inbndflgs`, `generator` rather than
 `gen`. It's much easier to read and comprehend than the abbreviated form.
 
-### Details ###
+#### Details
 
 - Use spaces instead of tabs. Tabs may be interpreted differently by different
   editors, making the code look badly indented and difficult to read. The
