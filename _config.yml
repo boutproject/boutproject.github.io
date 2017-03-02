@@ -1,7 +1,30 @@
-base_url:
-domain:
-res_base_url: resources
-
+---
+title: BOUT++ Project
+author: BOUT++ Project
+author_github: boutproject
+locale: en
+description: |
+  Plasma simulation in curvilinear coordinate systems
+baseurl: "/"
+url: http://boutproject.github.io
+paginate: 12
+github:
+  user: boutproject
+  repository: boutproject.github.io
+  url: http://boutproject.github.io/
+  status: false
+home_bgfile: bout_banner.png
+sass:
+  sass_dir: assets/css
+  style: compressed
 markdown: kramdown
-
-
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+- jekyll-paginate
+exclude:
+- vendor
+localtest: false
+localurl: http://localhost:4000/
