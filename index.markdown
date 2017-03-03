@@ -33,6 +33,7 @@ Contributions to the code and tool chains have been made by many researchers inc
 * Jens Madsen, Technical University of Denmark (DTU)
 * Dmitry Meyerson, MIT, USA
 * John Omotani, Culham Centre for Fusion Energy, UK
+* Brendan Shanahan, IPP Greifswald, Germany
 * Maxim Umansky, Lawrence Livermore National Laboratory, USA
 * Nick Walkden, Culham Centre for Fusion Energy, UK
 * Tianyang Xia
