@@ -63,8 +63,15 @@ section {
         }
     }
 
+    ol li {
+        list-style-type: decimal;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
     li {
-        list-style-position: inside;
+        margin: 1em;
+        list-style-position: outside;
         list-style-type: disc;
     }
 }
@@ -140,4 +147,8 @@ section {
 
 .post-description {
     line-height: 1.25em;
+}
+
+.highlight {
+    margin: 1em;
 }
