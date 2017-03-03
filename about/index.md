@@ -34,6 +34,7 @@ Contributions to the code and tool chains have been made by many researchers inc
 * Dmitry Meyerson, MIT, USA
 * John Omotani, Culham Centre for Fusion Energy, UK
 * Joseph Parker, Science and Technology Facilities Council, UK
+* Brendan Shanahan, Max Planck Institut fuer Plasmaphysik, Teilinstitut Greifswald, Germany
 * Maxim Umansky, Lawrence Livermore National Laboratory, USA
 * Nick Walkden, Culham Centre for Fusion Energy, UK
 * Tianyang Xia
