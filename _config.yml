@@ -28,3 +28,5 @@ exclude:
 - vendor
 localtest: false
 localurl: http://localhost:4000/
+collections:
+  - applications

@@ -1,0 +1,36 @@
+---
+layout: page
+title: Applications
+nav-state: applications
+---
+
+This page lists some of the applications for which BOUT++ is being used,
+and some of the people involved. Most of the code for these is publicly available
+and can be used as a starting point for new research projects.
+
+If you would like your project listed here,
+please contact <a href="mailto:peter.hill@york.ac.uk">Peter Hill</a> or other BOUT++ developer.
+
+
+      {% for post in site.applications %}
+        <ul class="collection with-header">
+          <li class="collection-header" style="list-style-type: none;">
+            <div>
+              {% if site.localtest %}
+                <a class="post-link blue-text post-title" href="{{ post.url | prepend: site.localurl }}">{{ post.title }}</a>
+              {% else %}
+                <a class="post-link blue-text post-title" href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+              {% endif %}
+            </div>
+          </li>
+          <div class="row">
+            <li class="collection-item" style="list-style-type: none;">
+              <img class="materialboxed" style="text-align: center;" src="{{ post.image }}" data-caption="{{ post.caption }}">
+              <span class="flow-text">{{ post.content }}</span>
+            </li>
+          </div>
+        </ul>
+      {% endfor %}
+
+
+
