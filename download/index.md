@@ -31,14 +31,7 @@ Previous releases are available:
 
 Individual developers maintain their own versions of BOUT++ with work in progress. Some publicly available ones are:
 
-* [Ben Dudson](https://github.com/bendudson/BOUT-dev)
-
-Previously, separate repositories were available for past releases. These are no longer maintained.
-
-* The [stable version](https://github.com/boutproject/BOUT) contains more mature code which has been
-  reviewed and tested.
-* Occasionally [releases](https://github.com/boutproject/BOUT-2.0) of BOUT++ are prepared, historically
-  for the workshops held every 2 years. 
+* [Ben Dudson](https://github.com/bendudson/BOUT)
 
 [latest]: https://github.com/boutproject/BOUT-dev/releases/latest
 [development]: https://github.com/boutproject/BOUT-dev/tree/next

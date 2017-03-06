@@ -14,7 +14,9 @@ to dig further into how the code works.
 
 #### Forum
 
-Announcements are made through the [Google Groups forum](https://groups.google.com/a/york.ac.uk/forum/#!forum/bout-user-group). You can also ask for help through this forum.
+Announcements are made through the [Google Groups forum][buggroup]. You can also
+ask for help through this forum. Alternatively, you can open an issue on
+the [GitHub page][issues].
 
 #### Workshops
 
@@ -38,11 +40,19 @@ workshop websites:
 
 #### This website
 
-The source for this website is located on github [here](https://github.com/boutproject/boutproject.github.io). If you would like to
-contribute to these pages please contact [one of the developers](mailto:benjamin.dudson@york.ac.uk).
-Most of the pages are written using [Markdown](http://daringfireball.net/projects/markdown/syntax).
+The source for this website is located on github [here](websitegithub). Pull
+requests are more than welcome, if you'd like to contribute! The website is
+built using [Jekyll][jekyll] and hosted on [GitHub Pages][githubpages]. Most of
+the pages are written using [Markdown][markdown].
 
 #### Other useful links
 
 * [BOUT++ project at LLNL](https://bout.llnl.gov/)
 * Ben Dudson's [BOUT++ page](http://www-users.york.ac.uk/~bd512//bout/)
+
+[buggroup]: https://groups.google.com/a/york.ac.uk/forum/#!forum/bout-user-group
+[issues]: https://github.com/boutproject/BOUT-dev/issues
+[websitegithub]: https://github.com/boutproject/boutproject.github.io
+[githubpages]: https://pages.github.com/
+[jekyll]: https://jekyllrb.com/
+[markdown]: http://daringfireball.net/projects/markdown/syntax
