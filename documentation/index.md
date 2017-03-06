@@ -40,7 +40,7 @@ workshop websites:
 
 #### This website
 
-The source for this website is located on github [here](websitegithub). Pull
+The source for this website is located on github [here][websitegithub]. Pull
 requests are more than welcome, if you'd like to contribute! The website is
 built using [Jekyll][jekyll] and hosted on [GitHub Pages][githubpages]. Most of
 the pages are written using [Markdown][markdown].
