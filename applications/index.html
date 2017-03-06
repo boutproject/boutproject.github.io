@@ -25,8 +25,12 @@ please contact <a href="mailto:peter.hill@york.ac.uk">Peter Hill</a> or other BO
           </li>
           <div class="row">
             <li class="collection-item" style="list-style-type: none;">
-              <img class="materialboxed" style="text-align: center;" src="{{ post.image }}" data-caption="{{ post.caption }}">
-              <span class="flow-text">{{ post.content }}</span>
+              <div style="text-align: center;">
+                <div style="display: inline-block;">
+                  <img class="responsive-img materialboxed" src="{{ post.image }}" data-caption="{{ post.caption }}">
+                </div>
+              </div>
+              <span class="flow-text">{{ post.excerpt }}</span>
             </li>
           </div>
         </ul>
