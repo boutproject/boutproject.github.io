@@ -30,9 +30,9 @@ nav-state: publications
 2014
 ----
 
-* L Easy,  F Militello, J Omotani, B Dudson, E Havlickova, P Tamain, V Naulin, A H Nielsen [3D Simulations of Plasma Filaments in the Scrape Off Layer: A Comparison with Models of Reduced Dimensionality](http://dx.doi.org/10.1063/1.4904207) Phys. Plasmas 21, 122515 (2014). [arXiv preprint](http://arxiv.org/abs/1410.2137)  
+* L Easy,  F Militello, J Omotani, B Dudson, E Havlickova, P Tamain, V Naulin, A H Nielsen [3D Simulations of Plasma Filaments in the Scrape Off Layer: A Comparison with Models of Reduced Dimensionality](http://dx.doi.org/10.1063/1.4904207) Phys. Plasmas 21, 122515 (2014). [arXiv preprint](http://arxiv.org/abs/1410.2137)
 
-* D Meyerson, C Michoski, F Waelbroeck, W Horton [Effect of chaos on plasma filament dynamics and turbulence in the scrape-off layer](http://dx.doi.org/10.1063/1.4890349) Phys. Plasmas 21, 072310 (2014)  
+* D Meyerson, C Michoski, F Waelbroeck, W Horton [Effect of chaos on plasma filament dynamics and turbulence in the scrape-off layer](http://dx.doi.org/10.1063/1.4890349) Phys. Plasmas 21, 072310 (2014)
 
 * B D Dudson, A.Allen, G.Breyiannis, E.Brugger, J.Buchanan, L.Easy, S.Farley, I.Joseph, M. Kim, A.D.McGann, J.T.Omotani, M.V.Umansky, N.R.Walkden, T.Xia, X.Q.Xu [BOUT++: Recent and current developments](http://dx.doi.org/10.1017/S0022377814000816) Journal of Plasma Physics 2014. [arXiv preprint](http://arxiv.org/abs/1405.7905)
 

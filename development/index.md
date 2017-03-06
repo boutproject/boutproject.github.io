@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Development 
- 
 ---
 
 ### Contributing to BOUT++
@@ -36,11 +35,9 @@ Here are some rules for editing the core BOUT++ code:
    use a little Fortran now and then, please please don’t put any into BOUT++.
    Use of Fortran, particularly when mixed with C/C++, is the cause of many
    problems in porting and modifying codes.
-
 -  If a feature is needed to study a particular system, only include it in the
    core code if it is more generally applicable, or cannot be put into the
    physics module.
-
 -  If you add a new feature, function, class member, etc. you must also include
    doxygen comments that explain what each new thing does. Similarly, if a change
    you make would affect e.g. a function's arguments, please ensure that you keep
@@ -48,6 +45,7 @@ Here are some rules for editing the core BOUT++ code:
    for best practices in this regard. If you submit a pull request that doesn't
    add or update documentation where appropriate, we may ask you to do so before
    it is merged.
+
 
 ### Development workflow using Git
 
@@ -155,11 +153,8 @@ rather than **how**.
 For documenting what functions and classes do, we use [Doxygen][doxygen].
 
 - Prefer C++ style comments `//` over C style `/* */`
-
-- Doxygen comments: use `///`.
-
+- Doxygen comments: use `///`.  
   Doxygen done right:
-
   ``` cpp
   /// Foo the bar
   ///
@@ -176,7 +171,6 @@ For documenting what functions and classes do, we use [Doxygen][doxygen].
   /// @returns true on success
   bool applyFoo(BoutReal bar, int quux, std::vector<int> &result);
   ```
-
 - The header files are essentially the "public" API, so prefer to put
   Doxygen comments there, rather than in the implementation. "Private"
   functions, etc., can be documented in the implementation.
