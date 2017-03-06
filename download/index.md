@@ -27,12 +27,6 @@ Previous releases are available:
 * The [development version][development] contains the latest public changes,
   and may be broken occasionally as features are added or modified
 
-#### Other versions
-
-Individual developers maintain their own versions of BOUT++ with work in progress. Some publicly available ones are:
-
-* [Ben Dudson](https://github.com/bendudson/BOUT)
-
 [latest]: https://github.com/boutproject/BOUT-dev/releases/latest
 [development]: https://github.com/boutproject/BOUT-dev/tree/next
 [v4.0.0]: https://github.com/boutproject/BOUT-dev/releases/tag/v4.0.0
