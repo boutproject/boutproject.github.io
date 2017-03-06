@@ -35,12 +35,10 @@ Here are some rules for editing the core BOUT++ code:
 - **NO FORTRAN**. EVER. Though it may be tempting for scientific programmers to
    use a little Fortran now and then, please please don’t put any into BOUT++.
    Use of Fortran, particularly when mixed with C/C++, is the cause of many
-   problems in porting and modifying codes.
-
+   problems in porting and modifying codes.<br/><br/>
 -  If a feature is needed to study a particular system, only include it in the
    core code if it is more generally applicable, or cannot be put into the
-   physics module.
-
+   physics module.<br/><br/>
 -  If you add a new feature, function, class member, etc. you must also include
    doxygen comments that explain what each new thing does. Similarly, if a change
    you make would affect e.g. a function's arguments, please ensure that you keep
@@ -155,11 +153,10 @@ rather than **how**.
 For documenting what functions and classes do, we use [Doxygen][doxygen].
 
 - Prefer C++ style comments `//` over C style `/* */`
-
 - Doxygen comments: use `///`.
-
+<br/><br/>
   Doxygen done right:
-
+<br/><br/>
   ``` cpp
   /// Foo the bar
   ///
@@ -176,7 +173,6 @@ For documenting what functions and classes do, we use [Doxygen][doxygen].
   /// @returns true on success
   bool applyFoo(BoutReal bar, int quux, std::vector<int> &result);
   ```
-
 - The header files are essentially the "public" API, so prefer to put
   Doxygen comments there, rather than in the implementation. "Private"
   functions, etc., can be documented in the implementation.
@@ -209,7 +205,7 @@ Prefer a longer descriptive name over a shorter abbreviated one:
   easiest solution is just use spaces everything instead.
 - Two spaces for indentation
 - Spaces after `if`, `for`, etc.
-
+<br/><br/>
   Wrong:
   ``` cpp
   if(expr){
@@ -218,7 +214,6 @@ Prefer a longer descriptive name over a shorter abbreviated one:
     doOtherThing();
   }
   ```
-
   Right:
   ``` cpp
   if (expr) {
@@ -227,11 +222,10 @@ Prefer a longer descriptive name over a shorter abbreviated one:
     doOtherThing();
   }
   ```
-
   This especially helps readability, making conditional statements stand out
   over function calls.
 - Braces on same line as statement:
-
+<br/><br/>
   Wrong:
   ``` cpp
   void doFoo(bool expr)
@@ -246,7 +240,6 @@ Prefer a longer descriptive name over a shorter abbreviated one:
     }
   }
   ```
-
   Right:
   ``` cpp
   void doFoo(bool expr) {
@@ -257,7 +250,6 @@ Prefer a longer descriptive name over a shorter abbreviated one:
     }
   }
   ```
-
   This one is more style than readability - it's the style that the majority of
   BOUT++ already uses.
 
