@@ -4,8 +4,31 @@ title: Publications and presentations
 nav-state: publications
 ---
 
-### Publications
+2017
+----
 
+* B D Dudson, J Leddy [Hermes: Global plasma edge fluid turbulence simulations](https://doi.org/10.1088/1361-6587/aa63d2) PPCF (2016). [Preprint here](https://arxiv.org/abs/1609.03360)
+
+2016
+----
+
+* H Seto, M Yagi, N Aiba, A Matsuyama, B D Dudson, X Q Xu "Non-ideal Ballooning Mode Instability with Real Electron Inertia" Plasma and Fusion Research (2016)
+* B W Shanahan, P A Hill, B D Dudson, "Towards nonaxisymmetry; initial results using the Flux Coordinate Independent method in BOUT++" Journal of Physics: Conference Series (2016) [Preprint here](https://arxiv.org/abs/1609.06603)
+* J Leddy, B Dudson "Simulation of the interaction between plasma turbulence and neutrals in linear devices" submitted to the Journal of Nuclear Materials and Energy (2016)
+* P Hill, B Shanahan, B Dudson [Dirichlet boundary conditions for arbitrary-shaped boundaries in stellarator-like magnetic fields for the Flux-Coordinate Independent method](http://arxiv.org/abs/1608.02416). Computer Physics Communications (2016). [Preprint here](http://arxiv.org/abs/1608.02416)
+* B D Dudson, J Madsen, J Omotani, P Hill, L Easy, M Loiten [Verification of BOUT++ by the Method of Manufactured Solutions](http://arxiv.org/abs/1602.06747) Physics of Plasmas (2016). [Preprint here](http://arxiv.org/abs/1602.06747).
+* B Shanahan, B Dudson [Blob dynamics in TORPEX poloidal null configurations](http://dx.doi.org/10.1088/0741-3335/58/12/125003) Plasma Phys. Control. Fusion 58 125003 (2016). [Preprint here](http://arxiv.org/abs/1605.00963).
+* J Leddy, B Dudson, M Romanelli, B Shanahan, N Walkden [A novel flexible field-aligned coordinate system for tokamak edge plasma simulation](http://dx.doi.org/10.1016/j.cpc.2016.10.009) Computer Physics Communications (2016). [Preprint here](http://arxiv.org/abs/1604.05876).
+* L Easy, F Militello, J Omotani, N Walkden, B Dudson [Investigation of the Effect of Resistivity on Scrape Off Layer Filaments using Three Dimensional Simulations](http://dx.doi.org/10.1063/1.4940330) Physics of Plasmas 23 012512 (2016) [Preprint here](http://arxiv.org/abs/1508.04085)
+
+2015
+----
+
+* J T Omotani, B D Dudson, E Havlickova, M Umansky [Non-local parallel transport in BOUT++](http://www.sciencedirect.com/science/article/pii/S0022311514007247) Journal of Nuclear Materials 463, 769-772 (2015) [doi:10.1016/j.jnucmat.2014.10.040](http://dx.doi.org/10.1016/j.jnucmat.2014.10.040). [Preprint here](http://arxiv.org/abs/1405.6236).
+
+
+2014
+----
 
 * L Easy,  F Militello, J Omotani, B Dudson, E Havlickova, P Tamain, V Naulin, A H Nielsen [3D Simulations of Plasma Filaments in the Scrape Off Layer: A Comparison with Models of Reduced Dimensionality](http://dx.doi.org/10.1063/1.4904207) Phys. Plasmas 21, 122515 (2014). [arXiv preprint](http://arxiv.org/abs/1410.2137)  
 
@@ -17,6 +40,9 @@ nav-state: publications
 
 * J F Ma, X Q Xu, B D Dudson "Linear peeling-ballooning mode simulations in snowflake-like divertor configuration using BOUT++ code" Nucl. Fusion 54 (2014) 033011
 
+2013
+----
+
 * S A Myers, B D Dudson, H R Wilson "Nonlinear MHD simulations of the gravitational ballooning mode close to marginal stability" Accepted in Plasma Phys. Control. Fusion (2013)
 
 * N R Walkden, B D Dudson, G Fishpool [Characterization of 3D filament dynamics in a MAST SOL flux tube geometry](http://dx.doi.org/10.1088/0741-3335/55/10/105005). Plasma Phys. Control. Fusion 55 (2013) 105005. Also available as an [arXiv  preprint](http://arxiv.org/abs/1307.5234).
@@ -27,11 +53,14 @@ nav-state: publications
 
 * J T Omotani, B D Dudson [Non-local approach to kinetic effects on parallel transport in fluid models of the scrape-off layer](http://iopscience.iop.org/0741-3335/55/5/055009/). Plasma Phys. Control. Fusion **55** (2013) 055009. Preprint arXiv [plasm-phys/1302.0676](http://arxiv.org/abs/1302.0676)
 
+2012
+----
+
 * P W Xi, X Q Xu, X G Wang, and T Y Xia [Influence of equilibrium shear flow on peeling-ballooning instability and edge localised mode crash](http://link.aip.org/link/doi/10.1063/1.4751256). Phys. Plasmas 19, 092503 (2012)
 
 * B Dudson, S Farley, L Curfmann McInnes [Improved Nonlinear Solvers in BOUT++](http://arxiv.org/abs/1209.2054). Submitted to Computer Physics Communications August 2012. Preprint arXiv [plasm-phys/1209.2054](http://arxiv.org/abs/1209.2054), report [ANL/MCS-P3025-0812](http://www.mcs.anl.gov/publications/paper_detail.php?id=2077)
 
-* B Friedman, M V Umansky, T A Carter [Grid Convergence Study in a Simulation of LAPD Turbulence](http://onlinelibrary.wiley.com/doi/10.1002/ctpp.201210025/abstract) Contrib. Plasma Phys., 52: 412%Gâ%@416 (2012)
+* B Friedman, M V Umansky, T A Carter [Grid Convergence Study in a Simulation of LAPD Turbulence](http://onlinelibrary.wiley.com/doi/10.1002/ctpp.201210025/abstract) Contrib. Plasma Phys., 52: 412-416 (2012)
 
 * T Y Xia, X Q Xu, B D Dudson, J Li [Nonlinear Simulations of Peeling-Ballooning Modes with Parallel Velocity Perturbation](http://onlinelibrary.wiley.com/doi/10.1002/ctpp.201210016/abstract) Contrib. Plasma Phys., **52** (2012) 353-359 
 
@@ -41,15 +70,23 @@ nav-state: publications
 
 * J R Angus, M V Umansky, and S. I. Krasheninnikov [Effect of Drift Waves on Plasma Blob Dynamics](http://link.aps.org/doi/10.1103/PhysRevLett.108.215002) Phys. Rev. Lett. 108, 215002 (2012)
 
+2011
+----
+
 * X Q Xu, B D Dudson "Nonlinear ELM simulations based on a nonideal peeling ballooning model using the BOUT++ code". Nucl. Fusion **51** (2011) 103040
 
 * B D Dudson, X Q Xu, M V Umansky, P.B.Snyder, H.R. Wilson [Simulation of Edge Localised Modes using BOUT++](http://arxiv.org/abs/1008.4554). Invited paper to the 2010 Joint Varenna-Lausanne international workshop. Plasma Phys. Control. Fusion **53** (2011) 054005 doi: [10.1088/0741-3335/53/5/054005](http://dx.doi.org/10.1088/0741-3335/53/5/054005)
 
+2010
+----
+
 * X Q Xu, B D Dudson, P.B.Snyder, M V Umansky, H.R. Wilson [Nonlinear simulations of peeling-ballooning modes with anomalous electron viscosity and their role in ELM crashes](http://link.aps.org/doi/10.1103/PhysRevLett.105.175005) Phys. Rev. Lett. **105** (2010) 175005
+
+2009
+----
 
 * B D Dudson, M. V. Umansky, X. Q. Xu, P. B. Snyder, H. R. Wilson: [BOUT++: a framework for parallel plasma fluid simulations](http://dx.doi.org/10.1016/j.cpc.2009.03.008). Computer Physics Communications 180 (2009), pp. 1467-1480 doi:[10.1016/j.cpc.2009.03.008](http://dx.doi.org/10.1016/j.cpc.2009.03.008). Also available as an [arXiv pre-print](http://arxiv.org/abs/0810.5757)
 
-### Conference presentations
 
 
 
