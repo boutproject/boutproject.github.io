@@ -11,11 +11,11 @@ nav-state: index
 * Intended to be quite modular, enabling fast testing of numerical methods
 * Can evolve any number of equations, with equations appearing in a readable form
 * Primarily designed and tested with reduced plasma fluid models in mind
-* Jointly developed by LLNL, University of York (UK) and other U.S. and international partners
+* Jointly developed by University of York (UK), LLNL, CCFE, DTU, and other international partners
 
 ### Contributors
 
-BOUT++ is developed by LLNL, University of York (UK) and other U.S. and international partners.
+BOUT++ is developed by University of York and international partners.
 Contributions to the code and tool chains have been made by many researchers including:
 
 * George Breyiannis, Japan Atomic Energy Agency
@@ -25,20 +25,23 @@ Contributions to the code and tool chains have been made by many researchers inc
 * Luke Easy, Culham Centre for Fusion Energy / University of York, UK
 * Sean Farley
 * Brett Friedman, UCLA, USA
+* Erik Grinaker, University of York, UK
 * Peter Hill, University of York, UK
 * Ilon Joseph, Lawrence Livermore National Laboratory, USA
 * Jarrod Leddy, University of York, UK
 * Michael Loiten, Technical University of Denmark (DTU)
-* Chenhao Ma
+* Chenhao Ma, Peking University, China
 * Jens Madsen, Technical University of Denmark (DTU)
 * Dmitry Meyerson, MIT, USA
-* John Omotani, Culham Centre for Fusion Energy, UK
+* John Omotani, Chalmers University of Technology, Sweden
 * Joseph Parker, Science and Technology Facilities Council, UK
+* David Schwoerer, Dublin City University, Republic of Ireland
 * Brendan Shanahan, Max Planck Institut fuer Plasmaphysik, Teilinstitut Greifswald, Germany
 * Maxim Umansky, Lawrence Livermore National Laboratory, USA
 * Nick Walkden, Culham Centre for Fusion Energy, UK
-* Tianyang Xia
+* Tianyang Xia, ASIPP, China
 * Xueqiao Xu, Lawrence Livermore National Laboratory, USA
+* Hong Zhang, Argonne National Laboratory, USA
 
 ### Contact, bug reports, help, etc.
 
