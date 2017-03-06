@@ -1,7 +1,6 @@
 ---
 title: Two phase flow
-image: 
-caption: 
+description: Physics model of two phase flow using BOUT++
 ---
 
 <div class="video-container">

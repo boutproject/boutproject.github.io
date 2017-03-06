@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications and presentations 
+description: List of published articles using BOUT++
 nav-state: publications
 ---
 

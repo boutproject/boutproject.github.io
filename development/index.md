@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Development 
+description: How to contribute to the development of BOUT++
 ---
 
 ### Contributing to BOUT++
