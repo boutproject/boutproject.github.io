@@ -14,6 +14,14 @@ nav-state: about
 * Primarily designed and tested with reduced plasma fluid models in mind
 * Jointly developed by University of York (UK), LLNL, CCFE, DTU, and other international partners
 
+### Maintainers
+
+BOUT++ is currently maintained by the following people:
+
+* Ben Dudson, University of York, UK (_lead maintainer_)
+* Peter Hill, University of York, UK
+* Joseph Parker, Science and Technology Facilities Council, UK
+
 ### Contributors
 
 BOUT++ is developed by University of York and international partners.
@@ -22,12 +30,10 @@ Contributions to the code and tool chains have been made by many researchers inc
 * George Breyiannis, Japan Atomic Energy Agency
 * James Buchanan, Culham Centre for Fusion Energy, UK
 * David Dickinson, University of York, UK
-* Ben Dudson, University of York, UK
 * Luke Easy, Culham Centre for Fusion Energy / University of York, UK
 * Sean Farley
 * Brett Friedman, UCLA, USA
 * Erik Grinaker, University of York, UK
-* Peter Hill, University of York, UK
 * Ilon Joseph, Lawrence Livermore National Laboratory, USA
 * Jarrod Leddy, University of York, UK
 * Michael Loiten, Technical University of Denmark (DTU)
@@ -35,7 +41,6 @@ Contributions to the code and tool chains have been made by many researchers inc
 * Jens Madsen, Technical University of Denmark (DTU)
 * Dmitry Meyerson, MIT, USA
 * John Omotani, Chalmers University of Technology, Sweden
-* Joseph Parker, Science and Technology Facilities Council, UK
 * David Schwoerer, Dublin City University, Republic of Ireland
 * Brendan Shanahan, Max Planck Institut fuer Plasmaphysik, Teilinstitut Greifswald, Germany
 * Maxim Umansky, Lawrence Livermore National Laboratory, USA
@@ -48,8 +53,6 @@ Contributions to the code and tool chains have been made by many researchers inc
 
 You can get help on using BOUT++, or submit bug reports either through the [GitHub site][1],
 or through the [Google Group][2].
-
-<!-- Link to online documentation when ready -->
 
 [1]: https://github.com/boutproject/BOUT-dev/issues
 [2]: https://groups.google.com/a/york.ac.uk/forum/#!forum/bout-user-group
