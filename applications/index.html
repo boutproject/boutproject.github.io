@@ -28,9 +28,15 @@ please contact <a href="mailto:peter.hill@york.ac.uk">Peter Hill</a> or other BO
           <div class="row">
             <li class="collection-item" style="list-style-type: none;">
               <div style="text-align: center;">
+                {% if post.image %}
                 <div style="display: inline-block;">
                   <img class="responsive-img materialboxed" src="{{ post.image }}" data-caption="{{ post.caption }}">
                 </div>
+                {% elsif post.video %}
+                <div class="video-container">
+                  <iframe width="560" height="315" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
+                </div>
+                {% endif %}
               </div>
               <span class="flow-text">{{ post.excerpt }}</span>
             </li>
