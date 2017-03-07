@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Workshop 2016
+description: Agenda for the 2014 BOUT++ Workshop
 nav-state: doc
 ---
 

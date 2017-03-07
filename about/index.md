@@ -1,7 +1,8 @@
 ---
 layout: page
 title: BOUT++ project
-nav-state: index
+description: Description of BOUT++ and list of contributors
+nav-state: about
 ---
 
 ### What is BOUT++?

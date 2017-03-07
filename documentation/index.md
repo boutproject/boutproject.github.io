@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Documentation
-nav-state: doc
+description: Where to find documentation and get help for BOUT++
+nav-state: documentation
 ---
 
 #### Manual

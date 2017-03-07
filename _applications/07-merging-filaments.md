@@ -1,7 +1,9 @@
 ---
 title: Merging flux ropes
+description: Merging of two filaments of plasma through magnetic reconnection using BOUT++
 image: 
 caption: 
+nav-state: applications
 ---
 
 <div class="video-container">

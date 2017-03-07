@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Download
+description: Download latest version of BOUT++
 nav-state: download
 ---
 

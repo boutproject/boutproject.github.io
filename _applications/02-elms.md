@@ -1,6 +1,8 @@
 ---
 title: Edge Localised Modes (ELMs)
 image: elm-pb.png
+description: Edge Localised Mode (ELM) physics model in BOUT++
+nav-state: applications
 ---
 
 [ELMs](https://doi.org/10.1088/0741-3335/38/2/001) are instabilities driven by pressure gradients and currents
