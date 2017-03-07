@@ -54,5 +54,19 @@ Contributions to the code and tool chains have been made by many researchers inc
 You can get help on using BOUT++, or submit bug reports either through the [GitHub site][1],
 or through the [Google Group][2].
 
+### Funding
+
+BOUT++ development is made possible by the following funding bodies:
+
+<!-- HTML to put the images side-by-side -->
+<div class="row valign-wrapper">
+<div class="col s12 m12 l6">
+<img class="responsive-img valign" src="/assets/images/epsrc.jpg" alt="EPSRC">
+</div>
+<div class="col s12 m12 l6">
+<img class="responsive-img valign" src="/assets/images/EUROfusion-LOGO.jpg" alt="EUROfusion">
+</div>
+</div>
+
 [1]: https://github.com/boutproject/BOUT-dev/issues
 [2]: https://groups.google.com/a/york.ac.uk/forum/#!forum/bout-user-group
