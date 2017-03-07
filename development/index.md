@@ -2,6 +2,7 @@
 layout: page
 title: Development 
 description: How to contribute to the development of BOUT++
+nav-state: development
 ---
 
 ### Contributing to BOUT++

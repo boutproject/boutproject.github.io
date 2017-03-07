@@ -3,6 +3,7 @@ title: Simulation of 3D geometries
 image: stellarator.png
 caption: Magnetic field lines in a straight stellarator
 description: Simulation of complex 3D magnetic geometries using BOUT++
+nav-state: applications
 ---
 
 Stellarator devices like [Wendelstein 7-X](http://www.ipp.mpg.de/w7x) confine plasmas in a twisted 3D magnetic field,

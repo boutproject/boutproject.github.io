@@ -3,6 +3,7 @@ title: Plasma filaments in 2D (blobs)
 image: blob2d.png
 caption: Single blob simulation
 description: Plasma filament (blob) physics model in BOUT++
+nav-state: applications
 ---
 
 At the edge of tokamak (and other) plasmas, isolated "blobs" of plasma are often observed,

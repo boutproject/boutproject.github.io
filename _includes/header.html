@@ -5,7 +5,11 @@
       <a href="#" data-activates="mobile-menu" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down">
           {% for item in site.data.navigation %}
-            <li>
+            {% if page.nav-state == item.url %}
+              <li class="active">
+            {% else %}
+              <li>
+            {% endif %}
             {% if site.localtest %}
               <a href="{{ item.url | prepend: site.localurl }}">
             {% else %}
