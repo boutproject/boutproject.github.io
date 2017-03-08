@@ -10,14 +10,20 @@ layout: default
       <h2 class="center-align blue-text">{{ page.title }}</h2>
     </div>
     <div class="divider"></div>
-    <div class="container container-wide markdown-file">
+    <div class="container container-wide">
 
       <ul class="collection with-header">
         <div class="row">
-          <li class="collection-item" style="list-style-type: none;">
+          <li class="collection-item">
+            {% if page.image %}
             <div class="left">
               <img class="responsive-img materialboxed" src="{{ page.image }}" data-caption="{{ page.caption }}">
             </div>
+            {% elsif page.video %}
+            <div class="video-container">
+              <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+            {% endif %}
             <span class="post-description flow-text">{{ page.content }}</span>
           </li>
         </div>
