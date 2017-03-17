@@ -8,6 +8,7 @@ nav-state: publications
 2017
 ----
 
+* A Kohn, E Holzhauer, J Leddy, M B Thomas, R G L Vann [Perturbing microwave beams by plasma density fluctuations](https://arxiv.org/abs/1703.05182)
 * B D Dudson, J Leddy [Hermes: Global plasma edge fluid turbulence simulations](https://doi.org/10.1088/1361-6587/aa63d2) PPCF (2017). [Preprint here](https://arxiv.org/abs/1609.03360)
 
 2016
