@@ -8,11 +8,24 @@ nav-state: publications
 2017
 ----
 
-* B D Dudson, J Leddy [Hermes: Global plasma edge fluid turbulence simulations](https://doi.org/10.1088/1361-6587/aa63d2) PPCF (2016). [Preprint here](https://arxiv.org/abs/1609.03360)
+* B D Dudson, J Leddy [Hermes: Global plasma edge fluid turbulence simulations](https://doi.org/10.1088/1361-6587/aa63d2) PPCF (2017). [Preprint here](https://arxiv.org/abs/1609.03360)
 
 2016
 ----
 
+* N R Walkden, L Easy, F Militello and J T Omotani [Dynamics of 3D isolated thermal filaments](https://arxiv.org/abs/1606.00582)
+* Ya-Hui Wang, W-F Guo, Z-H Wang Q-L Ren A-P Sun, Min Xu, Ai-Ke Wang and Nong Xiang [Radial transport dynamics studies of SMBI with a newly developed TPSMBI code](https://doi.org/10.1088/1674-1056/25/10/106601) Chinese Phys. B 25 106601 (2016)
+* J Huang, S Y Chen and C J Tang [Simulations of peeling-ballooning modes with electron cyclotron resonance heating](http://dx.doi.org/10.1063/1.4948482) Physics of Plasmas 23, 052513 (2016)
+* T F Tang, X Q Xu, C H Ma, E M Bass, C Holland and J Candy [Benchmark studies of the gyro-Landau-fluid code and gyro-kinetic codes on kinetic ballooning modes](http://dx.doi.org/10.1063/1.4944391) Physics of Plasmas 23, 032119 (2016)
+* M L Mou, J Huang, N Wu, S Y Chen, C J Tang [The impact of static magnetic perturbations on edge localized modes](http://dx.doi.org/10.1016/j.physleta.2016.05.047) Phys Lett A 380(33) 2544-2548 (2016)
+* F Riva, C Colin, J Denis, L Easy, I Furno, J Madsen, F Militello, V Naulin, A H Nielsen, J M B Olsen, J T Omotani, J J Rasmussen, P Ricci, E Serre, P Tamain and C Theiler [Blob dynamics in the TORPEX experiment: A multi-code validation](https://doi.org/10.1088/0741-3335/58/4/044005) Plasma Phys. Control. Fusion 58 044005 (2016)
+* O Izacard, C Holland, S D James, D P Brennan [Dynamics of ion temperature gradient turbulence and transport with a static magnetic island](http://dx.doi.org/10.1063/1.4941704) Physics of Plasmas 23, 022304 (2016)
+* X Q Xu, T Y Xia, N Yan, Z X Liu, D F Kong, A Diallo, R J Groebner, A E Hubbard, and J W Hughes [Toward integrated multi-scale pedestal simulations including edge-localized-mode dynamics, evolution of edge-localized-mode cycles, and continuous fluctuations](http://dx.doi.org/10.1063/1.4948283) Physics of Plasmas 23, 055901 (2016)
+* A S Richardson, J R Angus, S B Swanekamp, I M Rittersdorf, P F Ottinger, and J W Schumer [The effect of electron inertia in Hall-driven magnetic field penetration in electron-magnetohydrodynamics](http://dx.doi.org/10.1063/1.4948715) Physics of Plasmas 23, 052110 (2016)
+* F Militello, N R Walkden, T Farley, W A Gracias, J Olsen, F Riva, L Easy, N Fedorczak, I Lupelli, J Madsen [Multi-code analysis of scrape-off layer filament dynamics in MAST](https://doi.org/10.1088/0741-3335/58/10/105002) Plasma Phys. Control. Fusion 58 105002 (2016)
+* A Kohn, E Holzhauer, J Leddy, M B Thomas, R G L Vann [Influence of plasma turbulence on microwave propagation](https://doi.org/10.1088/0741-3335/58/10/105008)  Plasma Phys. Control. Fusion 58 105008 (2016)
+* J Kim, S S Kim, H Jhang [Effects of resistivity on linear plasma responses to resonant magnetic perturbations in tokamak plasmas](http://dx.doi.org/10.1063/1.4961919) Physics of Plasmas 23, 092502 (2016)
+* Y Luo, S Y Chen, J Huang, Y Y Xiong, C J Tang [Influence of equilibrium shear flow in the parallel magnetic direction on edge localized mode crash](http://dx.doi.org/10.1063/1.4945646) Physics of Plasmas 23, 042302 (2016)
 * H Seto, M Yagi, N Aiba, A Matsuyama, B D Dudson, X Q Xu "Non-ideal Ballooning Mode Instability with Real Electron Inertia" Plasma and Fusion Research (2016)
 * B W Shanahan, P A Hill, B D Dudson, "Towards nonaxisymmetry; initial results using the Flux Coordinate Independent method in BOUT++" Journal of Physics: Conference Series (2016) [Preprint here](https://arxiv.org/abs/1609.06603)
 * J Leddy, B Dudson "Simulation of the interaction between plasma turbulence and neutrals in linear devices" submitted to the Journal of Nuclear Materials and Energy (2016)
