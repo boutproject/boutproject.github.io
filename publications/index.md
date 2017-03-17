@@ -46,21 +46,29 @@ nav-state: publications
 2015
 ----
 
+* B Friedman and T A Carter [A non-modal analytical method to predict turbulent properties applied to the Hasegawa-Wakatani model](http://dx.doi.org/10.1063/1.4905863) Physics of Plasmas 22, 012307 (2015)
+* Y L Zhou, Z H Wang, X Q Xu, H D Li, H Feng, W G Sun [Comparisons between tokamak fueling of gas puffing and supersonic molecular beam injection in 2D simulations](http://dx.doi.org/10.1063/1.4905641) Physics of Plasmas 22, 012503 (2015)
+* G Y Park, S S Kim, H Jhang, P H Diamond, T Rhee, X Q Xu [Flux-driven simulations of turbulence collapse](http://dx.doi.org/10.1063/1.4914841) Physics of Plasmas 22, 032505 (2015)
+* T Rhee, S S Kim, H Jhang, G Y Park, R Singh [A mechanism for magnetic field stochastization and energy release during an edge pedestal collapse](http://dx.doi.org/10.1088/0029-5515/55/3/032004) Nucl. Fusion 55 032004 (2015)
+* W Lee, M V Umansky, J Angus, S I Krasheninnikov [Electromagnetic effects on dynamics of high-beta filamentary structures](http://dx.doi.org/10.1063/1.4905639) Physics of Plasmas 22, 012505 (2015)
+* W Lee, J R Angus, M V Umansky, S I Krasheninnikov [Electromagnetic effects on plasma blob-filament transport](http://dx.doi.org/10.1016/j.jnucmat.2014.09.083) J.Nucl.Mat. 463, 765-768 (2015)
+* B Min, C-Y An and C-B Kim [Contributions of nonlinear fluxes to the temporal response of fluid plasma](http://dx.doi.org/10.1088/0741-3335/57/9/095009) Plasma Phys. Control. Fusion 57 095009 (2015)
+* K Ghantous and Ö D Gürcan [Wave-number spectrum of dissipative drift waves and a transition scale](http://dx.doi.org/10.1103/PhysRevE.92.033107) Phys. Rev. E 92, 033107 (2015)
+* N R Walkden, B D Dudson, L Easy, G Fishpool and J T Omotani [Numerical investigation of isolated filament motion in a realistic tokamak geometry](http://dx.doi.org/10.1088/0029-5515/55/11/113022) Nucl. Fusion 55 113022 (2015)
+* T Y Xia and X Q Xu [Nonlinear fluid simulation of particle and heat fluxes during burst of ELMs on DIII-D with BOUT++  code](http://dx.doi.org/10.1088/0029-5515/55/11/113030) Nucl. Fusion 55 113030 (2015)
 * C H Ma, X Q Xu, P W Xi, and T Y Xia [Impact of relative phase shift on inward turbulent spreading](http://dx.doi.org/10.1063/1.4905644) Physics of Plasmas 22, 010702 (2015)
+* C H Ma, X Q Xu, P Xi, T Y Xia, P B Snyder, S S Kim [Impact of inward turbulence spreading on energy loss of edge-localized modes](http://dx.doi.org/10.1063/1.4920963) Physics of Plasmas 22, 055903 (2015)
 * J T Omotani, B D Dudson, E Havlickova, M Umansky [Non-local parallel transport in BOUT++](http://www.sciencedirect.com/science/article/pii/S0022311514007247) Journal of Nuclear Materials 463, 769-772 (2015) [doi:10.1016/j.jnucmat.2014.10.040](http://dx.doi.org/10.1016/j.jnucmat.2014.10.040). [Preprint here](http://arxiv.org/abs/1405.6236).
 
 
 2014
 ----
 
+* X Q Xu, J F Ma, G Q Li [Impact of the pedestal plasma density on dynamics of edge localized mode crashes and energy loss scaling](http://dx.doi.org/10.1063/1.4905070) Physics of Plasmas 21, 120704 (2014)
 * L Easy,  F Militello, J Omotani, B Dudson, E Havlickova, P Tamain, V Naulin, A H Nielsen [3D Simulations of Plasma Filaments in the Scrape Off Layer: A Comparison with Models of Reduced Dimensionality](http://dx.doi.org/10.1063/1.4904207) Phys. Plasmas 21, 122515 (2014). [arXiv preprint](http://arxiv.org/abs/1410.2137)
-
 * D Meyerson, C Michoski, F Waelbroeck, W Horton [Effect of chaos on plasma filament dynamics and turbulence in the scrape-off layer](http://dx.doi.org/10.1063/1.4890349) Phys. Plasmas 21, 072310 (2014)
-
 * B D Dudson, A.Allen, G.Breyiannis, E.Brugger, J.Buchanan, L.Easy, S.Farley, I.Joseph, M. Kim, A.D.McGann, J.T.Omotani, M.V.Umansky, N.R.Walkden, T.Xia, X.Q.Xu [BOUT++: Recent and current developments](http://dx.doi.org/10.1017/S0022377814000816) Journal of Plasma Physics 2014. [arXiv preprint](http://arxiv.org/abs/1405.7905)
-
 * J T Omotani, B D Dudson, E Havlickova, M Umansky [Non-local parallel transport in BOUT++](http://www.sciencedirect.com/science/article/pii/S0022311514007247) in press Journal of Nuclear Materials 2014 [doi:10.1016/j.jnucmat.2014.10.040](http://dx.doi.org/10.1016/j.jnucmat.2014.10.040). [Preprint here](http://arxiv.org/abs/1405.6236).
-
 * J F Ma, X Q Xu, B D Dudson "Linear peeling-ballooning mode simulations in snowflake-like divertor configuration using BOUT++ code" Nucl. Fusion 54 (2014) 033011
 
 2013
