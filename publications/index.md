@@ -8,12 +8,19 @@ nav-state: publications
 2017
 ----
 
+* A A Stepanenko, W Lee, and S I Krasheninnikov [Macroscopic motion of sheath-connected blobs in magnetic fields with arbitrary topology](http://doi.org/10.1063/1.4972800) Physics of Plasmas 24, 012301 (2017)
+* C H Ma, X Q Xu [Global kinetic ballooning mode simulations in BOUT++](http://doi.org/10.1088/0029-5515/57/1/016002) Nucl. Fusion 57 016002 (2017)
+* H Jhang, H H Kaang, S S Kim, T Rhee, R Singh, T S Hahm [Impact of zonal flows on edge pedestal collapse](http://doi.org/10.1088/0029-5515/57/2/022006) Nucl. Fusion 57 022006 (2017)
 * A Kohn, E Holzhauer, J Leddy, M B Thomas, R G L Vann [Perturbing microwave beams by plasma density fluctuations](https://arxiv.org/abs/1703.05182)
 * B D Dudson, J Leddy [Hermes: Global plasma edge fluid turbulence simulations](https://doi.org/10.1088/1361-6587/aa63d2) PPCF (2017). [Preprint here](https://arxiv.org/abs/1609.03360)
 
 2016
 ----
 
+* J T Omotani, F Militello, L Easy, N R Walkden [The effects of shape and amplitude on the velocity of scrape-off layer filaments](http://dx.doi.org/10.1088/0741-3335/58/1/014030) Plasma Phys. Control. Fusion 58 014030 (2016)
+* CY An, B Min, CB Kim [Cross phase of resistive-drift plasma turbulence near an adiabatic state](http://dx.doi.org/10.3938/jkps.69.1290) Journal of the Korean Physical Society (2016) 69
+* Z X Liu, X Q Xu, X Gao, A E Hubbard, J W Hughes, J R Walk, C Theiler, T Y  Xia, S G Baek, T Golfinopoulos, D Whyte, T Zhang, J G Li [The physics mechanisms of the weakly coherent mode in the Alcator C-Mod Tokamak](http://dx.doi.org/10.1063/1.4972088) Physics of Plasmas 23, 120703 (2016)
+* N M Li, J Z Sun, Z H Wang, X Q Xu, Z Sun, L Wang, J S Hu, D.Z. Wang [Numerical investigation on lithium transport in the edge plasma of EAST real-time- Li-injection experiments in the frame of BOUT++](http://dx.doi.org/10.1016/j.nme.2016.12.009) Nucl.Mat.and Energy (2016)
 * N R Walkden, L Easy, F Militello and J T Omotani [Dynamics of 3D isolated thermal filaments](https://arxiv.org/abs/1606.00582)
 * Ya-Hui Wang, W-F Guo, Z-H Wang Q-L Ren A-P Sun, Min Xu, Ai-Ke Wang and Nong Xiang [Radial transport dynamics studies of SMBI with a newly developed TPSMBI code](https://doi.org/10.1088/1674-1056/25/10/106601) Chinese Phys. B 25 106601 (2016)
 * J Huang, S Y Chen and C J Tang [Simulations of peeling-ballooning modes with electron cyclotron resonance heating](http://dx.doi.org/10.1063/1.4948482) Physics of Plasmas 23, 052513 (2016)
@@ -39,6 +46,7 @@ nav-state: publications
 2015
 ----
 
+* C H Ma, X Q Xu, P W Xi, and T Y Xia [Impact of relative phase shift on inward turbulent spreading](http://dx.doi.org/10.1063/1.4905644) Physics of Plasmas 22, 010702 (2015)
 * J T Omotani, B D Dudson, E Havlickova, M Umansky [Non-local parallel transport in BOUT++](http://www.sciencedirect.com/science/article/pii/S0022311514007247) Journal of Nuclear Materials 463, 769-772 (2015) [doi:10.1016/j.jnucmat.2014.10.040](http://dx.doi.org/10.1016/j.jnucmat.2014.10.040). [Preprint here](http://arxiv.org/abs/1405.6236).
 
 
