@@ -6,12 +6,12 @@ locale: en
 description: |
   Plasma simulation in curvilinear coordinate systems
 baseurl: "/"
-url: http://boutproject.github.io
+url: https://boutproject.github.io
 paginate: 12
 github:
   user: boutproject
   repository: boutproject.github.io
-  url: http://boutproject.github.io/
+  url: https://boutproject.github.io/
   status: false
 home_bgfile: bout_banner.png
 sass:
