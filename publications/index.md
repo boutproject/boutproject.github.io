@@ -11,8 +11,9 @@ nav-state: publications
 * A A Stepanenko, W Lee, and S I Krasheninnikov [Macroscopic motion of sheath-connected blobs in magnetic fields with arbitrary topology](http://doi.org/10.1063/1.4972800) Physics of Plasmas 24, 012301 (2017)
 * C H Ma, X Q Xu [Global kinetic ballooning mode simulations in BOUT++](http://doi.org/10.1088/0029-5515/57/1/016002) Nucl. Fusion 57 016002 (2017)
 * H Jhang, H H Kaang, S S Kim, T Rhee, R Singh, T S Hahm [Impact of zonal flows on edge pedestal collapse](http://doi.org/10.1088/0029-5515/57/2/022006) Nucl. Fusion 57 022006 (2017)
-* A Kohn, E Holzhauer, J Leddy, M B Thomas, R G L Vann [Perturbing microwave beams by plasma density fluctuations](https://arxiv.org/abs/1703.05182)
+* A Köhn, E Holzhauer, J Leddy, M B Thomas, R G L Vann [Perturbing microwave beams by plasma density fluctuations](https://arxiv.org/abs/1703.05182)
 * B D Dudson, J Leddy [Hermes: Global plasma edge fluid turbulence simulations](https://doi.org/10.1088/1361-6587/aa63d2) PPCF (2017). [Preprint here](https://arxiv.org/abs/1609.03360)
+* D Schwörer, NR Walkden, H Leggate, BD Dudson, F Militello, T Downes, MM Turner [Influence of plasma background including neutrals on scrape-off layer filaments using 3D simulations](https://www.sciencedirect.com/science/article/pii/S2352179116301648?np=y) NME (2017)
 
 2016
 ----
