@@ -81,9 +81,13 @@ nav-state: publications
 
 * D R Smith, S E Parker, W Wan, Y Chen, B D Dudson, R J Fonck, G R McKee, S M Kaye, D S Thompson, R E Bell, A Diallo, W Guttenfelder, B P LeBlanc, M Podesta "Measurements and simulations of low wavenumber pedestal turbulence in the National Spherical Torus Experiment" [Nuclear Fusion 53 (2013) 113029](http://stacks.iop.org/0029-5515/53/113029)
 
-* X Xu, P W Xi, A Dimits, I Joseph, M V Umansky, T Y Xia, B Gui, S S Kim, G Y Park, T Rhee, H Jhang, P H Diamond, B Dudson, P B Snyder "Gyro-fluid and two-fluid theory and simulations of edge-localized-modes". Phys. Plasmas 20 (2013) 056113
+* X Xu, P W Xi, A Dimits, I Joseph, M V Umansky, T Y Xia, B Gui, S S Kim, G Y Park, T Rhee, H Jhang, P H Diamond, B Dudson, P B Snyder [Gyro-fluid and two-fluid theory and simulations of edge-localized-modes](http://dx.doi.org/10.1063/1.4801746). Phys. Plasmas 20 (2013) 056113
 
 * J T Omotani, B D Dudson [Non-local approach to kinetic effects on parallel transport in fluid models of the scrape-off layer](http://iopscience.iop.org/0741-3335/55/5/055009/). Plasma Phys. Control. Fusion **55** (2013) 055009. Preprint arXiv [plasm-phys/1302.0676](http://arxiv.org/abs/1302.0676)
+
+* T Y Xia, X Q Xu, P W Xi [Six-field two-fluid simulations of peeling–ballooning modes using BOUT++](http://dx.doi.org/10.1088/0029-5515/53/7/073009) Nucl. Fusion 53 (2013) 073009
+
+* T Y Xia, X Q Xu [Five-field simulations of peeling-ballooning modes using BOUT++ code](http://dx.doi.org/10.1063/1.4801006) Physics of Plasmas 20, 052102 (2013)
 
 2012
 ----
@@ -108,6 +112,8 @@ nav-state: publications
 * X Q Xu, B D Dudson "Nonlinear ELM simulations based on a nonideal peeling ballooning model using the BOUT++ code". Nucl. Fusion **51** (2011) 103040
 
 * B D Dudson, X Q Xu, M V Umansky, P.B.Snyder, H.R. Wilson [Simulation of Edge Localised Modes using BOUT++](http://arxiv.org/abs/1008.4554). Invited paper to the 2010 Joint Varenna-Lausanne international workshop. Plasma Phys. Control. Fusion **53** (2011) 054005 doi: [10.1088/0741-3335/53/5/054005](http://dx.doi.org/10.1088/0741-3335/53/5/054005)
+
+* P B Snyder, R J Groebner, J W Hughes, T H Osborne, M Beurskens, A W Leonard, H R Wilson and X Q Xu [A first-principles predictive model of the pedestal height and width: development, testing and ITER optimization with the EPED model](http://dx.doi.org/10.1088/0029-5515/51/10/103016) Nucl. Fusion 51 103016 (2011)
 
 2010
 ----
