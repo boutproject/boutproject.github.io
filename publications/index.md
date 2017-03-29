@@ -65,15 +65,22 @@ nav-state: publications
 2014
 ----
 
+* G Q Li, X Q Xu, P B Snyder, A D Turnbull, T Y Xia, C H Ma and P W Xi [Linear calculations of edge current driven kink modes with BOUT++ code](http://dx.doi.org/10.1063/1.4898673) Phys. Plasmas 21, 102511 (2014)
 * X Q Xu, J F Ma, G Q Li [Impact of the pedestal plasma density on dynamics of edge localized mode crashes and energy loss scaling](http://dx.doi.org/10.1063/1.4905070) Physics of Plasmas 21, 120704 (2014)
 * L Easy,  F Militello, J Omotani, B Dudson, E Havlickova, P Tamain, V Naulin, A H Nielsen [3D Simulations of Plasma Filaments in the Scrape Off Layer: A Comparison with Models of Reduced Dimensionality](http://dx.doi.org/10.1063/1.4904207) Phys. Plasmas 21, 122515 (2014). [arXiv preprint](http://arxiv.org/abs/1410.2137)
 * D Meyerson, C Michoski, F Waelbroeck, W Horton [Effect of chaos on plasma filament dynamics and turbulence in the scrape-off layer](http://dx.doi.org/10.1063/1.4890349) Phys. Plasmas 21, 072310 (2014)
 * B D Dudson, A.Allen, G.Breyiannis, E.Brugger, J.Buchanan, L.Easy, S.Farley, I.Joseph, M. Kim, A.D.McGann, J.T.Omotani, M.V.Umansky, N.R.Walkden, T.Xia, X.Q.Xu [BOUT++: Recent and current developments](http://dx.doi.org/10.1017/S0022377814000816) Journal of Plasma Physics 2014. [arXiv preprint](http://arxiv.org/abs/1405.7905)
 * J T Omotani, B D Dudson, E Havlickova, M Umansky [Non-local parallel transport in BOUT++](http://www.sciencedirect.com/science/article/pii/S0022311514007247) in press Journal of Nuclear Materials 2014 [doi:10.1016/j.jnucmat.2014.10.040](http://dx.doi.org/10.1016/j.jnucmat.2014.10.040). [Preprint here](http://arxiv.org/abs/1405.6236).
 * J F Ma, X Q Xu, B D Dudson "Linear peeling-ballooning mode simulations in snowflake-like divertor configuration using BOUT++ code" Nucl. Fusion 54 (2014) 033011
+* P W Xi, X Q Xu, and P H Diamond [The impact of pedestal turbulence and electron inertia on edge-localized-mode crashes](http://dx.doi.org/10.1063/1.4875332) Physics of Plasmas 21, 056110 (2014)
+* S Y Chen, J Huang, T T Sun, Z H Wang, and C J Tang [Simulation of peeling-ballooning modes with pellet injection](http://dx.doi.org/10.1063/1.4902532) Physics of Plasmas 21, 112512 (2014)
+* B Gui, X Q Xu, J R Myra, and D A D'Ippolito [Mitigating impact of thermal and rectified radio-frequency sheath potentials on edge localized modes](http://dx.doi.org/10.1063/1.4901306) Physics of Plasmas 21, 112302 (2014)
+* Z X Liu, X Q Xu, X Gao, T Y Xia, I Joseph [Three dimensional nonlinear simulations of edge localized modes on the EAST tokamak using BOUT++ code](http://dx.doi.org/10.1063/1.4895799) Physics of Plasmas 21, 090705 (2014)
 
 2013
 ----
+
+* M E Fenstermacher, X Q Xu, I Joseph, M J Lanctot, C J Lasnier, W H Meyer, B Tobias, L Zeng, A W Leonard, T H Osborne [Fast pedestal, SOL and divertor measurements from DIII-D to validate BOUT++ nonlinear ELM simulations](https://doi.org/10.1016/j.jnucmat.2013.01.065) J. Nucl. Mat. 438, S346–S350 (2013)
 
 * S A Myers, B D Dudson, H R Wilson "Nonlinear MHD simulations of the gravitational ballooning mode close to marginal stability" Accepted in Plasma Phys. Control. Fusion (2013)
 
@@ -88,6 +95,8 @@ nav-state: publications
 * T Y Xia, X Q Xu, P W Xi [Six-field two-fluid simulations of peeling–ballooning modes using BOUT++](http://dx.doi.org/10.1088/0029-5515/53/7/073009) Nucl. Fusion 53 (2013) 073009
 
 * T Y Xia, X Q Xu [Five-field simulations of peeling-ballooning modes using BOUT++ code](http://dx.doi.org/10.1063/1.4801006) Physics of Plasmas 20, 052102 (2013)
+
+* P W Xi, X Q Xu, T Y Xia, W M Nevins and S S Kim [Impact of a large density gradient on linear and nonlinear edge-localized mode simulations](http://dx.doi.org/10.1088/0029-5515/53/11/113020) Nuclear Fusion Volume 53 Number 11
 
 2012
 ----
