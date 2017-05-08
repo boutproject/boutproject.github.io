@@ -8,6 +8,7 @@ nav-state: publications
 2017
 ----
 
+* A I Smolyakov, O Chapurin, W Frias, O Koshkarov, I Romadanov, T Tang, M Umansky, Y Raitses, I D Kaganovich and V P Lakhin [Fluid theory and simulations of instabilities, turbulent transport and coherent structures in partially-magnetized plasmas of ExB discharges](https://doi.org/10.1088/0741-3335/59/1/014041) Plasma Phys. Control. Fusion 59 014041 (2017)
 * A A Stepanenko, W Lee, and S I Krasheninnikov [Macroscopic motion of sheath-connected blobs in magnetic fields with arbitrary topology](http://doi.org/10.1063/1.4972800) Physics of Plasmas 24, 012301 (2017)
 * C H Ma, X Q Xu [Global kinetic ballooning mode simulations in BOUT++](http://doi.org/10.1088/0029-5515/57/1/016002) Nucl. Fusion 57 016002 (2017)
 * H Jhang, H H Kaang, S S Kim, T Rhee, R Singh, T S Hahm [Impact of zonal flows on edge pedestal collapse](http://doi.org/10.1088/0029-5515/57/2/022006) Nucl. Fusion 57 022006 (2017)
@@ -17,7 +18,6 @@ nav-state: publications
 
 2016
 ----
-
 * J T Omotani, F Militello, L Easy, N R Walkden [The effects of shape and amplitude on the velocity of scrape-off layer filaments](http://dx.doi.org/10.1088/0741-3335/58/1/014030) Plasma Phys. Control. Fusion 58 014030 (2016)
 * CY An, B Min, CB Kim [Cross phase of resistive-drift plasma turbulence near an adiabatic state](http://dx.doi.org/10.3938/jkps.69.1290) Journal of the Korean Physical Society (2016) 69
 * Z X Liu, X Q Xu, X Gao, A E Hubbard, J W Hughes, J R Walk, C Theiler, T Y  Xia, S G Baek, T Golfinopoulos, D Whyte, T Zhang, J G Li [The physics mechanisms of the weakly coherent mode in the Alcator C-Mod Tokamak](http://dx.doi.org/10.1063/1.4972088) Physics of Plasmas 23, 120703 (2016)
