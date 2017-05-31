@@ -8,6 +8,7 @@ nav-state: publications
 2017
 ----
 
+* J G Chen, X Q Xu, C H Ma, P W Xi, D F Kong, and Y A Lei [Impact of E × B shear flow on low-n MHD instabilities](http://dx.doi.org/10.1063/1.4984257) Physics of Plasmas 24, 050704 (2017)
 * D Schwörer, N R Walkden, H Leggate, B D Dudson, F Militello, T Downes, M M Turner [Influence of plasma background including neutrals on scrape-off layer filaments using 3D simulations](https://doi.org/10.1016/j.nme.2017.02.016) Nuclear Materials and Energy (2017)
 * P Vaezi, C Holland, S C Thakur, and G R Tynan [Understanding the impact of insulating and conducting endplate boundary conditions on turbulence in CSDX through nonlocal simulations](http://dx.doi.org/10.1063/1.4980843) Physics of Plasmas 24, 042306 (2017)
 * Y H Wang, Z H Wang, W Guo, Q L Ren, A P Sun, M Xu, A K Wang, N Xiang [Benchmark studies of BOUT++ code and TPSMBI code on neutral transport during SMBI](https://doi.org/10.1016/j.physleta.2017.03.036) Phys Lett A 381 (21), 1795-1806
@@ -18,7 +19,6 @@ nav-state: publications
 * H Jhang, H H Kaang, S S Kim, T Rhee, R Singh, T S Hahm [Impact of zonal flows on edge pedestal collapse](http://doi.org/10.1088/0029-5515/57/2/022006) Nucl. Fusion 57 022006 (2017)
 * A Köhn, E Holzhauer, J Leddy, M B Thomas, R G L Vann [Perturbing microwave beams by plasma density fluctuations](https://arxiv.org/abs/1703.05182)
 * B D Dudson, J Leddy [Hermes: Global plasma edge fluid turbulence simulations](https://doi.org/10.1088/1361-6587/aa63d2) PPCF (2017). [Preprint here](https://arxiv.org/abs/1609.03360)
-* D Schwörer, NR Walkden, H Leggate, BD Dudson, F Militello, T Downes, MM Turner [Influence of plasma background including neutrals on scrape-off layer filaments using 3D simulations](https://www.sciencedirect.com/science/article/pii/S2352179116301648?np=y) NME (2017)
 
 2016
 ----
