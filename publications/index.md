@@ -8,7 +8,7 @@ nav-state: publications
 2017
 ----
 
-* J G Chen, X Q Xu, C H Ma, P W Xi, D F Kong, and Y A Lei [Impact of E × B shear flow on low-n MHD instabilities](http://dx.doi.org/10.1063/1.4984257) Physics of Plasmas 24, 050704 (2017)
+* J G Chen, X Q Xu, C H Ma, P W Xi, D F Kong, and Y A Lei [Impact of ExB shear flow on low-n MHD instabilities](http://dx.doi.org/10.1063/1.4984257) Physics of Plasmas 24, 050704 (2017)
 * D Schwörer, N R Walkden, H Leggate, B D Dudson, F Militello, T Downes, M M Turner [Influence of plasma background including neutrals on scrape-off layer filaments using 3D simulations](https://doi.org/10.1016/j.nme.2017.02.016) Nuclear Materials and Energy (2017)
 * P Vaezi, C Holland, S C Thakur, and G R Tynan [Understanding the impact of insulating and conducting endplate boundary conditions on turbulence in CSDX through nonlocal simulations](http://dx.doi.org/10.1063/1.4980843) Physics of Plasmas 24, 042306 (2017)
 * Y H Wang, Z H Wang, W Guo, Q L Ren, A P Sun, M Xu, A K Wang, N Xiang [Benchmark studies of BOUT++ code and TPSMBI code on neutral transport during SMBI](https://doi.org/10.1016/j.physleta.2017.03.036) Phys Lett A 381 (21), 1795-1806
