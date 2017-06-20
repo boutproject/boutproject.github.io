@@ -8,6 +8,7 @@ nav-state: publications
 2017
 ----
 
+* Y Zhang, J Huang, S Y Chen, and C J Tang [Influence of plasma resistivity on peeling-ballooning modes](http://dx.doi.org/10.1063/1.4985324) Physics of Plasmas 24, 062108 (2017)
 * X Wu, H Li, Z Wang, H Feng and Y Zhou [Simulations of the effects of density and temperature profile on SMBI penetration depth based on the HL-2A tokamak configuration](https://doi.org/10.1088/1674-1056/26/6/065201) Chinese Phys. B 26 065201 (2017)
 * Y-F Shi, Z-H Wang , Q-L Ren, A-P Sun, D-L Yu, W-F Guo and M Xu [Simulations of fast component and slow component of SMBI on HL-2A tokamak](https://doi.org/10.1088/1674-1056/26/5/055201) Chinese Phys. B 26 055201 (2017)
 * J G Chen, X Q Xu, C H Ma, P W Xi, D F Kong, and Y A Lei [Impact of ExB shear flow on low-n MHD instabilities](http://dx.doi.org/10.1063/1.4984257) Physics of Plasmas 24, 050704 (2017)
