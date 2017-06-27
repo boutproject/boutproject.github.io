@@ -13,11 +13,24 @@ of view of someone who hasn't used BOUT++ before. There are separate
 developer and coordinate system manuals which are useful when you need
 to dig further into how the code works.
 
-#### Forum
+#### BOUT++ User Group Mailing list
 
-Announcements are made through the [Google Groups forum][buggroup]. You can also
-ask for help through this forum. Alternatively, you can open an issue on
+Major announcements are made through
+the [Google Groups forum][buggroup]. You can sign up to the mailing
+list by clicking the "Join group to post" button. We have monthly
+BOUT++ User Group (BUG) video conferences that are also announced
+through the mailing list. The BUG meetings are a good place to discuss
+anything related to the development and use of BOUT++.
+
+You can ask for help installing or running BOUT++ through the BUG
+mailing list. Alternatively, you can open an issue on
 the [GitHub page][issues].
+
+#### Slack Channel
+
+We have a Slack channel for developers, where we discuss general
+BOUT++ development. If you would like access, please make
+an [issue on GitHub][issues].
 
 #### Workshops
 
@@ -36,7 +49,7 @@ workshop websites:
 * [2015 workshop, York](workshop2015.html)
 * [2014 workshop, LLNL](https://bout.llnl.gov/workshops/2014)
 * [2014 workshop, York](workshop2014.html)
-* [2013 workshop, LLNL](https://bout2013.llnl.gov/) 
+* [2013 workshop, LLNL](https://bout2013.llnl.gov/)
 * [2011 workshop, LLNL](https://bout2011.llnl.gov/)
 
 #### This website
