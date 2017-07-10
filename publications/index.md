@@ -8,6 +8,7 @@ nav-state: publications
 2017
 ----
 
+* T Rhee, G Y Park, Hogun Jhang, S S Kim, and R Singh [A refined understanding of compressibility effects on the stability of drift ballooning modes](http://dx.doi.org/10.1063/1.4990430) Physics of Plasmas 24, 072504 (2017)
 * Y Zhang, J Huang, S Y Chen, and C J Tang [Influence of plasma resistivity on peeling-ballooning modes](http://dx.doi.org/10.1063/1.4985324) Physics of Plasmas 24, 062108 (2017)
 * X Wu, H Li, Z Wang, H Feng and Y Zhou [Simulations of the effects of density and temperature profile on SMBI penetration depth based on the HL-2A tokamak configuration](https://doi.org/10.1088/1674-1056/26/6/065201) Chinese Phys. B 26 065201 (2017)
 * Y-F Shi, Z-H Wang , Q-L Ren, A-P Sun, D-L Yu, W-F Guo and M Xu [Simulations of fast component and slow component of SMBI on HL-2A tokamak](https://doi.org/10.1088/1674-1056/26/5/055201) Chinese Phys. B 26 055201 (2017)
