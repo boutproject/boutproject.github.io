@@ -1,15 +1,15 @@
 ---
 - title: home
-  url: 
+  url: /
 - title: about
-  url: about
+  url: /about
 - title: development
-  url: development
+  url: /development
 - title: applications
-  url: applications
+  url: /applications
 - title: publications
-  url: publications
+  url: /publications
 - title: documentation
-  url: documentation
+  url: /documentation
 - title: download
-  url: download
+  url: /download
