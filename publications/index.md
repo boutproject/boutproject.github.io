@@ -8,6 +8,8 @@ nav-state: publications
 2017
 ----
 
+* F Militello, B Dudson, L Easy, A Kirk, P Naylor [On the interaction of scrape off layer filaments](https://doi.org/10.1088/1361-6587/aa9252) Plasma Phys. Control. Fusion 59 125013 (2017)
+* T T Tran, H Jhang, J Kim, S S Kim [A characterization of the inertial range in forced-damped Hasegawa-Mima turbulence](https://doi.org/10.1063/1.4991420) Physics of Plasmas 24, 102318 (2017)
 * T Rhee, G Y Park, Hogun Jhang, S S Kim, and R Singh [A refined understanding of compressibility effects on the stability of drift ballooning modes](http://dx.doi.org/10.1063/1.4990430) Physics of Plasmas 24, 072504 (2017)
 * Y Zhang, J Huang, S Y Chen, and C J Tang [Influence of plasma resistivity on peeling-ballooning modes](http://dx.doi.org/10.1063/1.4985324) Physics of Plasmas 24, 062108 (2017)
 * X Wu, H Li, Z Wang, H Feng and Y Zhou [Simulations of the effects of density and temperature profile on SMBI penetration depth based on the HL-2A tokamak configuration](https://doi.org/10.1088/1674-1056/26/6/065201) Chinese Phys. B 26 065201 (2017)
