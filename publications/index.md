@@ -5,9 +5,16 @@ description: List of published articles using BOUT++
 nav-state: publications
 ---
 
+2018
+----
+
+* Y M Wang, X Q Xu, Z Yan, G R Mckee, B A Grierson, T Y Xia and X Gao [Simulation of density fluctuations before the L-H transition for Hydrogen and Deuterium plasmas in the DIII-D tokamak using the BOUT++ code](https://doi.org/10.1088/1741-4326/aa9f7d) Nucl. Fusion 58 026026 (2018)
+* B Gui, T Y Xia, X Q Xu, J R Myra and X T Xiao [Calculation of the radial electric field with RF sheath boundary conditions in divertor geometry](https://doi.org/10.1088/1741-4326/aa9e9a) Nucl. Fusion 58 026027 (2018)
+
 2017
 ----
 
+* Chan-Yong An, Byunghoon Min and Chang-Bae Kim [Contributions of the cross phase to the plasma transport](https://doi.org/10.1088/1361-6587/aa8839) Plasma Phys. Control. Fusion 59 115006 (2017)
 * F Militello, B Dudson, L Easy, A Kirk, P Naylor [On the interaction of scrape off layer filaments](https://doi.org/10.1088/1361-6587/aa9252) Plasma Phys. Control. Fusion 59 125013 (2017)
 * T T Tran, H Jhang, J Kim, S S Kim [A characterization of the inertial range in forced-damped Hasegawa-Mima turbulence](https://doi.org/10.1063/1.4991420) Physics of Plasmas 24, 102318 (2017)
 * T Rhee, G Y Park, Hogun Jhang, S S Kim, and R Singh [A refined understanding of compressibility effects on the stability of drift ballooning modes](http://dx.doi.org/10.1063/1.4990430) Physics of Plasmas 24, 072504 (2017)
