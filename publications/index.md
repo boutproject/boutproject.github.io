@@ -8,6 +8,7 @@ nav-state: publications
 2018
 ----
 
+*  O Koshkarov, A I Smolyakov, I V Romadanov, O Chapurin, M V Umansky, Y Raitses, and I D Kaganovich [Current flow instability and nonlinear structures in dissipative two-fluid plasmas](https://doi.org/10.1063/1.5017521) Physics of Plasmas 25, 011604 (2018)
 * Y M Wang, X Q Xu, Z Yan, G R Mckee, B A Grierson, T Y Xia and X Gao [Simulation of density fluctuations before the L-H transition for Hydrogen and Deuterium plasmas in the DIII-D tokamak using the BOUT++ code](https://doi.org/10.1088/1741-4326/aa9f7d) Nucl. Fusion 58 026026 (2018)
 * B Gui, T Y Xia, X Q Xu, J R Myra and X T Xiao [Calculation of the radial electric field with RF sheath boundary conditions in divertor geometry](https://doi.org/10.1088/1741-4326/aa9e9a) Nucl. Fusion 58 026027 (2018)
 
