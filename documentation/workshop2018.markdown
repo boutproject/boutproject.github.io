@@ -1,95 +1,40 @@
 ---
 layout: page
-title: Workshop 2018
+title: BOUT++ Workshop 2018
+subtitle: 5th-7th December 2018
 description: Agenda for the 2018 BOUT++ Workshop
 nav-state: doc
 ---
 
-#### BOUT++ workshop 2018
+##### 5th-7th December 2018
 
-**Date**: 5th-7th December 2018
+##### York Plasma Institute, University of York, UK YO10 5DQ
 
-**Location**: York Plasma Institute, University of York, UK YO10 5DQ
+<center> 
+ <a href="#about">About</a> - <a href="#registration">Registration</a> - <a href="#map">Map</a> - <a href="#agenda">Agenda</a>  -  <a href="#vc">Video conferencing</a>  -  <a href="#support">EUROfusion support</a>  -  <a href="#accommodation">Accommodation</a>  -  <a href="#links">Links</a>
+</center> 
 
-The BOUT++ code is a flexible tool for the simulation of plasma fluid equations, primarily focussed on tokamak edge simulations. This workshop will combine hands-on training in using BOUT++ with lectures on tokamak edge physics, numerical simulation techniques, and related topics. All those with an interest in using BOUT++ or in tokamak edge simulation, are invited to attend. There is no fee.
+<a name="about"/>
+#### About
+The BOUT++ code is a flexible tool for the simulation of plasma fluid equations, primarily focussed on tokamak edge simulations. This workshop will combine hands-on training in using BOUT++ with lectures on tokamak edge physics, numerical simulation techniques, and related topics. All those with an interest in using BOUT++ or in tokamak edge simulation, are invited to attend.
 
 The aim of this workshop is (1) to prepare researchers to use and further develop the BOUT++ code for edge turbulence, transport, and ELM simulations of magnetic fusion devices; and (2) to promote effective collaboration within the BOUT++ community and beyond.
 
-**Registration**: Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk) by August 31st.
+<a name="registration"/>
+#### Registration
+Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk) by 1st December.
 
-* [Agenda](#agenda)
-* [Video conferencing](#vc)
-* [Dinner](#dinner)
-* [EUROfusion support](#support)
-* [Accommodation](#accommodation)
-* [Links](#links)
+**No registration fee**
 
-#### Getting to the York Plasma Institute
+
+<a name="map"/>
+#### Map
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ol86TR9j1frEPAKJIenuWKQ03nk" width="640" height="480"></iframe>
 
 <a name="agenda"/>
 #### Agenda
-
-##### Wednesday 5th December
-
-###### Session 1: Applications
-
-* 12:30 : Arrival and lunch
-* 1.00 : Introduction and overview (Ben Dudson, York)
-* 1:30 : Edge and divertor studies at CCFE (Fulvio Militello, CCFE)
-* 2:00 : Recent work at DTU (Jens Madsen, DTU)
-* 2:30 : Edge turbulence measurements (Istvan Cziegler, York)
-* 3:00 : Coffee
-
-###### Session 2: First steps
-
-* 3:30: Getting and compiling BOUT++, running testcases (Peter Hill, York)
-* 4:00: Code layout  (Ben Dudson, York)
-* 4:30: Hands on demonstrations
-* 5:00: Pre- and Post-processing in Python
-* 5:30: Finish
-
-###### Evening: [Workshop dinner](#dinner)
-
-##### Thursday 6th December
-
-###### Session 3: Physics models
-
-* 9:00: Neutrals + turbulence, Hermes (Jarrod Leddy, York)
-* 9:30: STORM (Fulvio Militello, CCFE)
-* 10:00: Non-local transport (Jonathan Broderick, York PhD) 
-* 10:30: Coffee
-* 11:00: Linear analysis of collisionless ballooning mode instability based on reduced MHD model (Haruki Seto, QST, Japan)
-* 11:30: Transport model/TORPEX (Brendan Shanahan, York PhD)
-* 12:00: Discussion of physics models 
-* 12:30: Lunch + posters
-
-###### Session 4: New features
-
-* 1:30: Synthetic diagnostics (Nick Walkden)
-* 2:00: Multigrid method and solvers (Dr Kang, IPP HLST)
-* 2:30: Non-axisymmetric “straight stellarators” with FCI (Peter Hill)
-* 3:00: Discussion
-* 3:30: Coffee
-
-###### Session 5: Other codes
-
-* 4:00: Jorek (Stanislas Pamela, CCFE)
-* 4:30: GRILLIX (Andreas Stegmeir, IPP, Germany)
-* 5:00: Discussion
-* 5:30: Finish + Dinner
-
-##### Friday 7th December
-
-###### Session 6: Future development
-
-* 9:00: New version of BOUT++  (Ben Dudson, Peter Hill)
-* 9:30: OpenMP and parallel dataiterators (Joseph Parker, STFC)
-* 10:00: Discussion and future of BOUT++ (Joseph Parker, STFC)
-* 10:30: Coffee
-* 11:30: Discussion and future of BOUT++ (Ben Dudson)
-* 12:30 : Lunch and finish
+Agenda to be announced.
 
 <a name="vc"/>
 #### Video conferencing
@@ -129,19 +74,6 @@ Dial with any phone one of the two German telephone numbers:
 wait a second until you are asked to enter the conference ID
 
    97920065 followed by an # (hash symbol).
-
-<a name="dinner"/>
-
-#### Workshop dinner
-
-The workshop dinner will be on Monday 19th September at 7:30 at the Walmgate Ale house. Please note that participants will have to pay for their own dinners.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2791.771865546597!2d-1.082456472851839!3d53.95677290414278!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4c45e0d478175f37!2sWalmgate+Ale+House+and+Bistro!5e0!3m2!1sen!2suk!4v1474278406937" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-The menu is their usual set menu:
-
-![Starters](workshop2016/walmgate-menu.png "Starters")
-![Mains](workshop2016/walmgate-menu2.png "Mains")
 
 <a name="support"/>
 #### EUROfusion support
