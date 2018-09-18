@@ -1,14 +1,11 @@
 ---
 layout: page
 title: BOUT++ Workshop 2018
-subtitle: 5th-7th December 2018
+subtitle: York Plasma Institute, University of York
+subsubtitle: 5th - 7th December 2018
 description: Agenda for the 2018 BOUT++ Workshop
 nav-state: doc
 ---
-
-##### 5th-7th December 2018
-
-##### York Plasma Institute, University of York, UK YO10 5DQ
 
 <center> 
  <a href="#about">About</a> - <a href="#registration">Registration</a> - <a href="#map">Map</a> - <a href="#agenda">Agenda</a>  -  <a href="#vc">Video conferencing</a>  -  <a href="#support">EUROfusion support</a>  -  <a href="#accommodation">Accommodation</a>  -  <a href="#links">Links</a>
@@ -30,6 +27,7 @@ Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.a
 <a name="map"/>
 #### Map
 
+The workshop will be held at **York Plasma Institute, University of York, UK YO10 5DQ**
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ol86TR9j1frEPAKJIenuWKQ03nk" width="640" height="480"></iframe>
 
 <a name="agenda"/>
