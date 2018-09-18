@@ -2,12 +2,19 @@
 layout: default
 ---
 
+
 <div class="section">
     <br>
     <section class="v80">
     <br>
       <div>
         <h2 class="center-align blue-text">{{ page.title }}</h2>
+	{% if page.subtitle != Null %}
+	  <h4 class="center-align">{{ page.subtitle }}</h4>
+	{% endif %}
+	{% if page.subsubtitle != Null %}
+	  <h5 class="center-align">{{ page.subsubtitle }}</h5>
+	{% endif %}
       </div>
       <div class="divider"></div>
       <div class="container container-wide">
