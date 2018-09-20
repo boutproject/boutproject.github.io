@@ -19,7 +19,7 @@ The aim of this workshop is (1) to prepare researchers to use and further develo
 
 <a name="registration"/>
 #### Registration
-Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk) by 1st December.
+Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk) by 15th November.
 
 **No registration fee**
 
