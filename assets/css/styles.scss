@@ -5,6 +5,7 @@ $teal: #009688;
 $black: #000000;
 $blue: #2196F3; // rgb( 33, 150, 243)
 $blue-transparent: rgba($blue,0.8);
+$red: #ff0000;
 
 // functional variables
 $author_color: $blue;
@@ -74,6 +75,18 @@ section {
         list-style-position: outside;
         list-style-type: disc;
     }
+}
+
+
+.banner_advert {
+        margin: 0em;
+	margin-top: 8%;
+	margin-bottom: 8%;
+	width: 7.5em;
+        list-style-position: outside;
+        list-style-type: disc;
+	line-height: 1.5;
+	//color: $red;
 }
 
 .fixed {
