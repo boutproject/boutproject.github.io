@@ -129,7 +129,7 @@ Dial with any phone the German telephone numbers:
 
    +49-30-20097920058
 
-Pressing *6 mutes your phone. Pressing *6 again unmutes your phone.
+Pressing \*6 mutes your phone. Pressing \*6 again unmutes your phone.
 
 <a name="travel"/>
 ### Travel and Parking
