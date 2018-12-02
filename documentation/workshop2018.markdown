@@ -35,22 +35,22 @@ Hands-on training sessions on Thursday afternoon will be in the main physics bui
 
 * 3:30:  Overview of code changes, improvements -- Peter Hill, York
 * 4:00:  Getting started with BOUT++ -- Peter Hill, Ben Dudson, York
-* 4:30:  Python modules and boutcore David Schwoerer, DCU
+* 4:30:  Python modules and boutcore -- David Schwörer, DCU
 * 5:00   Containers -- Jarrod Leddy, Tech-X (remote)
 * 5:30:  Finish
 
 
 ##### Thursday 6th
 
-* 9:00 Filament dynamics with STORM in attached and detached conditions - David Schwoerer, DCU
-* 9:30 Overview atomic/molecular processes and models in low temp - David Shaw, York
-* 10:00 HLST parallel development of the SMITER field line following code - Huw Leggate, DCU
+* 9:00 Filament dynamics with STORM in attached and detached conditions -- David Schwörer, DCU
+* 9:30 Overview atomic/molecular processes and models in low temp -- David Shaw, York
+* 10:00 HLST parallel development of the SMITER field line following code -- Huw Leggate, DCU
 
 * 10:30 Coffee - Alfven Room
 
-* 11:00 Gyrofluid filament simulations - Adam Dempsey, DCU
-* 11:30 Gyrofluid simulations - Arka Bokshi, York/CCFE
-* 12:00 Stellarator and W7X simulations - Brendan Shanahan, IPP Greifswald
+* 11:00 Gyrofluid filament simulations -- Adam Dempsey, DCU
+* 11:30 Gyrofluid simulations -- Arka Bokshi, York/CCFE
+* 12:00 Stellarator and W7X simulations -- Brendan Shanahan, IPP Greifswald
 
 * 12:30 Lunch in Alfven Room
 
