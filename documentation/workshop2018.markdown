@@ -29,7 +29,7 @@ Hands-on training sessions on Thursday afternoon will be in the main physics bui
 * 12:00: Lunch
 * 12:45: Welcome, introduction -- Ben Dudson, York
 * 1:15: MAST-U -- Andy Thornton, CCFE (remote) 
-* 1:45: Edge and divertor studies at CCFE -- John Omotani, CCFE
+* 1:45: SOL Filaments and Turbulence with STORM -- John Omotani, CCFE
 
 * 2:45: Coffee and posters - Alfven Room and Common Room
 
