@@ -67,7 +67,7 @@ Hands on training in comp lab
 
 Development, code internals, algorithms
 
-* 9:00 Multigrid solvers - Kab Seok, HLST (remote)
+* 9:00 Multigrid solvers - Kab Seok Kang, HLST (remote)
 * 9:30 Optimisation and OpenMP - Joseph Parker, STFC
 * 10:00 Xarray for data analysis - Tom Nicholas, York/CCFE
 
