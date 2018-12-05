@@ -73,7 +73,7 @@ Development, code internals, algorithms
 
 * 10:30 Coffee - Alfven Room
 
-* 11:00 Extrae - Ania Brown, STFC
+* 11:00 Extrae - Ania Brown, Oxford
 * 11:30 Research data management, sustainability, physics models - Peter Hill, York
 * 12:00 Parallel in time methods - Krasymyr Tretiak, Leeds
 * 12:30 Discussion of development priorities
