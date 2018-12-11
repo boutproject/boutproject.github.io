@@ -72,7 +72,7 @@ Development, code internals, algorithms
 
 * 9:00 Multigrid solvers - Kab Seok Kang, HLST (remote)
 * 9:30 Optimisation and OpenMP - Joseph Parker, STFC
-* 10:00 Xarray for data analysis - Tom Nicholas, York/CCFE
+* 10:00 [Xarray for data analysis](https://github.com/TomNicholas/xarray_for_BOUT) - Tom Nicholas, York/CCFE
 
 * 10:30 Coffee - Alfven Room
 
