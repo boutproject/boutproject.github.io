@@ -17,23 +17,26 @@ The BOUT++ code is a flexible tool for the simulation of plasma fluid equations,
 
 The aim of this workshop is (1) to prepare researchers to use and further develop the BOUT++ code for edge turbulence, transport, and ELM simulations of magnetic fusion devices; and (2) to promote effective collaboration within the BOUT++ community and beyond.
  
+Talks and outcomes from this workshop are stored on Zenodo as the [BOUT++ workshop 2018 community](https://zenodo.org/communities/bout-workshop-york-2018/).
+
 <a name="agenda"/>
 #### Agenda
 
 Talks on Wednesday afternoon, Thursday morning, and Friday morning will be in the Debye room in the York Plasma Institute.
 Hands-on training sessions on Thursday afternoon will be in the main physics building on campus, in the second floor computer lab.
 
+
 ##### Wednesday 5th
 
 * 11:30: Arrival, coffee and hand in posters in Alfven Room
 * 12:00: Lunch
 * 12:45: Welcome, introduction -- Ben Dudson, York
-* 1:15: MAST-U -- Andy Thornton, CCFE (remote) 
+* 1:15: MAST-U -- Andrew Thornton, CCFE (remote) 
 * 1:45: SOL Filaments and Turbulence with STORM -- John Omotani, CCFE
 
 * 2:45: Coffee and posters - Alfven Room and Common Room
 
-* 3:30:  Overview of code changes, improvements -- Peter Hill, York
+* 3:30:  [Overview of code changes, improvements](https://doi.org/10.5281/zenodo.2204489) -- Peter Hill, York
 * 4:00:  Getting started with BOUT++ -- Peter Hill, Ben Dudson, York
 * 4:30:  Python modules and boutcore -- David Schwörer, DCU
 * 5:00   Containers -- Jarrod Leddy, Tech-X (remote)
@@ -43,7 +46,7 @@ Hands-on training sessions on Thursday afternoon will be in the main physics bui
 ##### Thursday 6th
 
 * 9:00 Filament dynamics with STORM in attached and detached conditions -- David Schwörer, DCU
-* 9:30 Overview atomic/molecular processes and models in low temp -- David Shaw, York
+* 9:30 [Overview atomic/molecular processes and models in low temp](https://doi.org/10.5281/zenodo.2204788) -- David Shaw, York
 * 10:00 HLST parallel development of the SMITER field line following code -- Huw Leggate, DCU
 
 * 10:30 Coffee - Alfven Room
@@ -56,7 +59,7 @@ Hands-on training sessions on Thursday afternoon will be in the main physics bui
 
 Hands on training in comp lab
 
-* 1:30 SD1D and Hermes simulations
+* 1:30 [SD1D and Hermes simulations](https://doi.org/10.5281/zenodo.2204678)
 * 3:00 coffee - P/T/008 (Vickers Collection)
 * 3:30 STORM simulations
 * 4:30 Finish
@@ -69,7 +72,7 @@ Development, code internals, algorithms
 
 * 9:00 Multigrid solvers - Kab Seok Kang, HLST (remote)
 * 9:30 Optimisation and OpenMP - Joseph Parker, STFC
-* 10:00 Xarray for data analysis - Tom Nicholas, York/CCFE
+* 10:00 [Xarray for data analysis](https://github.com/TomNicholas/xarray_for_BOUT) - Tom Nicholas, York/CCFE
 
 * 10:30 Coffee - Alfven Room
 
