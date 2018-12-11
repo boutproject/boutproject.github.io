@@ -32,14 +32,14 @@ Hands-on training sessions on Thursday afternoon will be in the main physics bui
 * 12:00: Lunch
 * 12:45: Welcome, introduction -- Ben Dudson, York
 * 1:15: MAST-U -- Andrew Thornton, CCFE (remote) 
-* 1:45: SOL Filaments and Turbulence with STORM -- John Omotani, CCFE
+* 1:45: [SOL Filaments and Turbulence with STORM](https://doi.org/10.5281/zenodo.2204944) -- John Omotani, CCFE
 
 * 2:45: Coffee and posters - Alfven Room and Common Room
 
 * 3:30:  [Overview of code changes, improvements](https://doi.org/10.5281/zenodo.2204489) -- Peter Hill, York
 * 4:00:  Getting started with BOUT++ -- Peter Hill, Ben Dudson, York
 * 4:30:  Python modules and boutcore -- David Schwörer, DCU
-* 5:00   Containers -- Jarrod Leddy, Tech-X (remote)
+* 5:00   [Docker containers and their use with BOUT++](https://doi.org/10.5281/zenodo.2206947) -- Jarrod Leddy, Tech-X (remote)
 * 5:30:  Finish
 
 
@@ -60,8 +60,8 @@ Hands-on training sessions on Thursday afternoon will be in the main physics bui
 Hands on training in comp lab
 
 * 1:30 [SD1D and Hermes simulations](https://doi.org/10.5281/zenodo.2204678)
-* 3:00 coffee - P/T/008 (Vickers Collection)
-* 3:30 STORM simulations
+* 3:00 Coffee - P/T/008 (Vickers Collection)
+* 3:30 STORM simulations, with [additional inputs and analysis scripts](https://github.com/johnomotani/storm2d_analysis) -- John Omotani
 * 4:30 Finish
 
 * Workshop dinner: Walmgate Ale House (attendee pays own dinner)
@@ -70,15 +70,15 @@ Hands on training in comp lab
 
 Development, code internals, algorithms
 
-* 9:00 Multigrid solvers - Kab Seok Kang, HLST (remote)
-* 9:30 Optimisation and OpenMP - Joseph Parker, STFC
+* 9:00 [Multigrid solver using PETSc](https://doi.org/10.5281/zenodo.2206578) - Kab Seok Kang, HLST (remote)
+* 9:30 [BOUT++ Optimisation](https://doi.org/10.5281/zenodo.2205454) - Joseph Parker, STFC
 * 10:00 [Xarray for data analysis](https://github.com/TomNicholas/xarray_for_BOUT) - Tom Nicholas, York/CCFE
 
 * 10:30 Coffee - Alfven Room
 
 * 11:00 Extrae - Ania Brown, Oxford
 * 11:30 Research data management, sustainability, physics models - Peter Hill, York
-* 12:00 Parallel in time methods - Krasymyr Tretiak, Leeds
+* 12:00 [A high order time-stepping algorithm for tracking particles](https://doi.org/10.5281/zenodo.2206808) - Krasymyr Tretiak, Leeds
 * 12:30 Discussion of development priorities
 
 * 13:00 Lunch (Debye booked at 1pm) - Alfven Room
