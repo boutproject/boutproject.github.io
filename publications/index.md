@@ -5,10 +5,28 @@ description: List of published articles using BOUT++
 nav-state: publications
 ---
 
+2019
+----
+
+* D R Zhang, Y P Chen, X Q Xu, and T Y Xia [Self-consistent simulation of transport and turbulence in tokamak edge plasma by coupling SOLPS-ITER and BOUT++](https://doi.org/10.1063/1.5084093) Physics of Plasmas 26, 012508
+* J Huang, H Zhou, Y Xu, S Y Chen and C J Tang [Impact of particle sources and plasma resistivity on edge localized modes](https://doi.org/10.1088/1361-6587/aaf410) Plasma Phys. Control. Fusion 61 025018
+
 2018
 ----
 
-*  O Koshkarov, A I Smolyakov, I V Romadanov, O Chapurin, M V Umansky, Y Raitses, and I D Kaganovich [Current flow instability and nonlinear structures in dissipative two-fluid plasmas](https://doi.org/10.1063/1.5017521) Physics of Plasmas 25, 011604 (2018)
+* Haruki SETO, Masatoshi YAGI, Nobuyuki AIBA, Akinobu MATSUYAMA, Benjamin D. DUDSON and Xueqiao XU [Shaping Effects on Non-Ideal Ballooning Mode](http://www.jspf.or.jp/PFR/PFR_articles/pfr2018/pfr2018_13-3403086.html) Plasma and Fusion Research Volume 13, 3403086
+* D Schwörer, N R Walkden, H Leggate, B D Dudson, F Militello, T Downes and M M Turner [Influence of plasma background on 3D scrape-off layer filaments](https://doi.org/10.1088/1361-6587/aae8fe) Plasma Phys. Control. Fusion 61 025008
+* N R Walkden, F Riva, B D Dudson, C Ham, F Militello, D Moulton, T Nicholas, J T Omotani [3D simulations of turbulent mixing in a simplified slab-divertor geometry](https://doi.org/10.1016/j.nme.2018.12.005) Nuclear Materials and Energy Volume 18, January 2019, Pages 111-117
+* Matthew Thomas [3D full-wave modelling of microwave interactions with plasma density fluctuations](http://etheses.whiterose.ac.uk/20481/) PhD thesis, University of York
+* B Chen, X Q Xu, T Y Xia, N M Li, M Porkolab, E Edlund, B LaBombard, J Terry, J W Hughes, M Y Ye, and Y X Wan [Progress towards modeling tokamak boundary plasma turbulence and understanding its role in setting divertor heat flux widths](https://doi.org/10.1063/1.5016582) Physics of Plasmas 25, 055905
+* C K Sun, X Q Xu, C H Ma, and B Li [Linear analyses of peeling-ballooning modes in high beta pedestal plasmas](https://doi.org/10.1063/1.5028261) Physics of Plasmas 25, 082106
+* N Wu, S Y Chen, M L Mou, and C J Tang [Effect of resistivity on small edge localized mode](https://doi.org/10.1063/1.5038042) Physics of Plasmas 25, 092305
+* J G Chen, X Q Xu, C H Ma, and Y A Lei [Impact of bootstrap current and Landau-fluid closure on ELM crashes and transport](https://doi.org/10.1063/1.5024681) Physics of Plasmas 25, 050701
+* Yanqing HUANG (黄艳清), Tianyang XIA (夏天阳) and Bin GUI (桂彬) [Numerical linear analysis of the effects of diamagnetic and shear flow on ballooning modes](https://doi.org/10.1088/2058-6272/aaa4f1) Plasma Sci. Technol. 20 045101
+* B Shanahan, B Dudson and P Hill [The effects of non-uniform drive on plasma filaments](https://doi.org/10.1088/1742-6596/1125/1/012018) J. Phys.: Conf. Ser. 1125 012018
+* B Shanahan, B Dudson and P Hill [Fluid simulations of plasma filaments in stellarator geometries with BSTING](https://doi.org/10.1088/1361-6587/aaed7d) Plasma Phys. Control. Fusion 61 025007
+* N M Li, X Q Xu, T D Rognlien, B Gui, J Z Sun, D Z Wang [Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++](https://doi.org/10.1016/j.cpc.2018.03.003) Computer Physics Communications Volume 228, July 2018, Pages 69-82
+* O Koshkarov, A I Smolyakov, I V Romadanov, O Chapurin, M V Umansky, Y Raitses, and I D Kaganovich [Current flow instability and nonlinear structures in dissipative two-fluid plasmas](https://doi.org/10.1063/1.5017521) Physics of Plasmas 25, 011604 (2018)
 * Y M Wang, X Q Xu, Z Yan, G R Mckee, B A Grierson, T Y Xia and X Gao [Simulation of density fluctuations before the L-H transition for Hydrogen and Deuterium plasmas in the DIII-D tokamak using the BOUT++ code](https://doi.org/10.1088/1741-4326/aa9f7d) Nucl. Fusion 58 026026 (2018)
 * B Gui, T Y Xia, X Q Xu, J R Myra and X T Xiao [Calculation of the radial electric field with RF sheath boundary conditions in divertor geometry](https://doi.org/10.1088/1741-4326/aa9e9a) Nucl. Fusion 58 026027 (2018)
 
