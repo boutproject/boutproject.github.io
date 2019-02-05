@@ -8,12 +8,19 @@ nav-state: publications
 2019
 ----
 
+* Chang-Bae Kim, Byunghoon Min and Chan-Yong An [On the effects of nonuniform zonal flow in the resistive-drift plasma](https://doi.org/10.1088/1361-6587/aaf622) Plasma Phys. Control. Fusion 61 035002
 * D R Zhang, Y P Chen, X Q Xu, and T Y Xia [Self-consistent simulation of transport and turbulence in tokamak edge plasma by coupling SOLPS-ITER and BOUT++](https://doi.org/10.1063/1.5084093) Physics of Plasmas 26, 012508
 * J Huang, H Zhou, Y Xu, S Y Chen and C J Tang [Impact of particle sources and plasma resistivity on edge localized modes](https://doi.org/10.1088/1361-6587/aaf410) Plasma Phys. Control. Fusion 61 025018
 
 2018
 ----
 
+* Y B Wu, T Y Xia, F C Zhong, Z Zheng, J B Liu and EAST team [Simulations of particle and heat fluxes in an ELMy H-mode discharge on EAST using BOUT++ code](https://doi.org/10.1088/1361-6587/aab52c) Plasma Phys. Control. Fusion 60 055007
+* I Romadanov, Y Raitses and A Smolyakov [Hall thruster operation with externally driven breathing mode oscillations](https://doi.org/10.1088/1361-6595/aadf06) Plasma Sources Sci. Technol. 27 094006
+* Chang-Bae Kim, Byunghoon Min, and Chan-Yong An [Localization of the eigenmode of the drift-resistive plasma by zonal flow](https://doi.org/10.1063/1.5048952) Physics of Plasmas 25, 102501
+* N Wu, S Y Chen, M L Mou, C J Tang, X M Song, Z C Yang, D L Yu, J Q Xu, M Jiang, X Q Ji, S Wang, B Li, L Liu, and HL-2A Team [Study on edge localized mode during plasma vertical swing in HL-2A tokamak](https://doi.org/10.1063/1.5049348) Physics of Plasmas 25, 102505 (2018)
+* D F Kong, X Q Xu, P H Diamond, J G Chen, C B Huang, T Lan, X Gao, J G Li and EAST Team [E × B flow shear mitigates ballooning-driven edge-localized modes at high collisionality: experiment and simulation](https://doi.org/10.1088/1741-4326/aaef0c) Nucl. Fusion 59 016016
+* T F Tang, H Shi, Z H Wang, W L Zhong, T Y Xia, X Q Xu, J Z Sun, and D Z Wang [Quasi-coherent mode simulation during inter-ELM period in HL-2A](https://doi.org/10.1063/1.5050853) Physics of Plasmas 25, 122510
 * Haruki SETO, Masatoshi YAGI, Nobuyuki AIBA, Akinobu MATSUYAMA, Benjamin D. DUDSON and Xueqiao XU [Shaping Effects on Non-Ideal Ballooning Mode](http://www.jspf.or.jp/PFR/PFR_articles/pfr2018/pfr2018_13-3403086.html) Plasma and Fusion Research Volume 13, 3403086
 * D Schwörer, N R Walkden, H Leggate, B D Dudson, F Militello, T Downes and M M Turner [Influence of plasma background on 3D scrape-off layer filaments](https://doi.org/10.1088/1361-6587/aae8fe) Plasma Phys. Control. Fusion 61 025008
 * N R Walkden, F Riva, B D Dudson, C Ham, F Militello, D Moulton, T Nicholas, J T Omotani [3D simulations of turbulent mixing in a simplified slab-divertor geometry](https://doi.org/10.1016/j.nme.2018.12.005) Nuclear Materials and Energy Volume 18, January 2019, Pages 111-117
