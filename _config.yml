@@ -23,7 +23,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-gems:
+plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 exclude:
