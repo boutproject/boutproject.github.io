@@ -5,10 +5,35 @@ description: List of published articles using BOUT++
 nav-state: publications
 ---
 
+2019
+----
+
+* Chang-Bae Kim, Byunghoon Min and Chan-Yong An [On the effects of nonuniform zonal flow in the resistive-drift plasma](https://doi.org/10.1088/1361-6587/aaf622) Plasma Phys. Control. Fusion 61 035002
+* D R Zhang, Y P Chen, X Q Xu, and T Y Xia [Self-consistent simulation of transport and turbulence in tokamak edge plasma by coupling SOLPS-ITER and BOUT++](https://doi.org/10.1063/1.5084093) Physics of Plasmas 26, 012508
+* J Huang, H Zhou, Y Xu, S Y Chen and C J Tang [Impact of particle sources and plasma resistivity on edge localized modes](https://doi.org/10.1088/1361-6587/aaf410) Plasma Phys. Control. Fusion 61 025018
+
 2018
 ----
 
-*  O Koshkarov, A I Smolyakov, I V Romadanov, O Chapurin, M V Umansky, Y Raitses, and I D Kaganovich [Current flow instability and nonlinear structures in dissipative two-fluid plasmas](https://doi.org/10.1063/1.5017521) Physics of Plasmas 25, 011604 (2018)
+* Y B Wu, T Y Xia, F C Zhong, Z Zheng, J B Liu and EAST team [Simulations of particle and heat fluxes in an ELMy H-mode discharge on EAST using BOUT++ code](https://doi.org/10.1088/1361-6587/aab52c) Plasma Phys. Control. Fusion 60 055007
+* I Romadanov, Y Raitses and A Smolyakov [Hall thruster operation with externally driven breathing mode oscillations](https://doi.org/10.1088/1361-6595/aadf06) Plasma Sources Sci. Technol. 27 094006
+* Chang-Bae Kim, Byunghoon Min, and Chan-Yong An [Localization of the eigenmode of the drift-resistive plasma by zonal flow](https://doi.org/10.1063/1.5048952) Physics of Plasmas 25, 102501
+* N Wu, S Y Chen, M L Mou, C J Tang, X M Song, Z C Yang, D L Yu, J Q Xu, M Jiang, X Q Ji, S Wang, B Li, L Liu, and HL-2A Team [Study on edge localized mode during plasma vertical swing in HL-2A tokamak](https://doi.org/10.1063/1.5049348) Physics of Plasmas 25, 102505 (2018)
+* D F Kong, X Q Xu, P H Diamond, J G Chen, C B Huang, T Lan, X Gao, J G Li and EAST Team [E × B flow shear mitigates ballooning-driven edge-localized modes at high collisionality: experiment and simulation](https://doi.org/10.1088/1741-4326/aaef0c) Nucl. Fusion 59 016016
+* T F Tang, H Shi, Z H Wang, W L Zhong, T Y Xia, X Q Xu, J Z Sun, and D Z Wang [Quasi-coherent mode simulation during inter-ELM period in HL-2A](https://doi.org/10.1063/1.5050853) Physics of Plasmas 25, 122510
+* Haruki SETO, Masatoshi YAGI, Nobuyuki AIBA, Akinobu MATSUYAMA, Benjamin D. DUDSON and Xueqiao XU [Shaping Effects on Non-Ideal Ballooning Mode](http://www.jspf.or.jp/PFR/PFR_articles/pfr2018/pfr2018_13-3403086.html) Plasma and Fusion Research Volume 13, 3403086
+* D Schwörer, N R Walkden, H Leggate, B D Dudson, F Militello, T Downes and M M Turner [Influence of plasma background on 3D scrape-off layer filaments](https://doi.org/10.1088/1361-6587/aae8fe) Plasma Phys. Control. Fusion 61 025008
+* N R Walkden, F Riva, B D Dudson, C Ham, F Militello, D Moulton, T Nicholas, J T Omotani [3D simulations of turbulent mixing in a simplified slab-divertor geometry](https://doi.org/10.1016/j.nme.2018.12.005) Nuclear Materials and Energy Volume 18, January 2019, Pages 111-117
+* Matthew Thomas [3D full-wave modelling of microwave interactions with plasma density fluctuations](http://etheses.whiterose.ac.uk/20481/) PhD thesis, University of York
+* B Chen, X Q Xu, T Y Xia, N M Li, M Porkolab, E Edlund, B LaBombard, J Terry, J W Hughes, M Y Ye, and Y X Wan [Progress towards modeling tokamak boundary plasma turbulence and understanding its role in setting divertor heat flux widths](https://doi.org/10.1063/1.5016582) Physics of Plasmas 25, 055905
+* C K Sun, X Q Xu, C H Ma, and B Li [Linear analyses of peeling-ballooning modes in high beta pedestal plasmas](https://doi.org/10.1063/1.5028261) Physics of Plasmas 25, 082106
+* N Wu, S Y Chen, M L Mou, and C J Tang [Effect of resistivity on small edge localized mode](https://doi.org/10.1063/1.5038042) Physics of Plasmas 25, 092305
+* J G Chen, X Q Xu, C H Ma, and Y A Lei [Impact of bootstrap current and Landau-fluid closure on ELM crashes and transport](https://doi.org/10.1063/1.5024681) Physics of Plasmas 25, 050701
+* Yanqing HUANG (黄艳清), Tianyang XIA (夏天阳) and Bin GUI (桂彬) [Numerical linear analysis of the effects of diamagnetic and shear flow on ballooning modes](https://doi.org/10.1088/2058-6272/aaa4f1) Plasma Sci. Technol. 20 045101
+* B Shanahan, B Dudson and P Hill [The effects of non-uniform drive on plasma filaments](https://doi.org/10.1088/1742-6596/1125/1/012018) J. Phys.: Conf. Ser. 1125 012018
+* B Shanahan, B Dudson and P Hill [Fluid simulations of plasma filaments in stellarator geometries with BSTING](https://doi.org/10.1088/1361-6587/aaed7d) Plasma Phys. Control. Fusion 61 025007
+* N M Li, X Q Xu, T D Rognlien, B Gui, J Z Sun, D Z Wang [Calculation of two-dimension radial electric field in boundary plasmas by using BOUT++](https://doi.org/10.1016/j.cpc.2018.03.003) Computer Physics Communications Volume 228, July 2018, Pages 69-82
+* O Koshkarov, A I Smolyakov, I V Romadanov, O Chapurin, M V Umansky, Y Raitses, and I D Kaganovich [Current flow instability and nonlinear structures in dissipative two-fluid plasmas](https://doi.org/10.1063/1.5017521) Physics of Plasmas 25, 011604 (2018)
 * Y M Wang, X Q Xu, Z Yan, G R Mckee, B A Grierson, T Y Xia and X Gao [Simulation of density fluctuations before the L-H transition for Hydrogen and Deuterium plasmas in the DIII-D tokamak using the BOUT++ code](https://doi.org/10.1088/1741-4326/aa9f7d) Nucl. Fusion 58 026026 (2018)
 * B Gui, T Y Xia, X Q Xu, J R Myra and X T Xiao [Calculation of the radial electric field with RF sheath boundary conditions in divertor geometry](https://doi.org/10.1088/1741-4326/aa9e9a) Nucl. Fusion 58 026027 (2018)
 
