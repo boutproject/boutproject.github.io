@@ -18,7 +18,7 @@ The latest release is always available from [here][latest].
 
 Previous releases are available:
 
-* [Version 4.0.0][v4.0.0], was realeased 4th February 2017.
+* [Version 4.0.0][v4.0.0], was released 4th February 2017.
 * [Version 3.0][v3.0], prepared for the [2015 BOUT++ workshop](../documentation/workshop2015.html)
 * [Version 2.0][v2.0], prepared for the [2013 BOUT++ workshop](https://bout2013.llnl.gov/)
 * [Version 1.0][v1.0], prepared for the [2011 BOUT++ workshop](https://bout2011.llnl.gov/)
