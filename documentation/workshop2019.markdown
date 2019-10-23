@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BOUT++ Workshop 2019
-subtitle: Cosenor's House, Abingdon
+subtitle: Cosener's House, Abingdon
 subsubtitle: 11th - 12th December 2019
 description: Agenda for the 2019 BOUT++ Workshop
 nav-state: doc
@@ -78,7 +78,7 @@ Pressing \*6 mutes your phone. Pressing \*6 again unmutes your phone.
 <a name="map"/>
 #### Map
 
-The workshop will be held at **Cosenor's House, 15 Abbey Cl, Abingdon OX14, UK**
+The workshop will be held at **Cosener's House, 15 Abbey Cl, Abingdon OX14, UK**
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9897.838374137762!2d-1.2776877!3d51.66973!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8b51162f7b834265!2sThe%20Cosener&#39;s%20House!5e0!3m2!1sen!2sde!4v1570637801059!5m2!1sen!2sde" width="640" height="480" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 <a name="accommodation"/>
