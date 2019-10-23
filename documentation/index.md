@@ -44,6 +44,7 @@ collaboration within the BOUT community and beyond.
 The slides for (almost) all presentations are available on the
 workshop websites:
 
+* [2019 workshop, Abingdon](workshop2019.html)
 * [2018 workshop, York](workshop2018.html)
 * [2016 workshop, York](workshop2016.html)
 * [2015 workshop, LLNL](https://bout.llnl.gov/workshops/2015)
