@@ -26,7 +26,12 @@ The agenda will be updated soon.
 
 <a name="registration"/>
 #### Registration
-Anyone interested in attending should contact Ben Dudson (benjamin.dudson@york.ac.uk).
+
+Please fill in the following registration form:
+<https://forms.gle/gAs711WeVFGMPfj39>
+
+For more information, please contact Ben Dudson
+(benjamin.dudson@york.ac.uk).
 
 **No registration fee**
 
