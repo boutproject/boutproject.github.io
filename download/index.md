@@ -18,6 +18,7 @@ The latest release is always available from [here][latest].
 
 Previous releases are available:
 
+* [Version 4.3.0][v4.3.0], was released 25th October 2017.
 * [Version 4.2.3][v4.2.3], was released 23rd October 2017.
 * [Version 4.2.2][v4.2.2], was released 1st March 2019.
 * [Version 4.2.1][v4.2.1], was released 23rd January 2019.
@@ -40,6 +41,7 @@ Previous releases are available:
 
 [latest]: https://github.com/boutproject/BOUT-dev/releases/latest
 [development]: https://github.com/boutproject/BOUT-dev/tree/next
+[v4.3.0]: https://github.com/boutproject/BOUT-dev/releases/tag/v4.3.0
 [v4.2.3]: https://github.com/boutproject/BOUT-dev/releases/tag/v4.2.3
 [v4.2.2]: https://github.com/boutproject/BOUT-dev/releases/tag/v4.2.2
 [v4.2.1]: https://github.com/boutproject/BOUT-dev/releases/tag/v4.2.1
