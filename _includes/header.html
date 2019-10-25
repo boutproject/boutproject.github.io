@@ -5,7 +5,7 @@
       <a href="#" data-activates="mobile-menu" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down">
           {% for item in site.data.navigation %}
-	    {% if item.title == "Workshop 2018" %}
+	    {% if item.title == "Workshop 2019" %}
               <b li>
             {% elsif page.nav-state == item.url %}
               <li class="active">
@@ -17,7 +17,7 @@
             {% else %}
               <a href="{{ item.url | prepend: site.github.url }}">
             {% endif %}
-	    {% if item.title == "Workshop 2018" %}
+	    {% if item.title == "Workshop 2019" %}
 	      <p class="banner_advert">
               {{ item.title }}
 	      </p>
