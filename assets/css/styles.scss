@@ -165,3 +165,62 @@ section {
 .highlight {
     margin: 1em;
 }
+
+
+/* Multi-level navigation links */
+// Taken from https://github.com/daattali/beautiful-jekyll/
+.nav .navlinks-container {
+  position: relative;
+}
+.nav .navlinks-parent:after {
+  content: " \25BC";
+}
+.nav .navlinks-children {
+  z-index: 999;
+  width: 100%;
+  display: none;
+  // word-break: break-word;
+  background-color: $blue;
+}
+.nav .navlinks-container .navlinks-children a {
+  display: block;
+  // padding: 10px;
+  padding-left: 30px;
+  // background-color: {{ site.navbar-children-col }};
+  text-decoration: none !important;
+  border-width: 0 1px 1px 1px;
+  font-weight: normal;
+}
+@media only screen and (max-width: 767px) {
+  .nav .navlinks-container.show-children {
+    background: rgba(0, 0, 0, 0.2);
+  }
+  .nav .navlinks-container.show-children .navlinks-children {
+    display: block;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .nav .navlinks-container {
+    text-align: center;
+  }
+  .nav .navlinks-container:hover {
+    background: rgba(0, 0, 0, 0.1);
+  }
+  .nav .navlinks-container:hover .navlinks-children {
+    display: block;
+  }
+  .nav .navlinks-children {
+    position: absolute;
+  }
+  .nav .navlinks-container .navlinks-children a {
+      transition: background-color .3s;
+      padding-left: 10px;
+      border: 1px solid #eaeaea;
+      border-width: 0 1px 1px;
+      line-height: 32px;
+
+    &:hover {
+        background-color: rgba(0,0,0,.1);
+    }
+  }
+}
