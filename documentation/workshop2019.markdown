@@ -22,7 +22,49 @@ Talks and outcomes from this workshop will be stored on Zenodo
 <a name="agenda"/>
 #### Agenda
 
-The agenda will be updated soon.
+##### Wednesday 11th December
+
+* 10:30 Coffee, registration
+* 11:00 Welcome, introduction -- Ben Dudson, University of York
+* 11:30 BOUT++ 4.3, getting started -- Peter Hill, University of York
+
+* 12:00 Lunch
+
+* 13:00 Comparison of three-dimensional plasma edge turbulence simulations in realistic double null tokamak geometry with experimental observations -- Fabio Riva, CCFE
+* 13:30 TBC
+* 14:00 Hands-on training session: Getting started
+
+* 15:00 Coffee
+
+* 15:30 Neutral gas models, atomic data and SD1D -- Yulin Zhou, University of York/CCFE
+* 16:00 Code coupling and multiple BOUT++ models review -- TBC
+* 16:30 Nonlinear neutral kinetics with a spectral velocity basis -- George Wilkie, PPPL
+* 17:00 Overview of BOUT++ work at LLNL -- TBC
+
+* Conference dinner, [Brewery Tap Abingdon](https://www.thebrewerytap.net)
+
+##### Thursday 12th December
+
+* 9:30 Interplay between fluctuation driven toroidally axisymmetric flows and resistive ballooning mode turbulence -- Haruki Seto, QST (remote)
+* 10:00 A new object oriented interface for PETSc matrices and vectors -- Chris MacMackin, CCFE
+
+* 10:30 Coffee
+
+* 11:00 Stellarator simulations with BOUT++ -- Brendan Shanahan, IPP Greifswald (remote)
+* 11:30 3D metrics, grids and FCI in BOUT++ -- David Dickinson, University of York
+
+* 12:00 Lunch
+
+* 13:00 xBOUT 1.0 - improved python tools for BOUT++ data analysis -- Tom Nicholas, University of York / CCFE
+* 13:30 Blob tracking algorithm using xBOUT -- Gregor Decristoforo, UiT / CCFE
+* 14:00 Hands-on training session: Data analysis with xBOUT
+
+* 15:00 Coffee
+
+* 15:30 Staggered grids, field-aligned/non-aligned fields -- John Omotani, CCFE
+* 16:00 Plans for BOUT++ 5.0 -- Peter Hill, University of York
+* 16:30 Discussion, next steps
+* 17:00 Finish
 
 <a name="registration"/>
 #### Registration
