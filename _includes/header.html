@@ -3,49 +3,63 @@
   <div class="container">
     <div class="nav-wrapper"><a id="logo-container" href="{{ site.github.url }}" class="brand-logo">{{ site.short_title }}</a>
       <a href="#" data-activates="mobile-menu" class="button-collapse"><i class="material-icons">menu</i></a>
-        <ul class="right hide-on-med-and-down">
-          {% for item in site.data.navigation %}
-	    {% if item.title == "Workshop 2019" %}
-              <b li>
-            {% elsif page.nav-state == item.url %}
-              <li class="active">
+        <ul class="nav right hide-on-med-and-down">
+          {% if site.localtest %}
+            {% capture link_prefix %}{{ site.localurl }}{% endcapture %}
+          {% else %}
+            {% capture link_prefix %}{{ site.github.url }}{% endcapture %}
+          {% endif %}
+
+          {% for item in site.data.navigation.sections %}
+            {% if item[1].first %}
+              <li class="navlinks-container">
+                <a class="navlinks-parent" href="javascript:void(0)">{{ item[0] }}</a>
+                <div class="navlinks-children">
+                  {% for child in item[1] %}
+                    <a href="{{ child[1] | prepend: link_prefix }}">{{ child[0] }}</a>
+                  {% endfor %}
+                </div>
+              </li>
             {% else %}
-              <li>
+	          {% if item[0] == "Workshop 2019" %}
+                  <b li>
+              {% elsif page.nav-state == item[1] %}
+                  <li class="active">
+              {% else %}
+                  <li>
+              {% endif %}
+                    <a href="{{ item[1] | prepend: link_prefix }}">
+	          {% if item[0] == "Workshop 2019" %}
+	                  <p class="banner_advert">{{ item[0] }}</p>
+	                  </b>
+	          {% else %}
+                      {{ item[0] }}
+              {% endif %}
+	                </a>
+                  </li>
             {% endif %}
-            {% if site.localtest %}
-              <a href="{{ item.url | prepend: site.localurl }}">
-            {% else %}
-              <a href="{{ item.url | prepend: site.github.url }}">
-            {% endif %}
-	    {% if item.title == "Workshop 2019" %}
-	      <p class="banner_advert">
-              {{ item.title }}
-	      </p>
-	      </b>
-	      </a>
-	    {% else %}
-              {{ item.title }}
-	      </a>
-            {% endif %}
-	      </li>
           {% endfor %}
 
           {% if site.github.status == true %}
-            <li>
-              <a class="github-button" href="https://github.com/{{ site.github.user }}/{{ site.github.repository }}" data-icon="octicon-star" data-style="mega" data-count-href="/{{ site.github.user }}/{{ site.github.repository }}/stargazers" data-count-api="/repos/{{ site.github.user }}/{{ site.github.repository }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ site.github.user }}/{{ site.github.repository }} on GitHub">Star</a>
-            </li>
+              <li>
+                  <a class="github-button" href="https://github.com/{{ site.github.user }}/{{ site.github.repository }}" data-icon="octicon-star" data-style="mega" data-count-href="/{{ site.github.user }}/{{ site.github.repository }}/stargazers" data-count-api="/repos/{{ site.github.user }}/{{ site.github.repository }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ site.github.user }}/{{ site.github.repository }} on GitHub">Star</a>
+              </li>
           {% endif %}
 
         </ul>
         <ul class="side-nav" id="mobile-menu">
-          {% for item in site.data.navigation %}
-            <li>
-            {% if site.localtest %}
-              <a href="{{ item.url | prepend: site.localurl }}">
+          {% for item in site.data.navigation.sections %}
+            {% if item[1].first %}
+              {% for child in item[1] %}
+                <li>
+                  <a href="{{ child[1] | prepend: link_prefix }}">{{ child[0] }}</a>
+                </li>
+              {% endfor %}
             {% else %}
-              <a href="{{ item.url | prepend: site.github.url }}">
+                <li>
+                  <a href="{{ item[1] | prepend: link_prefix }}">{{ item[0] }}</a>
+                </li>
             {% endif %}
-            {{ item.title }}</a></li>
           {% endfor %}
 
           {% if site.github.status == true %}
