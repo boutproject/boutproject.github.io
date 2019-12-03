@@ -37,15 +37,16 @@ Talks and outcomes from this workshop will be stored on Zenodo
 * 15:00 Coffee
 
 * 15:30 Neutral gas models, atomic data and SD1D -- Yulin Zhou, University of York/CCFE
-* 16:00 Code coupling and multiple BOUT++ models review -- TBC
+* 16:00 Code coupling and multiple BOUT++ models review -- Peter Hill and Ben Dudson
 * 16:30 Nonlinear neutral kinetics with a spectral velocity basis -- George Wilkie, PPPL (remote)
-* 17:00 Overview of BOUT++ work at LLNL -- TBC
+* 17:00 Overview of BOUT++ work at LLNL -- Xueqiao Xu
 
 * Conference dinner, [Brewery Tap Abingdon](https://www.thebrewerytap.net)
 
 ##### Thursday 12th December
 
-* 9:30 Interplay between fluctuation driven toroidally axisymmetric flows and resistive ballooning mode turbulence -- Haruki Seto, QST (remote)
+* 9:00 Interplay between fluctuation driven toroidally axisymmetric flows and resistive ballooning mode turbulence -- Haruki Seto, QST (remote)
+* 9:30 Code coupling with Hensen -- Nami Li, Dalian University of Technology (remote)
 * 10:00 A new object oriented interface for PETSc matrices and vectors -- Chris MacMackin, CCFE
 
 * 10:30 Coffee
