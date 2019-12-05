@@ -70,10 +70,7 @@ Talks and outcomes from this workshop will be stored on Zenodo
 <a name="registration"/>
 #### Registration
 
-Please fill in the following registration form:
-<https://forms.gle/gAs711WeVFGMPfj39>
-
-For more information, please contact Ben Dudson
+Registration is now closed. For more information, please contact Ben Dudson
 (benjamin.dudson@york.ac.uk).
 
 **No registration fee**
