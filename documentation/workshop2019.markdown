@@ -135,6 +135,8 @@ Information on possible accommodation will be made available shortly.
 <a name="links"/>
 #### Links
 
+[Cheat sheet](cheat_sheet.html)
+
 Downloads:
 
 * [BOUT++ github page](https://github.com/boutproject/BOUT-dev)
