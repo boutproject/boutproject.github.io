@@ -32,7 +32,7 @@ Talks and outcomes from this workshop will be stored on Zenodo
 
 * 13:00 Comparison of three-dimensional plasma edge turbulence simulations in realistic double null tokamak geometry with experimental observations -- Fabio Riva, CCFE
 * 13:30 Overview of BOUT++ work at LLNL -- Xueqiao Xu
-* 14:00 Vorticity analysis with boutcore -- David Schworer, Dublin City University
+* 14:00 [Vorticity analysis with boutcore](https://omadesala.physics.dcu.ie/~dave/vortcont_2019_12/) -- David Schwörer, Dublin City University
 * 14:30 Hands-on training session: Getting started
 
 * 15:00 Coffee
