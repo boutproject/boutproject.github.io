@@ -6,7 +6,8 @@ sections:
     applications: /applications
     publications: /publications
   documentation:
-    documentation: /documentation
+    documentation: //bout-dev.readthedocs.io/en/latest/
     development: /development
+    getting help: /documentation
   download: /download
   Workshop 2019: /documentation/workshop2019.html
