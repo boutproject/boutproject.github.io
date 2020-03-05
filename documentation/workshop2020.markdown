@@ -31,8 +31,7 @@ Nominations for invited speakers should be sent to Brendan Shanahan (brendan.sha
 
 Registration is open until the 11 June 2020.
 
-For more information, or to register, please contact Brendan Shanahan
-(brendan.shanahan@ipp.mpg.de)
+To register, please contact Brendan Shanahan (brendan.shanahan@ipp.mpg.de)
 
 **There is no registration fee**
 
