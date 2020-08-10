@@ -5,6 +5,10 @@ description: List of published articles using BOUT++
 nav-state: publications
 ---
 
+2020
+----
+* G.Z. Deng, X.Q. Xu, N.M. Li, X.J. Liu, X. Liu, J.C. Xu, W. Feng,J.B. Liu, S.L. Gao, S.C. Liu, T.Y. Xia and L. Wang [Simulation of divertor heat flux width onEAST by BOUT++transport code](https://doi.org/10.1088/1741-4326/ab70d6) Nuclear Fusion 60 082007
+
 2019
 ----
 
