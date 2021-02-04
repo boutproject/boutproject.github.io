@@ -5,6 +5,12 @@ description: List of published articles using BOUT++
 nav-state: publications
 ---
 
+2020
+----
+
+* David Schwörer, Nick R Walkden, Benjamin D Dudson, Fulvio Militello, Huw Leggate and Miles M Turner [Dynamics of scrape-off layer filaments in detached conditions](https://doi.org/10.1088/1741-4326/ab8776) Nucl. Fusion 60 126047 [Preprint here](https://arxiv.org/abs/1911.11458)
+* David Schwörer [On the influence of background including neutrals on the dynamics of 3D scrape-off layer filaments in fusion devices ](https://doras.dcu.ie/24992/) PhD Thesis, DCU
+
 2019
 ----
 
@@ -22,7 +28,7 @@ nav-state: publications
 * D F Kong, X Q Xu, P H Diamond, J G Chen, C B Huang, T Lan, X Gao, J G Li and EAST Team [E × B flow shear mitigates ballooning-driven edge-localized modes at high collisionality: experiment and simulation](https://doi.org/10.1088/1741-4326/aaef0c) Nucl. Fusion 59 016016
 * T F Tang, H Shi, Z H Wang, W L Zhong, T Y Xia, X Q Xu, J Z Sun, and D Z Wang [Quasi-coherent mode simulation during inter-ELM period in HL-2A](https://doi.org/10.1063/1.5050853) Physics of Plasmas 25, 122510
 * Haruki SETO, Masatoshi YAGI, Nobuyuki AIBA, Akinobu MATSUYAMA, Benjamin D. DUDSON and Xueqiao XU [Shaping Effects on Non-Ideal Ballooning Mode](http://www.jspf.or.jp/PFR/PFR_articles/pfr2018/pfr2018_13-3403086.html) Plasma and Fusion Research Volume 13, 3403086
-* D Schwörer, N R Walkden, H Leggate, B D Dudson, F Militello, T Downes and M M Turner [Influence of plasma background on 3D scrape-off layer filaments](https://doi.org/10.1088/1361-6587/aae8fe) Plasma Phys. Control. Fusion 61 025008
+* D Schwörer, N R Walkden, H Leggate, B D Dudson, F Militello, T Downes and M M Turner [Influence of plasma background on 3D scrape-off layer filaments](https://doi.org/10.1088/1361-6587/aae8fe) Plasma Phys. Control. Fusion 61 025008 [Preprint here](https://arxiv.org/abs/1806.07319)
 * N R Walkden, F Riva, B D Dudson, C Ham, F Militello, D Moulton, T Nicholas, J T Omotani [3D simulations of turbulent mixing in a simplified slab-divertor geometry](https://doi.org/10.1016/j.nme.2018.12.005) Nuclear Materials and Energy Volume 18, January 2019, Pages 111-117
 * Matthew Thomas [3D full-wave modelling of microwave interactions with plasma density fluctuations](http://etheses.whiterose.ac.uk/20481/) PhD thesis, University of York
 * B Chen, X Q Xu, T Y Xia, N M Li, M Porkolab, E Edlund, B LaBombard, J Terry, J W Hughes, M Y Ye, and Y X Wan [Progress towards modeling tokamak boundary plasma turbulence and understanding its role in setting divertor heat flux widths](https://doi.org/10.1063/1.5016582) Physics of Plasmas 25, 055905
