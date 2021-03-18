@@ -12,7 +12,7 @@ nav-state: publications
 * David Schwörer [On the influence of background including neutrals on the dynamics of 3D scrape-off layer filaments in fusion devices ](https://doras.dcu.ie/24992/) PhD Thesis, DCU
 * G.Z. Deng, X.Q. Xu, N.M. Li, X.J. Liu, X. Liu, J.C. Xu, W. Feng,J.B. Liu, S.L. Gao, S.C. Liu, T.Y. Xia and L. Wang [Simulation of divertor heat flux width onEAST by BOUT++ transport code](https://doi.org/10.1088/1741-4326/ab70d6) Nuclear Fusion 60 082007
 * C Killer, B Shanahan, O Grulke, M Endler, K Hammond, L Rudischhauser and the W7-X Team [Plasma filaments in the scrape-off layer of Wendelstein 7-X](https://doi.org/10.1088/1361-6587/ab9313) Plasma Physics and Controlled Fusion 62 085003 (2020)
-* B Shanahan and P Huslage [Filament simulations in regions of highly-varying parallel connection length](https://doi.org/10.1017/S0022377820000562)  Journal of Plasma Physics, 86(3), 905860314
+* B Shanahan and P Huslage [Filament simulations in regions of highly-varying parallel connection length](https://doi.org/10.1017/S0022377820000562)  Journal of Plasma Physics, 86 (3), 905860314
 
 2019
 ----
