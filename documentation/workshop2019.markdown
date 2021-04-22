@@ -56,7 +56,7 @@ Talks and outcomes from this workshop will be stored on Zenodo
 
 * 12:00 Lunch
 
-* 13:00 xBOUT 1.0 - improved python tools for BOUT++ data analysis -- Tom Nicholas, University of York / CCFE
+* 13:00 [xBOUT 1.0 - improved python tools for BOUT++ data analysis](https://github.com/TomNicholas/xBOUT--BOUT-workshop2019/blob/master/xBOUT.ipynb) -- Tom Nicholas, University of York / CCFE
 * 13:30 Blob tracking algorithm using xBOUT -- Gregor Decristoforo, UiT / CCFE
 * 14:00 Hands-on training session: Data analysis with xBOUT
 
