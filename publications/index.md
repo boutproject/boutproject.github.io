@@ -17,6 +17,9 @@ nav-state: publications
 * Chang-Bae Kim, Byunghoon Min and Chan-Yong An [On the effects of nonuniform zonal flow in the resistive-drift plasma](https://doi.org/10.1088/1361-6587/aaf622) Plasma Phys. Control. Fusion 61 035002
 * D R Zhang, Y P Chen, X Q Xu, and T Y Xia [Self-consistent simulation of transport and turbulence in tokamak edge plasma by coupling SOLPS-ITER and BOUT++](https://doi.org/10.1063/1.5084093) Physics of Plasmas 26, 012508
 * J Huang, H Zhou, Y Xu, S Y Chen and C J Tang [Impact of particle sources and plasma resistivity on edge localized modes](https://doi.org/10.1088/1361-6587/aaf410) Plasma Phys. Control. Fusion 61 025018
+* Li, Ze-Yu, Xue-Qiao Xu, Na-Mi Li, V. S. Chan, and Xiao-Gang Wang [Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module.](https://doi.org/10.1088/1741-4326/ab0184) Nuclear Fusion 59.4 (2019): 046014.
+* Xu, X. Q., N. M. Li, Z. Y. Li, B. Chen, T. Y. Xia, T. F. Tang, B. Zhu, and V. S. Chan. [Simulations of tokamak boundary plasma turbulence transport in setting the divertor heat flux width.](https://doi.org/10.1088/1741-4326/ab430d) Nuclear Fusion 59, no. 12 (2019): 126039.
+* Koshkarov, Oleksandr, Andrei Smolyakov, Yevgeny Raitses, and Igor Kaganovich. [Self-organization, structures, and anomalous transport in turbulent partially magnetized plasmas with crossed electric and magnetic fields.](10.1103/PhysRevLett.122.185001) Physical review letters 122, no. 18 (2019): 185001.
 
 2018
 ----
