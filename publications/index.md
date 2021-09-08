@@ -5,6 +5,11 @@ description: List of published articles using BOUT++
 nav-state: publications
 ---
 
+2021
+----
+
+* T. Ahmadi, H. Tanabe and Y. Ono [Two-dimensional resistive MHD simulation of the optimized plasma formation in the spherical tokamaks](https://doi.org/10.1088/1741-4326/abebce) Nucl. Fusion 61 066001 (2021)
+
 2019
 ----
 
