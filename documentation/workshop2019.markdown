@@ -32,7 +32,7 @@ Talks and outcomes from this workshop will be stored on Zenodo
 
 * 13:00 Comparison of three-dimensional plasma edge turbulence simulations in realistic double null tokamak geometry with experimental observations -- Fabio Riva, CCFE
 * 13:30 Overview of BOUT++ work at LLNL -- Xueqiao Xu
-* 14:00 Vorticity analysis with boutcore -- David Schworer, Dublin City University
+* 14:00 [Vorticity analysis with boutcore](https://omadesala.physics.dcu.ie/~dave/vortcont_2019_12/) -- David Schwörer, Dublin City University
 * 14:30 Hands-on training session: Getting started
 
 * 15:00 Coffee
@@ -56,7 +56,7 @@ Talks and outcomes from this workshop will be stored on Zenodo
 
 * 12:00 Lunch
 
-* 13:00 xBOUT 1.0 - improved python tools for BOUT++ data analysis -- Tom Nicholas, University of York / CCFE
+* 13:00 [xBOUT 1.0 - improved python tools for BOUT++ data analysis](https://github.com/TomNicholas/xBOUT--BOUT-workshop2019/blob/master/xBOUT.ipynb) -- Tom Nicholas, University of York / CCFE
 * 13:30 Blob tracking algorithm using xBOUT -- Gregor Decristoforo, UiT / CCFE
 * 14:00 Hands-on training session: Data analysis with xBOUT
 
@@ -83,39 +83,7 @@ Funding is available for travel and accommodation during the meeting, provided b
 <a name="vc"/>
 #### Video conferencing
 
-**Slides** will, when possible, be shared on [EUROfusion TV channel 14](https://tv.euro-fusion.org/channel14/home). Note that many demonstrations may need to use local computers
-and so may not be shared. There is a password, please ask one of the organisers.
-
-If using a H.323 video-conference device, registered to an E.164 compliant gatekeeper,
-call the E.164 number:
-
-   004910097920058
-
-If using a H.323 video-conference device NOT registered to an E.164 compliant gatekeeper
-(called URI dial), the syntax depends on your vendor as shown below:
-
-ConferenceID = 97920058
-
-LifeSize: 194.95.240.2##ConferenceID
-Mirial:   ConferenceID@mcu.vc.dfn.de
-Polycom:  mcu.vc.dfn.de##ConferenceID
-Sony:     194.95.240.2#ConferenceID
-Tandberg: ConferenceID@mcu.vc.dfn.de
-Cisco:    ConferenceID@vc.dfn.de
-VCON:     n.a.
-
-Further technical details and help can be found here
-        http://vcc.zih.tu-dresden.de/index.php?linkid=11100
-and here
-        https://www.vc.dfn.de/en/video-conferencing/ways-of-access/h323.html
-
-
-For ISDN VC systems and phones please use the DFNVC - ISDN/IP gateway as follows:
-Dial with any phone the German telephone numbers:
-
-   +49-30-20097920058
-
-Pressing \*6 mutes your phone. Pressing \*6 again unmutes your phone.
+Video conferencing will use Zoom. Please contact the organisers for details.
 
 <a name="travel"/>
 ### Travel and Parking

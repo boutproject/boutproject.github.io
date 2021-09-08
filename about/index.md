@@ -41,8 +41,8 @@ Contributions to the code and tool chains have been made by many researchers inc
 * Jens Madsen, Technical University of Denmark (DTU)
 * Dmitry Meyerson, MIT, USA
 * John Omotani, Chalmers University of Technology, Sweden
-* David Schwoerer, Dublin City University, Republic of Ireland
-* Brendan Shanahan, Max Planck Institut fuer Plasmaphysik, Teilinstitut Greifswald, Germany
+* David Schwörer, Max Planck Institut für Plasmaphysik, Teilinstitut Greifswald, Germany
+* Brendan Shanahan, Max Planck Institut für Plasmaphysik, Teilinstitut Greifswald, Germany
 * Maxim Umansky, Lawrence Livermore National Laboratory, USA
 * Nick Walkden, Culham Centre for Fusion Energy, UK
 * Tianyang Xia, ASIPP, China
