@@ -18,6 +18,10 @@ nav-state: publications
 * G.Z. Deng, X.Q. Xu, N.M. Li, X.J. Liu, X. Liu, J.C. Xu, W. Feng,J.B. Liu, S.L. Gao, S.C. Liu, T.Y. Xia and L. Wang [Simulation of divertor heat flux width onEAST by BOUT++ transport code](https://doi.org/10.1088/1741-4326/ab70d6) Nuclear Fusion 60 082007
 * C Killer, B Shanahan, O Grulke, M Endler, K Hammond, L Rudischhauser and the W7-X Team [Plasma filaments in the scrape-off layer of Wendelstein 7-X](https://doi.org/10.1088/1361-6587/ab9313) Plasma Physics and Controlled Fusion 62 085003 (2020)
 * B Shanahan and P Huslage [Filament simulations in regions of highly-varying parallel connection length](https://doi.org/10.1017/S0022377820000562)  Journal of Plasma Physics, 86 (3), 905860314
+* Hogun Jhang and R. Singh [Nonlinear oscillations of geodesic acoustic modes due to E×B
+convection in edge pedestal](https://doi.org/10.1063/5.0017431) Physics of Plasmas 27, 092307 (2020)
+* Shrish Raj, N. Bisai, Vijay Shankar, and A. Sen [Effects of nitrogen seeding in a tokamak plasma](https://doi.org/10.1063/5.0015647) Physics of Plasmas 27, 122302 (2020)
+* Mao Li, Jizhong Sun, Yumin Wang, Tianyang Xia [Nonlinear simulation of edge localized mode with pressure profile modified by pellet injection through extended BOUT++ MHD code](https://doi.org/10.1016/j.nme.2020.100888) Nuclear Materials and Energy
 
 2019
 ----
