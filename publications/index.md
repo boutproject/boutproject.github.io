@@ -9,6 +9,8 @@ nav-state: publications
 ----
 
 * T. Ahmadi, H. Tanabe and Y. Ono [Two-dimensional resistive MHD simulation of the optimized plasma formation in the spherical tokamaks](https://doi.org/10.1088/1741-4326/abebce) Nucl. Fusion 61 066001 (2021)
+* G Decristoforo, A Theodorsen, J Omotani, T Nicholas, and O E Garcia [Numerical turbulence simulations of intermittent fluctuations in the scrape-off layer of magnetized plasmas](https://doi.org/10.1063/5.0047566) Physics of Plasmas 28, 072301 (2021)
+* T E G Nicholas, J Omotani, F Riva, F Militello, and B Dudson, [Comparing two- and three-dimensional models of scrape-off layer turbulent transport](https://arxiv.org/abs/2103.09727)
 
 2020
 ----
@@ -22,6 +24,7 @@ nav-state: publications
 convection in edge pedestal](https://doi.org/10.1063/5.0017431) Physics of Plasmas 27, 092307 (2020)
 * Shrish Raj, N. Bisai, Vijay Shankar, and A. Sen [Effects of nitrogen seeding in a tokamak plasma](https://doi.org/10.1063/5.0015647) Physics of Plasmas 27, 122302 (2020)
 * Mao Li, Jizhong Sun, Yumin Wang, Tianyang Xia [Nonlinear simulation of edge localized mode with pressure profile modified by pellet injection through extended BOUT++ MHD code](https://doi.org/10.1016/j.nme.2020.100888) Nuclear Materials and Energy
+* G Decristoforo, F Militello, T Nicholas, J Omotani, C Marsden, N Walkden, and O E Garcia [Blob interactions in 2D scrape-off layer simulations](https://doi.org/10.1063/5.0021314) Physics of Plasmas 27, 122301 (2020)
 
 2019
 ----
@@ -32,6 +35,9 @@ convection in edge pedestal](https://doi.org/10.1063/5.0017431) Physics of Plasm
 * Li, Ze-Yu, Xue-Qiao Xu, Na-Mi Li, V. S. Chan, and Xiao-Gang Wang [Prediction of divertor heat flux width for ITER using BOUT++ transport and turbulence module.](https://doi.org/10.1088/1741-4326/ab0184) Nuclear Fusion 59.4 (2019): 046014.
 * Xu, X. Q., N. M. Li, Z. Y. Li, B. Chen, T. Y. Xia, T. F. Tang, B. Zhu, and V. S. Chan. [Simulations of tokamak boundary plasma turbulence transport in setting the divertor heat flux width.](https://doi.org/10.1088/1741-4326/ab430d) Nuclear Fusion 59, no. 12 (2019): 126039.
 * Koshkarov, Oleksandr, Andrei Smolyakov, Yevgeny Raitses, and Igor Kaganovich. [Self-organization, structures, and anomalous transport in turbulent partially magnetized plasmas with crossed electric and magnetic fields.](10.1103/PhysRevLett.122.185001) Physical review letters 122, no. 18 (2019): 185001.
+* N Walkden, F Riva, B Dudson, C Ham, F Militello, D Moulton, T Nicholas and, J Omotani [3D simulations of turbulent mixing in a simplified slab-divertor geometry](https://doi.org/10.1016/j.nme.2018.12.005) Nuclear Materials and Energy 18, 111 (2019)
+* D Hoare, F Militello, J T Omotani, F Riva, S Newton, T Nicholas, D Ryan, and N R Walkden [Dynamics of scrape-off layer filaments in high β plasmas](https://doi.org/10.1088/1361-6587/ab34f8) Plasma Phys. Control. Fusion 61, 105013 (2019)
+* F Riva, F Militello, S Elmore, J T Omotani, B Dudson, N R Walkden, and the MAST team [Three-dimensional plasma edge turbulence simulations of the Mega Ampere Spherical Tokamak and comparison with experimental measurements](https://doi.org/10.1088/1361-6587/ab3561) Plasma Phys. Control. Fusion 61, 095013 (2019)
 
 2018
 ----
@@ -86,7 +92,7 @@ convection in edge pedestal](https://doi.org/10.1063/5.0017431) Physics of Plasm
 * CY An, B Min, CB Kim [Cross phase of resistive-drift plasma turbulence near an adiabatic state](http://dx.doi.org/10.3938/jkps.69.1290) Journal of the Korean Physical Society (2016) 69
 * Z X Liu, X Q Xu, X Gao, A E Hubbard, J W Hughes, J R Walk, C Theiler, T Y  Xia, S G Baek, T Golfinopoulos, D Whyte, T Zhang, J G Li [The physics mechanisms of the weakly coherent mode in the Alcator C-Mod Tokamak](http://dx.doi.org/10.1063/1.4972088) Physics of Plasmas 23, 120703 (2016)
 * N M Li, J Z Sun, Z H Wang, X Q Xu, Z Sun, L Wang, J S Hu, D.Z. Wang [Numerical investigation on lithium transport in the edge plasma of EAST real-time- Li-injection experiments in the frame of BOUT++](http://dx.doi.org/10.1016/j.nme.2016.12.009) Nucl.Mat.and Energy (2016)
-* N R Walkden, L Easy, F Militello and J T Omotani [Dynamics of 3D isolated thermal filaments](https://arxiv.org/abs/1606.00582)
+* N R Walkden, L Easy, F Militello and J T Omotani [Dynamics of 3D isolated thermal filaments](https://doi.org/10.1088/0741-3335/58/11/115010) Plasma Phys. Control. Fusion 58, 115010 (2016). [Preprint here] (https://arxiv.org/abs/1606.00582)
 * Ya-Hui Wang, W-F Guo, Z-H Wang Q-L Ren A-P Sun, Min Xu, Ai-Ke Wang and Nong Xiang [Radial transport dynamics studies of SMBI with a newly developed TPSMBI code](https://doi.org/10.1088/1674-1056/25/10/106601) Chinese Phys. B 25 106601 (2016)
 * J Huang, S Y Chen and C J Tang [Simulations of peeling-ballooning modes with electron cyclotron resonance heating](http://dx.doi.org/10.1063/1.4948482) Physics of Plasmas 23, 052513 (2016)
 * T F Tang, X Q Xu, C H Ma, E M Bass, C Holland and J Candy [Benchmark studies of the gyro-Landau-fluid code and gyro-kinetic codes on kinetic ballooning modes](http://dx.doi.org/10.1063/1.4944391) Physics of Plasmas 23, 032119 (2016)
