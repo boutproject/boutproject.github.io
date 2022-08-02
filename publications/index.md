@@ -5,16 +5,35 @@ description: List of published articles using BOUT++
 nav-state: publications
 ---
 
+2022
+----
+
+* Nicholas Walkden, Fabio Riva, James Harrison, Fulvio Militello, Thomas Farley, John Omotani & Bruce Lipschultz [The physics of turbulence localised to the tokamak divertor volume](https://doi.org/10.1038/s42005-022-00906-2) Nature Commun Phys 5, 139 (2022)
+* D. Galassi, C. Theiler, T. Body, F. Manke, P. Micheletti, J. Omotani, M. Wiesenberger, M. Baquero-Ruiz, I. Furno, M. Giacomin, E. Laribi, F. Militello, P. Ricci, A. Stegmeir, P. Tamain, H. Bufferand, G. Ciraolo, H. De Oliveira, A. Fasoli, V. Naulin, S. L. Newton, N. Offeddu, D. S. Oliveira, E. Serre, and N. Vianello [Validation of edge turbulence codes in a magnetic X-point scenario in TORPEX](https://doi.org/10.1063/5.0064522) Physics of Plasmas 29, 012501 (2022)
+* A.A. Stepanenko [Impact of Generalized Sheath Boundary Conditions on Dynamics of Plasma Filaments at the Tokamak Edge](https://doi.org/10.1134/S1063780X22200168) Plasma Phys. Rep. 48, 462–473 (2022)
+* Shrish Raj, N. Bisai, Vijay Shankar, A. Sen, Joydeep Ghosh, R.L. Tanna, Malay B. Chowdhuri, K.A. Jadeja, Kumudni Assudani, Tanmay Martin Macwan [Studies on impurity seeding and transport in edge and SOL of tokamak plasma](https://doi.org/10.1088/1741-4326/ac44b0) Nucl. Fusion 62 036001 (2022)
+* Vijay Shankar, N. Bisai, Shrish Raj and A. Sen [Edge biasing and its impact on the edge and SOL turbulence](https://doi.org/10.1088/1741-4326/ac74d1) Nucl. Fusion 62 086030 (2022)
+* T E G Nicholas, J Omotani, F Riva, F Militello, and B Dudson, [Comparing two- and three-dimensional models of scrape-off layer turbulent transport](https://doi.org/10.1088/1361-6587/ac7b48) Plasma Phys. Control. Fusion 64 095001 (2022)
+
 2021
 ----
 
+* Thomas Nicholas, [Reduced simulations of scrape-off-layer turbulence](https://etheses.whiterose.ac.uk/29962/). PhD thesis, University of York.
+* Gregor Decristoforo, [Numerical simulations and stochastic modeling of intermittent fluctuations in magnetized plasmas](https://hdl.handle.net/10037/21170). PhD thesis, UiT The Arctic University of Norway (2021)
+* Jagannath Mahapatra, Arkaprava Bokshi, Rajaraman Ganesh, and Abhijit Sen [Effect of in-plane shear flow on the magnetic island coalescence instability](https://doi.org/10.1063/5.0046225) Physics of Plasmas 28, 072103 (2021)
+* B Shanahan, C Killer, G Pechstein, S A Henneberg, G Fuchert and O Grulke [Estimating the error in filament propagation measurement using a synthetic probe](https://doi.org/10.1088/1361-6587/ac2ff7) Plasma Phys. Control. Fusion 63 125018 (2021)
+* B D Dudson, S L Newton, J T Omotani and J Birch [On Ohm's law in reduced plasma fluid models](https://doi.org/10.1088/1361-6587/ac2af9) Plasma Phys. Control. Fusion 63 125008 (2021)
+* B D Dudson, W A Gracias, R Jorge, A H Nielsen, J M B Olsen, P Ricci, C Silva, P Tamain, G Ciraolo, N Fedorczak, D Galassi, J Madsen, F Militello, N Nace, J J Rasmussen, F Riva and E Serre [Edge turbulence in ISTTOK: a multi-code fluid validation](https://doi.org/10.1088/1361-6587/abe21d) Plasma Phys. Control. Fusion 63 055013 (2021). Data is [available on Zenodo](https://doi.org/10.5281/zenodo.4043994)
+* Vijay Shankar, N. Bisai, Shrish Raj and A. Sen [Finite electron temperature gradient effects on blob formation in the scrape-off layer of a tokamak plasma](https://doi.org/10.1088/1741-4326/abeed7) Nucl. Fusion 61 066008 (2021)
+* T. Ahmadi and Y. Ono [2D Hall-MHD investigation of the magnetic pressure balance during merging start-up in spherical tokamaks](https://doi.org/10.1088/1741-4326/ac26ea) Nucl. Fusion 61 126007 (2021)
 * T. Ahmadi, H. Tanabe and Y. Ono [Two-dimensional resistive MHD simulation of the optimized plasma formation in the spherical tokamaks](https://doi.org/10.1088/1741-4326/abebce) Nucl. Fusion 61 066001 (2021)
 * G Decristoforo, A Theodorsen, J Omotani, T Nicholas, and O E Garcia [Numerical turbulence simulations of intermittent fluctuations in the scrape-off layer of magnetized plasmas](https://doi.org/10.1063/5.0047566) Physics of Plasmas 28, 072301 (2021)
-* T E G Nicholas, J Omotani, F Riva, F Militello, and B Dudson, [Comparing two- and three-dimensional models of scrape-off layer turbulent transport](https://arxiv.org/abs/2103.09727)
 
 2020
 ----
 
+* Haruki Seto, X.Q. Xu, Benjamin D. Dudson, Masatoshi Yagi [Impact of equilibrium radial electric field on energy loss process after pedestal collapse](https://doi.org/10.1002/ctpp.201900158) Contributions to Plasma Physics 60:e201900158 (2020)
+* R A Heinonen and P H Diamond [Learning how structures form in drift-wave turbulence](https://doi.org/10.1088/1361-6587/abad02) Plasma Phys. Control. Fusion 62 105017 (2020)
 * David Schwörer, Nick R Walkden, Benjamin D Dudson, Fulvio Militello, Huw Leggate and Miles M Turner [Dynamics of scrape-off layer filaments in detached conditions](https://doi.org/10.1088/1741-4326/ab8776) Nucl. Fusion 60 126047 [Preprint here](https://arxiv.org/abs/1911.11458)
 * David Schwörer [On the influence of background including neutrals on the dynamics of 3D scrape-off layer filaments in fusion devices ](https://doras.dcu.ie/24992/) PhD Thesis, DCU
 * G.Z. Deng, X.Q. Xu, N.M. Li, X.J. Liu, X. Liu, J.C. Xu, W. Feng,J.B. Liu, S.L. Gao, S.C. Liu, T.Y. Xia and L. Wang [Simulation of divertor heat flux width onEAST by BOUT++ transport code](https://doi.org/10.1088/1741-4326/ab70d6) Nuclear Fusion 60 082007
@@ -25,10 +44,13 @@ convection in edge pedestal](https://doi.org/10.1063/5.0017431) Physics of Plasm
 * Shrish Raj, N. Bisai, Vijay Shankar, and A. Sen [Effects of nitrogen seeding in a tokamak plasma](https://doi.org/10.1063/5.0015647) Physics of Plasmas 27, 122302 (2020)
 * Mao Li, Jizhong Sun, Yumin Wang, Tianyang Xia [Nonlinear simulation of edge localized mode with pressure profile modified by pellet injection through extended BOUT++ MHD code](https://doi.org/10.1016/j.nme.2020.100888) Nuclear Materials and Energy
 * G Decristoforo, F Militello, T Nicholas, J Omotani, C Marsden, N Walkden, and O E Garcia [Blob interactions in 2D scrape-off layer simulations](https://doi.org/10.1063/5.0021314) Physics of Plasmas 27, 122301 (2020)
+* Jiraporn PROMPING, Apiwat WISITSORASAK, Boonyarit CHATTHONG, Kewalee NILGUMHANG [Numerical Study of Supersonic Molecular Beam Injection System in Thailand Tokamak I](https://doi.org/10.1585/pfr.15.2403033) Plasma and Fusion Research 15 (2020)
 
 2019
 ----
 
+* A. A. Stepanenko, H. Q. Wang, and S. I. Krasheninnikov [Impact of divertor plasma parameters on characteristics of current-convective turbulence under DIII-D-like detached conditions](https://doi.org/10.1063/1.5123388) Physics of Plasmas 26, 122303 (2019)
+* H. Seto, X. Q. Xu, B. D. Dudson, and M. Yagi [Interplay between fluctuation driven toroidal axisymmetric flows and resistive ballooning mode turbulence](https://doi.org/10.1063/1.5086998) Physics of Plasmas 26, 052507 (2019)
 * Chang-Bae Kim, Byunghoon Min and Chan-Yong An [On the effects of nonuniform zonal flow in the resistive-drift plasma](https://doi.org/10.1088/1361-6587/aaf622) Plasma Phys. Control. Fusion 61 035002
 * D R Zhang, Y P Chen, X Q Xu, and T Y Xia [Self-consistent simulation of transport and turbulence in tokamak edge plasma by coupling SOLPS-ITER and BOUT++](https://doi.org/10.1063/1.5084093) Physics of Plasmas 26, 012508
 * J Huang, H Zhou, Y Xu, S Y Chen and C J Tang [Impact of particle sources and plasma resistivity on edge localized modes](https://doi.org/10.1088/1361-6587/aaf410) Plasma Phys. Control. Fusion 61 025018
@@ -38,10 +60,13 @@ convection in edge pedestal](https://doi.org/10.1063/5.0017431) Physics of Plasm
 * N Walkden, F Riva, B Dudson, C Ham, F Militello, D Moulton, T Nicholas and, J Omotani [3D simulations of turbulent mixing in a simplified slab-divertor geometry](https://doi.org/10.1016/j.nme.2018.12.005) Nuclear Materials and Energy 18, 111 (2019)
 * D Hoare, F Militello, J T Omotani, F Riva, S Newton, T Nicholas, D Ryan, and N R Walkden [Dynamics of scrape-off layer filaments in high β plasmas](https://doi.org/10.1088/1361-6587/ab34f8) Plasma Phys. Control. Fusion 61, 105013 (2019)
 * F Riva, F Militello, S Elmore, J T Omotani, B Dudson, N R Walkden, and the MAST team [Three-dimensional plasma edge turbulence simulations of the Mega Ampere Spherical Tokamak and comparison with experimental measurements](https://doi.org/10.1088/1361-6587/ab3561) Plasma Phys. Control. Fusion 61, 095013 (2019)
+* B D Dudson, J Allen, T Body, B Chapman, C Lau, L Townley, D Moulton, J Harrison and B Lipschultz [The role of particle, energy and momentum losses in 1D simulations of divertor detachment](https://doi.org/10.1088/1361-6587/ab1321) Plasma Phys. Control. Fusion 61 065008 (2019). Data is [available on Zenodo](https://doi.org/10.5281/zenodo.1410281)
 
 2018
 ----
 
+* Helen H. Kaang, S. S. Kim, Hogun Jhang, and Juhyung Kim [Symmetry breaking induced by the parity change in global electromagnetic ion temperature gradient modes](https://doi.org/10.1063/1.5006981) Physics of Plasmas 25, 012505 (2018)
+* A. A. Stepanenko and S. I. Krasheninnikov [Numerical study of the current-convective instability driven by asymmetry of detachment in inner and outer divertors](https://doi.org/10.1063/1.5010932) Physics of Plasmas 25, 012305 (2018)
 * Y B Wu, T Y Xia, F C Zhong, Z Zheng, J B Liu and EAST team [Simulations of particle and heat fluxes in an ELMy H-mode discharge on EAST using BOUT++ code](https://doi.org/10.1088/1361-6587/aab52c) Plasma Phys. Control. Fusion 60 055007
 * I Romadanov, Y Raitses and A Smolyakov [Hall thruster operation with externally driven breathing mode oscillations](https://doi.org/10.1088/1361-6595/aadf06) Plasma Sources Sci. Technol. 27 094006
 * Chang-Bae Kim, Byunghoon Min, and Chan-Yong An [Localization of the eigenmode of the drift-resistive plasma by zonal flow](https://doi.org/10.1063/1.5048952) Physics of Plasmas 25, 102501
