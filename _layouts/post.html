@@ -20,11 +20,30 @@ layout: default
 
             <div class="divider"></div>
 
+	    <br>
+
+            <h5 class="center-align">{{ page.papertitle }}</h5>
+            <h5 class="center-align">{{ page.paperauthors }}</h5>
+            <h5 class="center-align">{{ page.paperreference }}</h5>
+
             <br>
 
             <div class="container">
                 <div class="container markdown-file post-content" itemprop="articleBody">
                     <div class="post">
+
+                        <div class="row">
+			    {% if page.image %}
+			    <div class="left">
+			        <img class="responsive-img materialboxed" src="{{ page.image }}" data-caption="{{ page.caption }}">
+			    </div>
+			    {% elsif page.video %}
+			    <div class="video-container">
+			        <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+			    </div>
+			    {% endif %}
+			</div>
+	            <div class="row">
                         {{ content }}
                     </div>
                 </div>
